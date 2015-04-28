@@ -1,0 +1,41 @@
+id;rulebook_id;name;type;effect 1;effect 2;effect 3;effect 4;special
+1;6;On higher ground;COMBAT_MODIFIER;HIT 1 [melee];;;;
+2;6;Flanking;COMBAT_MODIFIER;HIT 2 [melee];;;;
+3;6;Frightened;COMBAT_MODIFIER;HIT -2;;;;
+4;6;Dazzled;COMBAT_MODIFIER;HIT -1;;;;
+5;6;Frightened;COMBAT_MODIFIER;HIT -2;;;;
+6;6;Entangled;COMBAT_MODIFIER;HIT -2;DEX -4;;;
+7;6;Invisible;COMBAT_MODIFIER;HIT 2;CONCEAL 50;SKILL(Hide) 20;SKILL(Hide) 20 [when not moving];
+8;6;Concealed;COMBAT_MODIFIER;CONCEAL 20;;;;
+9;6;Behind cover;COMBAT_MODIFIER;AC 4;REFL 2 [burst];;;
+10;6;Behind improved cover;COMBAT_MODIFIER;AC 8;REFL 4 [burst];SKILL(Hide) 10;;improved evasion
+11;6;Kneeling or sitting;COMBAT_MODIFIER;AC -2 [melee];AC 2 [ranged];;;
+12;6;Prone;COMBAT_MODIFIER;AC -4 [melee];AC 4 [ranged];HIT -4 [melee];;
+13;6;Charging;COMBAT_MODIFIER;HIT 2;AC -2;DMG_MULT 2 [lance];;
+14;6;Squeezing through a space;COMBAT_MODIFIER;HIT -4;AC -4;;;
+15;6;Blinded;COMBAT_MODIFIER;AC -2;MAX_DEX 0;SPEED_MULT .2;;
+16;6;Cowering;COMBAT_MODIFIER;AC -2;MAX_DEX 0;;;
+17;6;Stunned;COMBAT_MODIFIER;AC -2;MAX_DEX 0;;;
+18;6;Flat-footed;COMBAT_MODIFIER;MAX_DEX 0;;;;
+19;6;Feinted;COMBAT_MODIFIER;MAX_DEX 0;;;;
+20;6;Grappling (but attacker is not);COMBAT_MODIFIER;MAX_DEX 0;;;;
+21;6;Pinned (but attacker is not);COMBAT_MODIFIER;AC -4 [melee];MAX_DEX -5;;;
+22;6;Helpless;COMBAT_MODIFIER;AC -4 [melee];MAX_DEX -5;;;
+23;6;Aided (AC);COMBAT_MODIFIER;AC 2;;;;
+24;6;Aided (HIT);COMBAT_MODIFIER;HIT 2;;;;
+25;6;Fighting defensively;COMBAT_MODIFIER;AC 2 dodge;HIT -4;;;
+26;6;Total defense;COMBAT_MODIFIER;AC 4 dodge;;;;
+27;6;Bless;SPELL;HIT 1;SAVES 1 [fear];;;
+28;6;Aid;SPELL;HIT 1;SAVES 1 [fear];HP_TEMP 1d8+1/lvl;;
+29;6;Bear's Endurance;SPELL;CON 4;;;;
+30;6;Bull's Strenght;SPELL;STR 4;;;;
+31;6;Cat's Grace;SPELL;DEX 4;;;;
+32;6;Eagle's Splendor;SPELL;CHA 4;;;;
+33;6;Fox's Cunning;SPELL;INT 4;;;;
+34;6;Owl's Wisdom;SPELL;WIS 4;;;;
+35;6;Barkskin +2;SPELL;AC 2 natural;;;;
+36;6;Barkskin +3;SPELL;AC 3 natural;;;;
+37;6;Barkskin +4;SPELL;AC 4 natural;;;;
+38;6;Flare;SPELL;HIT -1;;;;
+39;6;Haste;SPELL;SPEED 6;HIT 1;AC 1;REFL 1;EXTRA_ATK 1
+40;6;Slow;SPELL;HIT -2;AC -2;;;

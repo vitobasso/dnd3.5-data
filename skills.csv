@@ -1,0 +1,50 @@
+id;rulebook_id;name;key ability;armor penalty;untrained;synergy to
+1;6;Appraise;INT;;yes;
+2;6;Balance;DEX;yes;yes;
+3;6;Bluff;CHA;;yes;Diplomacy, Disguise [acting], Intimidate, Sleight of Hand
+4;6;Climb;STR;yes;yes;
+5;6;Concentration;CON;;yes;
+6;6;Craft (alchemy);INT;;yes;Appraise (alchemy)
+7;6;Craft (armor-smithing);INT;;yes;Appraise (armor-smithing)]
+8;6;Craft (bowmaking);INT;;yes;Appraise (bowmaking)
+9;6;Craft (blacksmithing);INT;;yes;Appraise (blacksmithing)
+10;6;Craft (trapmaking);INT;;yes;Appraise (trapmaking)
+11;6;Craft (weaponsmithing);INT;;yes;Appraise (weaponsmithing)
+12;6;Decipher Script;INT;;;Use Magic Device [scrolls]
+13;6;Diplomacy;CHA;;yes;
+14;6;Disable Device;INT;;yes;
+15;6;Disguise;CHA;;yes;
+16;6;Escape Artist;DEX;yes;yes;Use Rope [bindings]
+17;6;Forgery;INT;;yes;
+18;6;Gather Information;CHA;;yes;
+19;6;Handle Animal;CHA;;;Ride
+20;6;Heal;WIS;;yes;
+21;6;Hide;DEX;yes;yes;
+22;6;Intimidate;CHA;;yes;
+23;6;Jump;STR;;yes;Tumble
+24;6;Knowledge (arcana);INT;;;Spellcraft
+25;6;Knowledge (geography);INT;;;Survival [avoid getting lost, hazards]
+26;6;Knowledge (history);INT;;;
+27;6;Knowledge (nature);INT;;;Survival [aboveground natural]
+28;6;Knowledge (nobility and royality);INT;;;Diplomacy
+29;6;Knowledge (religion);INT;;;
+30;6;Knowledge (the planes);INT;;;Survival [other planes]
+31;6;Listen;WIS;;yes;
+32;6;Move Silently;DEX;yes;yes;
+33;6;Open Lock;DEX;;;
+34;6;Perform (act);CHA;;;
+35;6;Perform (dance);CHA;;;
+36;6;Perform (sing);CHA;;;
+37;6;Profession (cook);WIS;;;
+38;6;Profession (herbalist);WIS;;;
+39;6;Ride;DEX;;yes;
+40;6;Search;INT;;yes;Survival [tracks]
+41;6;Sense Motive;WIS;;yes;Diplomacy
+42;6;Sleight of Hand;DEX;yes;;
+43;6;Spellcraft;INT;;;Use Magic Device [scrolls]
+44;6;Spot;WIS;;yes;
+45;6;Survival;WIS;;yes;Knowledge (nature)
+46;6;Swim;STR;;yes;
+47;6;Tumble;DEX;yes;;Balance, Jump
+48;6;Use Magic Device;CHA;;;Spellcraft [scrolls]
+49;6;Use Rope;DEX;;yes;Climb [ropes], Escape Artist [ropes]

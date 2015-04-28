@@ -1,0 +1,994 @@
+id;rulebook_id;page;name;hit_die;skill_points;starting_gold;bab;fort;refl;will;prestige;required_bab;alignment
+917;4;108;Adept;6;2;2d4 x 10 gp;POOR;POOR;POOR;GOOD;0;;Any
+378;4;176;Arcane Archer;8;4;;GOOD;GOOD;GOOD;POOR;1;6;
+379;4;177;Arcane Trickster;4;4;;POOR;POOR;GOOD;GOOD;1;;any nonlawful
+380;4;178;Archmage;4;2;;POOR;POOR;POOR;GOOD;1;;
+31;4;108;Aristocrat;8;4;6d8 x 10 gp;AVERAGE;POOR;POOR;GOOD;0;;
+381;4;180;Assassin;6;4;;AVERAGE;POOR;GOOD;POOR;1;;Any evil
+382;4;181;Blackguard;10;2;;GOOD;GOOD;POOR;POOR;1;6;any evil
+32;4;109;Commoner;4;2;5d4;POOR;POOR;POOR;POOR;0;;
+383;4;183;Dragon Disciple;12;2;;AVERAGE;GOOD;POOR;GOOD;1;;
+384;4;185;Duelist;10;4;;GOOD;POOR;GOOD;POOR;1;6;
+385;4;186;Dwarven Defender;12;2;;GOOD;GOOD;POOR;GOOD;1;7;Any lawful
+386;4;187;Eldritch Knight;6;2;;GOOD;GOOD;POOR;POOR;1;;
+991;4;207;Epic Barbarian;12;4;;;;;;0;;Any chaotic
+33;4;109;Expert;6;6;3d4 x 10 gp;AVERAGE;POOR;POOR;GOOD;0;;
+387;4;188;Hierophant;8;2;;POOR;GOOD;POOR;GOOD;1;;
+388;4;189;Horizon Walker;8;4;;GOOD;GOOD;POOR;POOR;1;;
+389;4;191;Loremaster;4;4;;POOR;POOR;POOR;GOOD;1;;
+390;4;192;Mystic Theurge;4;2;;POOR;POOR;POOR;GOOD;1;;
+391;4;193;Red Wizard;4;2;;POOR;POOR;POOR;GOOD;1;;Any nongood
+392;4;194;Shadowdancer;8;6;;AVERAGE;POOR;GOOD;POOR;1;;
+393;4;196;Thaumaturgist;4;2;;POOR;POOR;POOR;GOOD;1;;
+34;4;109;Warrior;8;2;3d4 x 10 gp;GOOD;GOOD;POOR;POOR;0;;
+89;6;24;Barbarian;12;4;4d4 x 10;GOOD;GOOD;POOR;POOR;0;;
+90;6;26;Bard;6;6;4d4 x 10;AVERAGE;POOR;GOOD;GOOD;0;;Any Nonlawful
+91;6;30;Cleric;8;2;;AVERAGE;GOOD;POOR;GOOD;0;;Within one step of deity.  Exception: A cleric can only be neutral if his deity is also nuetral.
+92;6;33;Druid;8;4;;AVERAGE;GOOD;POOR;GOOD;0;;One aspect must be Neutral 
+93;6;37;Fighter;10;2;;GOOD;GOOD;POOR;POOR;0;;
+94;6;39;Monk;8;4;;AVERAGE;GOOD;GOOD;GOOD;0;;Any Lawful
+95;6;42;Paladin;10;2;;GOOD;GOOD;POOR;POOR;0;;Lawful Good
+96;6;46;Ranger;8;6;;GOOD;GOOD;GOOD;POOR;0;;Any
+97;6;49;Rogue;6;8;;AVERAGE;POOR;GOOD;POOR;0;;Any
+98;6;51;Sorcerer;4;2;;POOR;POOR;POOR;GOOD;0;;Any
+99;6;55;Wizard;4;2;;POOR;POOR;POOR;GOOD;0;;Any
+412;7;95;Black Dog;6;6;;AVERAGE;GOOD;GOOD;POOR;1;;
+413;7;99;Blade of Orien;8;4;;GOOD;POOR;GOOD;POOR;1;3;
+414;7;101;Cyre Scout;8;2;;AVERAGE;GOOD;POOR;GOOD;1;;
+415;7;105;Deneith Warden;10;4;;GOOD;GOOD;POOR;POOR;1;4;Any lawful
+416;7;107;Duraak'ash;8;6;;GOOD;GOOD;GOOD;POOR;1;4;
+417;7;110;Medani Prophet;6;4;;AVERAGE;POOR;POOR;GOOD;1;;
+418;7;114;Nosomatic Chirurgeon;8;2;;AVERAGE;GOOD;POOR;GOOD;1;;Any nongood
+419;7;117;Shadow Hunter;8;6;;GOOD;GOOD;GOOD;POOR;1;4;
+420;7;120;Silver Key;6;6;;AVERAGE;POOR;GOOD;GOOD;1;;
+421;7;124;Storm Sentry;10;4;;GOOD;GOOD;GOOD;POOR;1;4;
+422;7;127;Unbound Scroll;4;2;;POOR;POOR;POOR;GOOD;1;;
+423;7;130;Vadalis Beastkeeper;8;6;;GOOD;GOOD;GOOD;POOR;1;4;
+468;8;70;Argent Fist;10;4;;AVERAGE;GOOD;POOR;GOOD;1;5;Lawful good
+467;8;52;Escalation Mage;4;2;;POOR;GOOD;POOR;POOR;1;;
+470;8;105;Planar Shepherd;8;4;;;;;;1;;
+466;8;32;Sovereign Speaker;8;2;;AVERAGE;POOR;POOR;GOOD;1;;
+469;8;84;Thief of Life;6;6;;AVERAGE;GOOD;GOOD;POOR;1;;
+582;9;53;Alchemist Savant;4;2;;POOR;GOOD;POOR;POOR;1;;
+583;9;57;Deadgrim;8;4;;GOOD;POOR;POOR;GOOD;1;5;Any non-evil
+584;9;63;Dragon Prophet;4;4;;POOR;POOR;POOR;GOOD;1;;
+585;9;68;Elemental Scion of Zilargo;8;2;;AVERAGE;GOOD;POOR;POOR;1;5;
+586;9;73;Impure Prince;8;4;;GOOD;POOR;POOR;GOOD;1;;
+80;9;42;Psionic Artificer;0;;;;;;;0;;
+587;9;77;Quori Mindhunter;6;2;;AVERAGE;POOR;POOR;GOOD;1;;Any non-evil
+588;9;81;Renegade Mastermaker;6;4;;AVERAGE;GOOD;POOR;GOOD;1;;
+589;9;85;Vigilant Sentinel of Aerenal;8;6;;AVERAGE;POOR;GOOD;GOOD;1;;
+717;10;133;Atavist;10;4;;AVERAGE;POOR;GOOD;GOOD;1;;Lawful good or lawful neutral
+718;10;139;Cabinet Trickster;6;6;;AVERAGE;POOR;GOOD;GOOD;1;;
+719;10;143;Moonspeaker;8;4;;AVERAGE;GOOD;POOR;GOOD;1;;
+720;10;148;Quori Nightmare;8;4;;AVERAGE;POOR;POOR;GOOD;1;;
+721;10;153;Reachrunner;8;4;;GOOD;GOOD;GOOD;POOR;1;5;
+722;10;157;Recaster;4;2;;POOR;POOR;POOR;GOOD;1;;
+723;10;161;Reforged;8;4;;AVERAGE;POOR;POOR;GOOD;1;;
+724;10;166;Spellcarved Soldier;10;4;;GOOD;GOOD;POOR;GOOD;1;6;
+784;11;162;Cannith Wand Adept;8;2;;AVERAGE;POOR;POOR;GOOD;1;;
+785;11;163;Citadel Elite;8;4;;GOOD;POOR;POOR;GOOD;1;7;Any lawful
+786;11;165;Sharn Skymage;8;2;;POOR;POOR;POOR;GOOD;1;;
+111;11;167;Urban Adept;0;;;;;;;0;;
+36;12;29;Artificer;6;4;5d4 x 10gp;AVERAGE;POOR;POOR;GOOD;0;;Any
+37;12;33;Barbarian;0;;;;;;;0;;
+38;12;34;Bard;0;;;;;;;0;;
+39;12;34;Cleric;0;;;;;;;0;;
+434;12;73;Dragonmark Heir;8;4;;AVERAGE;GOOD;GOOD;GOOD;1;;
+40;12;36;Druid;0;;;;;;;0;;
+435;12;74;Eldeen Ranger;8;6;;GOOD;GOOD;GOOD;POOR;1;5;
+436;12;77;Exorcist of the Silver Flame;8;2;;GOOD;GOOD;POOR;GOOD;1;3;Any good
+437;12;79;Extreme Explorer;8;6;;AVERAGE;POOR;GOOD;POOR;1;4;
+41;12;38;Fighter;0;;;;;;;0;;
+438;12;80;Heir of Siberys;6;2;;AVERAGE;GOOD;GOOD;GOOD;1;;
+439;12;82;Master Inquisitive;8;6;;AVERAGE;POOR;GOOD;POOR;1;;
+42;12;38;Monk;0;;;;;;;0;;
+43;12;39;Paladin;0;;;;;;;0;;
+44;12;41;Ranger;0;;;;;;;0;;
+45;12;41;Rogue;0;;;;;;;0;;
+46;12;42;Sorcerer;0;;;;;;;0;;
+440;12;83;Warforged Juggernaut;12;2;;AVERAGE;GOOD;POOR;POOR;1;5;
+441;12;85;Weretouched Master;8;2;;AVERAGE;GOOD;GOOD;POOR;1;4;
+47;12;42;Wizard;0;;;;;;;0;;
+652;13;88;Gatekeeper Mystagogue;8;4;;AVERAGE;POOR;POOR;GOOD;1;4;Any non-evil
+653;13;104;High Elemental Binder;6;2;;AVERAGE;POOR;POOR;GOOD;1;;
+654;13;142;Revenant Blade;8;4;;GOOD;POOR;POOR;GOOD;1;5;
+814;14;119;Fist of Dal Quor;10;2;;AVERAGE;GOOD;POOR;GOOD;1;4;
+815;14;122;Haztaratain;8;4;;AVERAGE;POOR;GOOD;GOOD;1;;
+833;15;123;Landforged Walker;8;4;;AVERAGE;GOOD;POOR;POOR;1;;
+834;15;127;Primal Scholar;4;4;;POOR;POOR;POOR;GOOD;1;;
+835;15;130;Scorpion Wraith;8;6;;GOOD;POOR;GOOD;POOR;1;4;
+302;16;77;Gray Hand Enforcer;10;2;;;;;;1;7;Any nonevil
+303;16;81;Knight of the Blue Moon;8;2;;;;;;1;4;Any good
+304;16;84;Moonstar Agent;6;4;;;;;;1;;Any
+305;16;88;Sun Soul Monk;8;4;;AVERAGE;POOR;GOOD;GOOD;1;;Lawful good or lawful neutral
+479;18;182;Arachne;0;;;;;;;1;;
+480;18;184;Auspician;0;;;;;;;1;;
+481;18;186;Doomguide;0;;;;;;;1;;
+482;18;188;Dreadmaster;0;;;;;;;1;;
+483;18;189;Dweomerkeeper;0;;;;;;;1;;
+484;18;190;Elemental Archon;0;;;;;;;1;;
+485;18;193;Forest Master;0;;;;;;;1;;
+486;18;194;Goldeye;0;;;;;;;1;;
+487;18;196;Heartwarder;0;;;;;;;1;;
+488;18;197;Horned Harbinger;0;;;;;;;1;;
+489;18;198;Nightcloak;0;;;;;;;1;;
+490;18;200;Ocular Adept;0;;;;;;;1;;
+491;18;201;Silverstar;0;;;;;;;1;;
+492;18;203;Stormlord;0;;;;;;;1;;
+493;18;204;Strifeleader;0;;;;;;;1;;
+494;18;205;Sword Dancer;0;;;;;;;1;;
+495;18;206;Techsmith;0;;;;;;;1;;
+496;18;209;Waveservant;0;;;;;;;1;;
+497;18;210;Wearer of Purple;0;;;;;;;1;;
+498;18;212;Windwalker;0;;;;;;;1;;
+509;19;40;Arcane Devotee;0;2;;POOR;POOR;POOR;GOOD;1;;
+510;19;41;Archmage;0;;;;;;;1;;
+61;19;22;Barbarian;0;;;;;;;0;;
+62;19;22;Bard;0;;;;;;;0;;
+63;19;22;Cleric;0;;;;;;;0;;
+511;19;42;Divine Champion;0;;;;;;;1;;
+512;19;43;Divine Disciple;0;;;;;;;1;;
+513;19;44;Divine Seeker;0;;;;;;;1;;
+64;19;23;Druid;0;;;;;;;0;;
+65;19;24;Fighter;0;;;;;;;0;;
+514;19;45;Guild Thief;0;;;;;;;1;;
+515;19;46;Harper Scout;0;;;;;;;1;;
+516;19;47;Hathran;0;;;;;;;1;;
+517;19;48;Hierophant;0;;;;;;;1;;
+66;19;24;Monk;0;;;;;;;0;;
+67;19;25;Paladin;0;;;;;;;0;;
+518;19;49;Purple Dragon Knight;0;;;;;;;1;;
+68;19;26;Ranger;0;;;;;;;0;;
+519;19;50;Red Wizard;0;;;;;;;1;;
+69;19;26;Rogue;0;;;;;;;0;;
+520;19;51;Runecaster;0;;;;;;;1;;
+521;19;52;Shadow Adept;0;;;;;;;1;;
+70;19;27;Sorcerer;0;;;;;;;0;;
+71;19;27;Wizard;0;;;;;;;0;;
+564;20;23;Gnome Artificer;0;;;;;;;1;;
+565;20;26;Guild Wizard of Waterdeep;0;;;;;;;1;;
+566;20;28;Harper Mage;0;;;;;;;1;;
+567;20;29;Harper Priest;0;;;;;;;1;;
+568;20;31;Incantatrix;4;2;;POOR;POOR;POOR;GOOD;1;;
+569;20;32;Mage-killer;0;;;;;;;1;;
+570;20;34;Master Alchemist;0;;;;;;;1;;
+571;20;35;Mystic Wanderer;0;;;;;;;1;;
+572;20;37;Spelldancer;0;;;;;;;1;;
+573;20;38;Spellfire Channeler;0;;;;;;;1;;
+574;20;40;War Wizard of Cormyr;4;2;;POOR;GOOD;POOR;GOOD;1;;
+600;21;21;Beholder Mage;0;;;;;;;1;;
+657;22;48;Arcane Devotee;4;2;;POOR;POOR;POOR;GOOD;1;;
+658;22;177;Black Blood Hunter;0;;;;;;;1;;
+659;22;178;Celebrant of Sharess;0;;;;;;;1;;
+660;22;174;Cognition Thief;0;;;;;;;1;;
+661;22;49;Divine Champion;10;2;;GOOD;GOOD;POOR;POOR;1;7;
+662;22;51;Divine Disciple;8;2;;AVERAGE;GOOD;POOR;GOOD;1;;
+663;22;52;Divine Seeker;6;4;;AVERAGE;POOR;GOOD;GOOD;1;;
+664;22;53;Evereskan Tomb Guardian;6;4;;AVERAGE;POOR;GOOD;GOOD;1;4;
+665;22;54;Eye of Horus-re;8;2;;AVERAGE;POOR;POOR;GOOD;1;;Lawful good
+666;22;56;Hammer of Moradin;10;2;;GOOD;GOOD;POOR;GOOD;1;7;
+667;22;58;Harper Agent;6;6;;AVERAGE;POOR;POOR;GOOD;1;;Any nonevil
+668;22;181;Harper Paragon;0;;;;;;;1;;
+669;22;59;Hathran;4;2;;POOR;GOOD;POOR;GOOD;1;;Lawful good, lawful neutral, or neutral good
+670;22;61;Incantatrix;4;2;;POOR;POOR;POOR;GOOD;1;;
+671;22;63;Justiciar of Tyr;8;2;;AVERAGE;GOOD;POOR;GOOD;1;5;Lawful good
+672;22;182;Maiden of Pain;0;;;;;;;1;;
+673;22;184;Martyred Champion of Ilmater;0;;;;;;;1;;
+674;22;65;Monk of the Long Death;8;4;;AVERAGE;POOR;GOOD;GOOD;1;;Any nongood
+675;22;66;Morninglord of Lathander;8;2;;AVERAGE;GOOD;POOR;GOOD;1;;Any good
+676;22;68;Purple Dragon Knight;10;2;;GOOD;GOOD;POOR;POOR;1;4;Any nonevil and nonchaotic
+677;22;69;Runecaster;8;2;;AVERAGE;GOOD;POOR;GOOD;1;;
+678;22;71;Shaaryan Hunter;10;4;;GOOD;GOOD;GOOD;POOR;1;5;
+679;22;72;Shadow Adept;4;2;;POOR;POOR;POOR;GOOD;1;;Any nongood
+680;22;74;Shadow Thief of Amn;6;6;;AVERAGE;POOR;GOOD;POOR;1;;
+681;22;186;Slime Lord;0;;;;;;;1;;
+682;22;75;Spellguard of Silverymoon;4;2;;POOR;POOR;POOR;GOOD;1;;Any nonevil
+683;22;187;Yathrinshee;0;;;;;;;1;;
+684;22;77;Zhentarim Spy;6;6;;AVERAGE;POOR;GOOD;GOOD;1;5;Any evil
+694;23;178;Battlerager;0;;;;;;;1;;
+695;23;179;Bladesinger;0;;;;;;;1;;
+696;23;181;Breachgnome;0;;;;;;;1;;
+697;23;182;Elven High Mage;0;;;;;;;1;;
+698;23;183;Great Rift Skyguard;0;;;;;;;1;;
+699;23;184;Orc Warlord;0;;;;;;;1;;
+700;23;185;Spellsinger;0;;;;;;;1;;
+701;23;186;Warrior Skald;0;;;;;;;1;;
+702;23;188;Warsling Sniper;0;;;;;;;1;;
+802;24;159;Ancient Master;8;4;;POOR;POOR;POOR;GOOD;1;9;Any evil (usually chaotic evil)
+803;24;161;Coiled Cabalist;8;2;;POOR;POOR;POOR;GOOD;1;7;Any evil (usually chaotic evil)
+804;24;162;Fang of Sseth;8;2;;AVERAGE;POOR;GOOD;POOR;1;7;Any evil (usually chaotic evil)
+805;24;163;Master of Vipers;8;6;;AVERAGE;GOOD;POOR;POOR;1;7;Any evil (usually chaotic evil)
+806;24;165;Naga Overlord;8;2;;AVERAGE;POOR;POOR;GOOD;1;;Any evil
+807;24;166;Serpent Slayer;8;2;;POOR;GOOD;POOR;GOOD;1;6;
+791;25;23;Crinti Shadow Marauder;8;4;;AVERAGE;POOR;GOOD;POOR;1;;Any nongood
+792;25;24;Great Rift Deep Defender;12;2;;GOOD;GOOD;POOR;GOOD;1;7;Any lawful
+793;25;26;Great Sea Corsair;0;;;;;;;1;;
+794;25;27;Halruaan Elder;4;2;;POOR;POOR;POOR;GOOD;1;;
+795;25;29;Halruaan Magehound;4;2;;POOR;POOR;POOR;GOOD;1;;
+796;25;31;Hand of the Adama;8;2;;AVERAGE;POOR;POOR;GOOD;1;;Lawful good or lawful neutral.
+797;25;32;Hin Fist;0;;;;;;;1;;Lawful good
+798;25;33;Jordain Vizier;6;8;;AVERAGE;POOR;POOR;GOOD;1;;Any lawful
+799;25;35;Luiren Marchwarden;8;6;;GOOD;GOOD;GOOD;POOR;1;4;Any nonevil
+800;25;38;Maquar Crusader;8;2;;GOOD;GOOD;GOOD;POOR;1;5;Lawful good or lawful neutral
+801;25;40;Scourge Maiden;8;2;;GOOD;GOOD;POOR;GOOD;1;4;Lawful evil, lawful neutral, or neutral evil
+424;26;67;Wearer of Purple;0;;;;;;;1;;
+283;27;44;Black Blood Cultist;12;4;;AVERAGE;GOOD;GOOD;POOR;1;;Chaotic evil, chaotic neutral, or neutral evil
+928;27;38;Dukar;4;2;;;;;;0;;
+284;27;48;Justice of Weald and Woe;8;4;;AVERAGE;;;;1;6;Any
+285;27;53;Night Mask Deathbringer;6;8;;AVERAGE;POOR;GOOD;POOR;1;;Any evil
+286;27;58;Shade Hunter;8;8;;AVERAGE;GOOD;GOOD;POOR;1;;Any evil
+287;27;63;Thayan Gladiator;12;2;;GOOD;GOOD;POOR;POOR;1;5;Any evil
+288;27;67;Vengeance Knight;10;2;;GOOD;GOOD;POOR;POOR;1;5;Lawful evil, lawful neutral, or neutral evil
+923;28;35;Berronar Valkyrie (Paladin);10;2;;GOOD;;;;0;;
+924;28;36;Broken One (Monk);8;4;;AVERAGE;;;;0;;
+925;28;36;Claw of the Sun and the Ankh (Paladin);10;2;;;GOOD;POOR;POOR;0;;
+926;28;37;Crescent Moon Knight (Paladin);10;2;;;;;;0;;
+927;28;38;Darksong Knight (Fighter);8;2;;;;;;0;;
+929;28;39;Eternal Order (Paladin);10;2;;GOOD;GOOD;POOR;POOR;0;;
+930;28;40;Fangshields Barbarian;12;4;;GOOD;;;;0;;
+931;28;40;Fangshields Druid;8;4;;;;;;0;;
+932;28;41;Fangshields Ranger;8;6;;;;;;0;;
+933;28;42;Golden Cup (Paladin);10;2;;GOOD;;;;0;;
+934;28;43;Golden Lion (Paladin);10;2;;;GOOD;POOR;POOR;0;;
+935;28;44;Holy Judge (Paladin);10;2;;;GOOD;POOR;POOR;0;;
+919;28;106;Knight of the Flying Hunt;10;2;;GOOD;GOOD;POOR;GOOD;1;7;Lawful good, neutral good, or lawful neutral
+920;28;111;Knight of the Weave;8;2;;AVERAGE;GOOD;POOR;GOOD;1;;Any non-evil
+936;28;44;Lion Legionnaire (Paladin);10;2;;GOOD;;;;0;;
+921;28;117;Moonsea Skysentinel;8;2;;GOOD;GOOD;POOR;POOR;1;5;
+937;28;45;Mystic Fire Knight (Paladin);8;2;;;;;;0;;
+938;28;46;Noble Heart (Paladin);10;2;;GOOD;;;;0;;
+939;28;46;Phoenix Disciple (Monk);8;4;;AVERAGE;GOOD;GOOD;;0;;
+940;28;47;Purple Staff (Cleric);8;2;;;;;;0;;
+941;28;48;Red Falcon (Paladin);10;2;;;;;;0;;
+942;28;49;Ruby Rose Knight (Paladin);8;2;;GOOD;;;;0;;
+943;28;49;Shadow Sword (Ranger);8;6;;;;;;0;;
+944;28;50;Shooting Star (Ranger);8;6;;GOOD;;;;0;;
+922;28;122;Triadic Knight;10;2;;GOOD;GOOD;POOR;POOR;1;5;Lawful good
+945;28;51;Vigilant Eye of Helm (Paladin);10;2;;GOOD;GOOD;POOR;POOR;0;;
+946;28;51;Wary Swordknight (Paladin);10;4;;GOOD;;;;0;;
+540;30;10;Cultist of the Shattered Peak;6;6;;AVERAGE;POOR;GOOD;GOOD;1;5;
+541;30;13;Glorious Servitor;8;2;;AVERAGE;POOR;POOR;GOOD;1;7;Any
+542;30;17;Magelord;4;2;;;;;;1;0;Any
+543;30;21;Olin Gisir;4;2;;POOR;POOR;POOR;GOOD;1;;
+544;30;25;Sunmaster;8;2;;AVERAGE;GOOD;POOR;GOOD;1;;Any lawful
+655;31;108;Court Herald;4;4;;POOR;POOR;;GOOD;1;;
+656;31;71;Merchant Prince;6;6;;AVERAGE;POOR;GOOD;POOR;1;;
+883;33;18;Aglarondan Griffonrider;8;2;;GOOD;POOR;GOOD;POOR;1;3;Any nonevil
+884;33;21;Black Flame Zealot;0;;;;;;;1;;
+885;33;22;Durthan;4;2;;POOR;POOR;POOR;GOOD;1;;Any nongood
+886;33;24;Master of the Yuirwood;8;4;;AVERAGE;GOOD;POOR;POOR;1;;Any nonevil
+887;33;25;Nar Demonbinder;6;2;;POOR;POOR;POOR;GOOD;1;;
+888;33;28;Nentyar Hunter;6;4;;;;;;1;;Any nonevil
+889;33;29;Raumathari Battlemage;4;2;;AVERAGE;POOR;POOR;GOOD;1;;
+890;33;31;Runescarred Berserker;10;4;;GOOD;GOOD;POOR;POOR;1;7;
+891;33;32;Shou Disciple;10;2;;GOOD;GOOD;GOOD;POOR;1;3;
+892;33;34;Talontar Blightlord;8;2;;AVERAGE;GOOD;POOR;GOOD;1;;Any evil
+893;33;36;Telflammar Shadowlord;6;4;;AVERAGE;POOR;GOOD;POOR;1;;Any nongood
+894;33;37;Thayan Slaver;6;4;;AVERAGE;POOR;GOOD;POOR;1;;Any evil
+895;34;28;Arachnomancer;6;4;;AVERAGE;POOR;GOOD;POOR;1;;Any evil
+896;34;30;Cavelord;10;4;;GOOD;GOOD;GOOD;POOR;1;;
+897;34;32;Deep Diviner;4;2;;POOR;POOR;POOR;GOOD;1;;
+898;34;33;Drow Judicator;8;2;;GOOD;GOOD;POOR;POOR;1;5;Any evil
+899;34;35;Illithid Body Tamer;10;2;;GOOD;GOOD;GOOD;POOR;1;6;
+900;34;37;Imaskari Vengeance Taker;6;4;;AVERAGE;POOR;GOOD;GOOD;1;;Any lawful
+901;34;39;Inquisitor of the Drowning Goddess;8;4;;AVERAGE;GOOD;GOOD;GOOD;1;;Lawful evil or lawful neutral
+902;34;40;Prime Underdark Guide;6;4;;AVERAGE;GOOD;GOOD;POOR;1;;Any nonevil
+903;34;42;Sea Mother Whip;8;2;;AVERAGE;GOOD;POOR;GOOD;1;;Lawful evil, neutral evil, chaotic evil, or neutral
+904;34;43;Shadowcrafter;4;2;;POOR;POOR;POOR;GOOD;1;;
+905;34;44;Vermin Keeper;8;4;;AVERAGE;GOOD;POOR;GOOD;1;;
+906;34;46;Yathchol Webrider;8;6;;AVERAGE;POOR;GOOD;POOR;1;;
+180;37;52;Cancer Mage;6;6;;AVERAGE;GOOD;POOR;POOR;1;;Any evil
+163;37;54;Demonologist;4;4;;POOR;POOR;POOR;GOOD;1;;Chaotic evil
+164;37;56;Diabolist;4;2;;POOR;POOR;POOR;GOOD;1;;Lawful evil
+165;37;57;Disciple of Asmodeus;6;4;;AVERAGE;POOR;POOR;GOOD;1;;Lawful evil or neutral evil
+166;37;58;Disciple of Baalzebul;6;6;;AVERAGE;POOR;GOOD;GOOD;1;;Any evil
+167;37;60;Disciple of Dispater;10;4;;AVERAGE;GOOD;GOOD;GOOD;1;6;Any evil
+168;37;60;Disciple of Mammon;6;4;;GOOD;POOR;GOOD;GOOD;1;4;Any evil
+169;37;62;Disciple of Mephistopheles;8;4;;AVERAGE;GOOD;GOOD;GOOD;1;6;Any evil
+170;37;63;Lifedrinker;12;4;;AVERAGE;GOOD;GOOD;GOOD;1;;Any Evil
+171;37;64;Mortal Hunter;10;4;;GOOD;GOOD;POOR;POOR;1;5;Any evil
+172;37;66;Soul Eater;8;4;;GOOD;GOOD;GOOD;GOOD;1;5;Any evil
+173;37;67;Thrall of Demogorgon;8;4;;AVERAGE;GOOD;POOR;POOR;1;4;Chaotic evil
+174;37;68;Thrall of Graz'zt;6;4;;AVERAGE;POOR;POOR;GOOD;1;;Any evil
+175;37;70;Thrall of Juiblex;10;2;;GOOD;GOOD;GOOD;GOOD;1;;Any Evil
+176;37;71;Thrall of Orcus;8;2;;GOOD;GOOD;POOR;GOOD;1;4;Any evil
+177;37;72;Ur-priest;8;2;;AVERAGE;POOR;POOR;GOOD;1;;Any evil
+178;37;73;Vermin Lord;6;4;;POOR;POOR;POOR;GOOD;1;;Any evil
+179;37;75;Warrior of Darkness;10;4;;GOOD;GOOD;POOR;GOOD;1;5;Any evil
+357;38;51;Church Inquisitor;8;2;;AVERAGE;GOOD;POOR;GOOD;1;;Lawful good or lawful neutral
+358;38;52;Consecrated Harrier;10;4;;GOOD;POOR;POOR;GOOD;1;5;Any lawful
+359;38;54;Contemplative;6;2;;POOR;POOR;POOR;GOOD;1;;
+360;38;56;Divine Oracle;6;2;;POOR;POOR;POOR;GOOD;1;;
+361;38;57;Holy Liberator;10;2;;GOOD;GOOD;POOR;GOOD;1;5;Chaotic good
+362;38;60;Hospitaler;8;2;;GOOD;GOOD;POOR;POOR;1;4;Any nonchaotic
+363;38;62;Hunter of the Dead;8;2;;GOOD;GOOD;POOR;POOR;1;5;Any nonevil
+364;38;63;Knight of the Chalice;12;2;;GOOD;GOOD;POOR;GOOD;1;8;Lawful good
+365;38;65;Knight of the Middle Circle;10;4;;GOOD;POOR;POOR;GOOD;1;6;Good. nonchaotic
+366;38;66;Master of Shrouds;8;2;;GOOD;POOR;POOR;GOOD;1;;Any nongood
+367;38;68;Sacred Exorcist;8;2;;AVERAGE;POOR;POOR;GOOD;1;;Any good
+368;38;70;Sacred Fist;8;4;;GOOD;GOOD;GOOD;POOR;1;4;
+369;38;72;Templar;10;2;;GOOD;GOOD;POOR;GOOD;1;5;
+370;38;74;Warpriest;8;2;;GOOD;GOOD;POOR;POOR;1;5;
+354;39;201;Berserk;0;;;;;;;1;;
+355;39;205;Justiciar of Taiia;0;;;;;;;1;;
+356;39;208;Soldier of Light;0;;;;;;;1;;
+447;41;24;Agent Retriever;0;;;;;;;1;;
+448;41;26;Cosmic Descryer;0;;;;;;;1;;
+449;41;27;Divine Emissary;0;;;;;;;1;;
+450;41;17;Epic Arcane Archer;0;;;;;;;1;;
+451;41;18;Epic Assassin;0;;;;;;;1;;
+48;41;8;Epic Barbarian;0;;;;;;;0;;
+49;41;9;Epic Bard;0;;;;;;;0;;
+452;41;19;Epic Blackguard;0;;;;;;;1;;
+50;41;10;Epic Cleric;0;;;;;;;0;;
+51;41;10;Epic Druid;0;;;;;;;0;;
+453;41;20;Epic Dwarven Defender;0;;;;;;;1;;
+52;41;11;Epic Fighter;0;;;;;;;0;;
+454;41;28;Epic Infiltrator;0;;;;;;;1;;
+455;41;20;Epic Loremaster;0;;;;;;;1;;
+53;41;12;Epic Monk;0;;;;;;;0;;
+54;41;13;Epic Paladin;0;;;;;;;0;;
+55;41;22;Epic Psion;0;;;;;;;0;;
+56;41;23;Epic Psychic Warrior;0;;;;;;;0;;
+57;41;14;Epic Ranger;0;;;;;;;0;;
+58;41;14;Epic Rogue;0;;;;;;;0;;
+456;41;21;Epic Shadowdancer;0;;;;;;;1;;
+59;41;15;Epic Sorcerer;0;;;;;;;0;;
+60;41;16;Epic Wizard;0;;;;;;;0;;
+457;41;30;Guardian Paramount;0;;;;;;;1;;
+458;41;31;High Proselytizer;0;;;;;;;1;;
+459;41;33;Legendary Dreadnought;0;;;;;;;1;;
+460;41;34;Perfect Wight;0;;;;;;;1;;
+461;41;35;Union Sentinel;0;;;;;;;1;;
+471;42;200;Fiend of Blasphemy;0;;;;;;;1;;
+472;42;202;Fiend of Corruption;0;;;;;;;1;;
+473;42;204;Fiend of Possession;0;;;;;;;1;;
+601;43;24;Divine Agent;8;4;;AVERAGE;POOR;POOR;GOOD;1;4;
+602;43;26;Gatecrasher;6;8;;AVERAGE;POOR;GOOD;GOOD;1;;Any nonlawful
+603;43;28;Planar Champion;10;4;;GOOD;GOOD;GOOD;POOR;1;6;
+604;43;30;Planeshifter;4;4;;POOR;GOOD;POOR;POOR;1;;
+605;44;43;Animal Lord;8;2;;AVERAGE;GOOD;GOOD;POOR;1;;Neutral good, lawful netural, neutral, chaotic neutral, or neutral evil
+606;44;46;Bane of Infidels;8;4;;AVERAGE;GOOD;POOR;GOOD;1;;Any nongood
+607;44;48;Blighter;8;4;;AVERAGE;GOOD;POOR;GOOD;1;;Any nongood
+608;44;49;Bloodhound;10;6;;GOOD;POOR;GOOD;POOR;1;4;
+609;44;52;Deepwood Sniper;8;4;;GOOD;POOR;GOOD;POOR;1;5;
+610;44;53;Exotic Weapon Master;10;2;;GOOD;GOOD;POOR;POOR;1;6;
+611;44;54;Eye of Gruumsh;12;2;;GOOD;GOOD;POOR;POOR;1;6;chaotic evil, chaotic neutral, neutral evil
+612;44;56;Foe Hunter;10;4;;AVERAGE;GOOD;GOOD;POOR;1;7;
+613;44;57;Forsaker;12;2;;GOOD;GOOD;POOR;GOOD;1;;
+614;44;59;Frenzied Berserker;12;2;;GOOD;GOOD;POOR;POOR;1;6;Any nonlawful
+615;44;60;Geomancer;6;4;;AVERAGE;GOOD;POOR;GOOD;1;;
+616;44;63;Hexer;6;2;;GOOD;POOR;POOR;GOOD;1;;Any nongood
+617;44;65;King/queen of the Wild;12;4;;GOOD;GOOD;POOR;GOOD;1;;
+618;44;67;Oozemaster;8;4;;AVERAGE;GOOD;POOR;POOR;1;;
+619;44;68;Shifter;8;4;;AVERAGE;GOOD;GOOD;POOR;1;;
+620;44;70;Tamer of Beasts;8;4;;AVERAGE;GOOD;GOOD;POOR;1;;
+621;44;72;Tempest;10;2;;GOOD;GOOD;POOR;POOR;1;9;
+622;44;73;Verdant Lord;8;4;;GOOD;GOOD;POOR;GOOD;1;;Any nonevil
+623;44;75;Watch Detective;8;6;;AVERAGE;POOR;GOOD;GOOD;1;;Any nonevil
+624;44;77;Windrider;10;2;;GOOD;GOOD;POOR;GOOD;1;5;
+816;47;75;Emancipated Spawn;12;2;;AVERAGE;POOR;POOR;GOOD;1;3;
+817;47;77;Illithid Savant;4;2;;POOR;POOR;POOR;GOOD;1;;
+818;47;80;Master of Flies;8;6;;AVERAGE;POOR;POOR;GOOD;1;;Any nongood
+948;47;190;Pixie;6;;;;POOR;GOOD;GOOD;0;;
+819;47;83;Scaled Horror;10;4;;AVERAGE;GOOD;POOR;POOR;1;5;
+820;47;84;Siren;4;4;;AVERAGE;POOR;POOR;GOOD;1;;
+821;47;87;Slaad Brooder;8;2;;GOOD;GOOD;POOR;GOOD;1;;Any Chaotic
+822;47;89;Survivor;6;2;;;GOOD;GOOD;GOOD;1;;
+823;47;90;Sybil;4;6;;POOR;POOR;POOR;GOOD;1;;Neutral
+824;47;93;Waverider;10;2;;GOOD;GOOD;POOR;GOOD;1;5;
+825;47;97;Yuan-ti Cultist;4;2;;AVERAGE;GOOD;POOR;GOOD;1;;
+755;48;5;Dread Pirate;6;6;;GOOD;POOR;GOOD;POOR;1;4;Any nonlawful
+756;48;7;Dungeon Delver;6;8;;AVERAGE;GOOD;GOOD;POOR;1;;
+757;48;8;Fang of Lolth;6;6;;AVERAGE;POOR;GOOD;POOR;1;5;Any nonlawful and nongood
+758;48;10;Outlaw of the Crimson Road;6;6;;AVERAGE;GOOD;GOOD;POOR;1;4;
+759;48;13;Royal Explorer;8;6;;AVERAGE;GOOD;GOOD;POOR;1;;
+760;48;14;Spymaster;8;8;;AVERAGE;GOOD;GOOD;POOR;1;5;
+761;48;16;Temple Raider of Olidammara;6;4;;;;;;1;5;Any chaotic
+762;48;18;Thief-acrobat;6;6;;;;;;1;;Any nonlawful.
+763;48;20;Vigilante;6;6;;AVERAGE;POOR;GOOD;GOOD;1;4;Any nonevil
+764;48;22;Virtuoso;6;4;;AVERAGE;POOR;GOOD;GOOD;1;;
+765;50;12;Cavalier;10;2;;GOOD;GOOD;POOR;GOOD;1;8;Lawful
+766;50;13;Devoted Defender;12;2;;GOOD;GOOD;GOOD;POOR;1;5;
+767;50;14;Drunken Master;8;4;;GOOD;GOOD;GOOD;POOR;1;4;
+768;50;17;Duelist;10;4;;GOOD;POOR;GOOD;POOR;1;6;
+769;50;18;Fist of Hextor;10;2;;GOOD;GOOD;POOR;POOR;1;5;Lawful evil, neutral evil, or lawful neutral.
+770;50;20;Ghostwalker;10;4;;GOOD;GOOD;POOR;GOOD;1;6;Lawful good, lawful evil, chaotic good, chaotic evil, or true neutral.
+771;50;21;Gladiator;10;4;;GOOD;GOOD;POOR;POOR;1;5;
+772;50;22;Halfling Outrider;10;2;;;POOR;GOOD;POOR;1;5;
+773;50;24;Knight Protector of the Great Kingdom;10;2;;GOOD;POOR;POOR;GOOD;1;4;Lawful
+774;50;25;Lasher;10;2;;GOOD;POOR;GOOD;POOR;1;5;
+775;50;27;Master of Chains;10;4;;GOOD;POOR;GOOD;POOR;1;;Any nongood
+776;50;29;Master Samurai;12;2;;GOOD;POOR;GOOD;GOOD;1;5;
+777;50;30;Ninja of the Crescent Moon;8;4;;AVERAGE;POOR;GOOD;POOR;1;6;
+778;50;32;Order of the Bow Initiate;10;2;;GOOD;POOR;GOOD;GOOD;1;5;
+779;50;33;Ravager;10;2;;GOOD;GOOD;POOR;POOR;1;5;Chaotic evil, chaotic neutral, neutral evil
+780;50;34;Red Avenger;8;4;;GOOD;GOOD;GOOD;GOOD;1;5;
+781;50;35;Tribal Protector;10;2;;GOOD;GOOD;GOOD;POOR;1;5;The same alignment as the majority of the character�s tribe.
+782;50;37;Warmaster;10;4;;GOOD;GOOD;POOR;POOR;1;7;Any nonchaotic, nonevil.
+783;50;38;Weapon Master;10;2;;GOOD;POOR;GOOD;POOR;1;5;
+836;51;43;Acolyte of the Skin;4;2;;POOR;GOOD;POOR;GOOD;1;;Any nongood
+837;51;45;Alienist;4;2;;POOR;POOR;POOR;GOOD;1;;
+838;51;47;Arcane Trickster;4;4;;POOR;POOR;GOOD;GOOD;1;;Any nonlawful
+839;51;49;Bladesinger;8;2;;GOOD;POOR;GOOD;GOOD;1;5;
+840;51;50;Blood Magus;4;2;;POOR;GOOD;POOR;POOR;1;;Any nonlawful
+841;51;52;Candle Caster;0;;;;;;;1;;
+842;51;55;Dragon Disciple;0;;;;;;;1;;
+843;51;57;Elemental Savant;0;;;;;;;1;;
+844;51;58;Fatespinner;0;;;;;;;1;;
+845;51;60;Mage of the Arcane Order;0;;;;;;;1;;
+846;51;63;Mindbender;0;;;;;;;1;;
+847;51;64;Pale Master;0;;;;;;;1;;
+848;51;67;Spellsword;0;;;;;;;1;;
+849;51;69;True Necromancer;0;;;;;;;1;;
+850;51;70;Wayfarer Guide;0;;;;;;;1;;
+159;52;49;Anointed Knight;10;2;;GOOD;GOOD;POOR;GOOD;1;5;Any good.
+141;52;51;Apostle of Peace;4;4;;POOR;GOOD;GOOD;GOOD;1;;Any good. 
+160;52;53;Beloved of Valarian;10;2;;GOOD;GOOD;POOR;POOR;1;7;Any good. 
+161;52;55;Celestial Mystic;4;4;;AVERAGE;POOR;POOR;GOOD;1;;Lawful good.
+162;52;56;Champion of Gwynharwyf;12;4;;GOOD;GOOD;POOR;POOR;1;6;Chaotic good.
+142;52;58;Defender of Sealtiel;12;2;;GOOD;GOOD;POOR;GOOD;1;7;Lawful good.
+143;52;59;Emissary of Barachiel;6;4;;AVERAGE;POOR;POOR;GOOD;1;;Lawful good.
+144;52;61;Exalted Arcanist;4;4;;AVERAGE;POOR;POOR;GOOD;1;;Any good. 
+145;52;62;Fist of Raziel;10;2;;GOOD;GOOD;POOR;POOR;1;6;Lawful good
+146;52;64;Initiate of Pistis Sophia;8;4;;AVERAGE;GOOD;GOOD;GOOD;1;;Lawful good
+147;52;65;Lion of Talisid;8;4;;AVERAGE;GOOD;POOR;GOOD;1;4;Neutral good
+148;52;66;Prophet of Erathaoi;6;2;;POOR;GOOD;GOOD;GOOD;1;;Lawful good
+149;52;68;Risen Martyr;12;2;;POOR;POOR;POOR;GOOD;1;;Any good
+150;52;69;Sentinel of Bharrai;4;4;;POOR;POOR;POOR;GOOD;1;;Any good
+151;52;71;Skylord;10;2;;GOOD;GOOD;GOOD;POOR;1;7;Any good
+152;52;73;Slayer of Domiel;6;4;;AVERAGE;POOR;GOOD;POOR;1;;Lawful good
+153;52;75;Stalker of Kharash;8;6;;GOOD;POOR;GOOD;POOR;1;;Neutral good
+154;52;76;Swanmay;8;4;;GOOD;GOOD;POOR;POOR;1;;Any good
+155;52;77;Sword of Righteousness;8;4;;GOOD;GOOD;POOR;GOOD;1;6;Any good
+156;52;78;Troubadour of Stars;6;6;;AVERAGE;POOR;GOOD;GOOD;1;;Chaotic Good
+157;52;80;Vassal of Bahamut;10;2;;GOOD;GOOD;POOR;POOR;1;7;Lawful good
+158;52;82;Wonderworker;6;4;;POOR;POOR;POOR;GOOD;1;;Any good
+262;53;92;Crimson Scourge;10;6;;;;;;1;4;Any nongood
+261;53;79;Ebonmar Infiltrator;6;6;;AVERAGE;POOR;GOOD;POOR;1;;
+263;53;100;Urban Savant;6;6;;;;;;1;;
+181;54;22;Animal Lord;10;4;;GOOD;GOOD;GOOD;POOR;1;5;Neutral good, lawful neutral, neutral, chaotic neutral, or neutral evil
+203;54;26;Beastmaster;10;4;;GOOD;GOOD;GOOD;POOR;1;;
+204;54;28;Bloodhound;10;6;;GOOD;GOOD;GOOD;POOR;1;4;
+205;54;31;Daggerspell Mage;6;6;;AVERAGE;POOR;GOOD;GOOD;1;;Any nonevil
+206;54;36;Daggerspell Shaper;6;6;;AVERAGE;POOR;GOOD;GOOD;1;;Any nonevil.
+182;54;39;Dread Pirate;8;6;;GOOD;POOR;GOOD;POOR;1;4;Any nonlawful.
+183;54;42;Dungeon Delver;6;8;;AVERAGE;GOOD;GOOD;POOR;1;;
+184;54;44;Exemplar;6;8;;AVERAGE;POOR;POOR;GOOD;1;;
+185;54;47;Fochlucan Lyrist;6;6;;GOOD;POOR;GOOD;GOOD;1;;Neutral good, neutral, chaotic neutral, or neutral evil.
+186;54;51;Ghost-faced Killer;8;4;;GOOD;GOOD;POOR;POOR;1;5;Any evil.
+187;54;54;Highland Stalker;8;4;;GOOD;GOOD;POOR;POOR;1;5;
+188;54;56;Maester;4;4;;POOR;POOR;POOR;GOOD;1;;
+189;54;58;Master of Many Forms;8;4;;AVERAGE;GOOD;GOOD;POOR;1;;
+190;54;60;Nightsong Enforcer;8;4;;GOOD;POOR;GOOD;POOR;1;5;
+191;54;62;Nightsong Infiltrator;6;8;;AVERAGE;POOR;GOOD;POOR;1;;
+1;54;5;Ninja;6;6;4d4x10;AVERAGE;POOR;GOOD;POOR;0;;Any
+192;54;66;Ollam;8;6;;;;;;1;;Lawful good
+2;54;10;Scout;8;8;5d4x10;AVERAGE;POOR;GOOD;POOR;0;;Any
+193;54;68;Shadowbane Inquisitor;10;4;;;;;;1;5;Lawful good
+194;54;70;Shadowbane Stalker;8;6;;;;;;1;;Lawful good
+195;54;74;Shadowmind;6;4;;;;;;1;3;Any
+3;54;13;Spellthief;6;6;4d4x10;;;;;0;;
+196;54;76;Spymaster;6;8;;;;;;1;;Any
+197;54;79;Streetfighter;8;4;;;;;;1;5;Any
+198;54;81;Tempest;10;2;;;;;;1;6;Any
+199;54;83;Thief-acrobat;6;6;;;;;;1;;Any
+200;54;85;Vigilante;8;6;;AVERAGE;POOR;GOOD;GOOD;1;4;Any nonevil
+201;54;89;Virtuoso;6;6;;;;;;1;;Any
+202;54;92;Wild Plains Outrider;8;4;;;;;;1;;Any
+207;55;19;Acolyte of the Skin;8;2;;AVERAGE;GOOD;POOR;GOOD;1;;Any nongood
+223;55;21;Alienist;4;2;;POOR;POOR;POOR;GOOD;1;;any nonlawful
+224;55;24;Argent Savant;4;2;;POOR;POOR;POOR;GOOD;1;;
+225;55;26;Blood Magus;6;2;;POOR;GOOD;POOR;POOR;1;;Any but lawful good
+208;55;30;Effigy Master;4;2;;POOR;POOR;POOR;GOOD;1;;
+209;55;32;Elemental Savant;4;2;;POOR;POOR;POOR;GOOD;1;;
+210;55;34;Enlightened Fist;8;4;;AVERAGE;POOR;GOOD;GOOD;1;;
+211;55;37;Fatespinner;4;2;;POOR;POOR;POOR;GOOD;1;;
+212;55;39;Geometer;4;2;;POOR;POOR;POOR;GOOD;1;;
+213;55;41;Green Star Adept;8;2;;POOR;POOR;POOR;GOOD;1;4;
+214;55;44;Initiate of the Sevenfold Veil;4;2;;POOR;POOR;POOR;GOOD;1;;
+215;55;48;Mage of the Arcane Order;4;2;;POOR;POOR;POOR;GOOD;1;;
+216;55;51;Master Transmogrifist;4;2;;POOR;POOR;POOR;GOOD;1;;any nonlawful
+217;55;54;Mindbender;4;2;;POOR;GOOD;POOR;GOOD;1;;Any nongood
+218;55;56;Seeker of the Song;6;4;;POOR;POOR;POOR;GOOD;1;;
+219;55;60;Sublime Chord;6;4;;POOR;POOR;POOR;GOOD;1;;
+220;55;63;Suel Arcanamach;8;4;;AVERAGE;POOR;GOOD;GOOD;1;6;
+4;55;5;Warlock;6;2;;AVERAGE;POOR;POOR;GOOD;0;;
+5;55;10;Warmage;6;2;;POOR;POOR;POOR;GOOD;0;;
+221;55;65;Wayfarer Guide;6;2;;POOR;POOR;POOR;GOOD;1;;
+222;55;68;Wild Mage;4;2;;POOR;POOR;GOOD;POOR;1;;any chaotic
+6;55;14;Wu Jen;4;2;;POOR;POOR;POOR;GOOD;0;;
+256;56;21;Black Flame Zealot;6;4;;;;;;1;;Any nongood
+257;56;23;Blighter;8;4;;AVERAGE;GOOD;POOR;GOOD;1;4;Any nongood
+258;56;26;Church Inquisitor;8;4;;;;;;1;;Lawful good or lawful neutral
+259;56;28;Consecrated Harrier;10;4;;GOOD;POOR;POOR;GOOD;1;5;Any lawful
+260;56;30;Contemplative;6;2;;;;;;1;;Any
+237;56;33;Divine Crusader;8;2;;AVERAGE;GOOD;POOR;GOOD;1;7;Must match chosen deity
+238;56;34;Divine Oracle;6;2;;;;;;1;;Any
+968;56;;Dweomerkeeper;6;2;;;;;;1;;
+239;56;36;Entropomancer;8;2;;;;;;1;;Any nongood
+240;56;39;Evangelist;6;6;;AVERAGE;POOR;POOR;GOOD;1;;As a cleric of the chosen deity
+7;56;6;Favored Soul;8;2;;AVERAGE;GOOD;GOOD;GOOD;0;;
+241;56;41;Geomancer;6;4;;;;;;1;;Any
+242;56;45;Holy Liberator;10;2;;GOOD;GOOD;POOR;POOR;1;5;Chaotic Good
+243;56;48;Hospitaler;8;2;;;;;;1;5;Any nonchaotic
+969;56;;Master of Shrouds;8;2;;;;;;1;;
+970;56;;Moon Guardian;8;2;;;;;;1;;Any good
+971;56;;Nightcloak;8;2;;;;;;1;3;Any evil
+244;56;50;Pious Templar;10;2;;GOOD;GOOD;POOR;GOOD;1;5;Any
+245;56;52;Radiant Servant of Pelor;6;2;;;;;;1;;Neutral good
+246;56;54;Rainbow Servant;4;2;;;;;;1;;Any nonevil and nonchaotic
+247;56;56;Sacred Exorcist;8;2;;AVERAGE;POOR;POOR;GOOD;1;;
+248;56;59;Sacred Fist;8;4;;;;;;1;4;Any
+249;56;61;Seeker of the Misty Isle;8;6;;;;;;1;;Any
+250;56;63;Shining Blade of Heironeous;10;2;;;;;;1;7;Lawful good
+8;56;10;Shugenja;6;4;;POOR;POOR;POOR;GOOD;0;;
+9;56;14;Spirit Shaman;8;4;;AVERAGE;GOOD;POOR;GOOD;0;;
+251;56;65;Stormlord;8;2;;;;;;1;;As for a cleric of Talos
+252;56;67;Temple Raider of Olidammara;6;4;;AVERAGE;POOR;GOOD;GOOD;1;5;Any chaotic
+253;56;70;Ur-priest;8;2;;AVERAGE;POOR;POOR;GOOD;1;;Any evil
+254;56;72;Void Disciple;6;2;;;;;;1;;Any neutral
+255;56;74;Warpriest;10;2;;;;;;1;5;Any
+226;57;80;Fist of the Forest;10;2;;GOOD;GOOD;GOOD;POOR;1;4;
+227;57;82;Forest Reeve;10;6;;GOOD;POOR;GOOD;POOR;1;5;
+228;57;84;Holt Warden;6;4;;AVERAGE;GOOD;POOR;GOOD;1;;
+229;57;86;Mythic Exemplar;8;4;;AVERAGE;POOR;POOR;POOR;1;;
+230;57;90;Ordained Champion;8;2;;GOOD;GOOD;POOR;GOOD;1;;Any lawful, neutral good, or neutral evil
+231;57;94;Paragnostic Apostle;4;4;;POOR;POOR;POOR;GOOD;1;;
+232;57;96;Paragnostic Initiate;8;6;;;;;;1;;
+233;57;99;Sanctified One;8;2;;AVERAGE;GOOD;GOOD;GOOD;1;5;Must match that of deity chosen.
+234;57;105;Shadowspy;6;6;;AVERAGE;POOR;GOOD;GOOD;1;;Any good
+235;57;108;Shadowstriker;10;2;;GOOD;GOOD;POOR;GOOD;1;5;Any good
+236;57;110;Squire of Legend;8;6;;AVERAGE;POOR;POOR;POOR;1;;
+264;58;50;Abjurant Champion;10;2;;;;;;1;5;Any
+265;58;53;Eldritch Disciple;8;2;;AVERAGE;GOOD;POOR;GOOD;1;;
+266;58;57;Eldritch Theurge;4;2;;;;;;1;;Any
+267;58;60;Enlightened Spirit;6;2;;AVERAGE;POOR;POOR;GOOD;1;;Any good
+268;58;64;Holy Scourge;6;2;;;;;;1;;Any good
+269;58;67;Lyric Thaumaturge;6;4;;;;;;1;;Any
+270;58;70;Master Specialist;4;2;;POOR;POOR;POOR;GOOD;1;;
+271;58;74;Nightmare Spinner;4;4;;;;;;1;;Any
+272;58;77;Ultimate Magus;4;2;;;;;;1;;Any
+273;58;81;Unseen Seer;4;6;;;;;;1;;Any
+274;58;84;Wild Soul;4;2;;;;;;1;;Any nonlawful
+275;59;17;Anarchic Initiate;6;4;;AVERAGE;POOR;POOR;GOOD;1;;Any chaotic.
+10;59;5;Ardent;6;2;5d4 x 10;AVERAGE;POOR;POOR;GOOD;0;;
+11;59;9;Divine Mind;10;2;6d4 x 10;AVERAGE;GOOD;POOR;GOOD;0;;
+13;59;144;Duergar Racial Class;0;;;;;;;0;;
+276;59;22;Ebon Saint;6;4;;AVERAGE;POOR;GOOD;GOOD;1;;
+277;59;26;Ectopic Adept;4;2;;POOR;POOR;POOR;GOOD;1;;
+18;59;153;Erudite (variant Psion);0;;;;;;;0;;
+278;59;30;Flayerspawn Psychic;6;2;;POOR;POOR;POOR;GOOD;1;;
+14;59;146;Githyanki Racial Class;0;;;;;;;0;;
+15;59;147;Githzerai Racial Class;0;;;;;;;0;;
+16;59;148;Half-giant Racial Class;0;;;;;;;0;;
+279;59;33;Illumine Soul;10;4;;AVERAGE;GOOD;POOR;GOOD;1;;Any non-evil.
+12;59;13;Lurk;6;4;5d4 x 10;AVERAGE;POOR;GOOD;GOOD;0;;
+280;59;36;Soulbow;10;4;;AVERAGE;POOR;GOOD;GOOD;1;;
+281;59;40;Storm Disciple;10;2;;GOOD;GOOD;POOR;GOOD;1;5;Any chaotic.
+17;59;149;Thri-kreen Racial Class;0;;;;;;;0;;
+282;59;43;Zerth Cenobite;8;4;;AVERAGE;POOR;GOOD;GOOD;1;4;
+289;60;24;Avenging Executioner;8;6;;AVERAGE;POOR;GOOD;GOOD;1;5;Any nongood
+290;60;28;Battle Trickster;10;4;;GOOD;GOOD;POOR;POOR;1;5;Any
+291;60;31;Cloaked Dancer;6;6;;;;;;1;;Any
+292;60;34;Combat Trapsmith;6;6;;;;;;1;;Any
+293;60;38;Fortune's Friend;6;6;;;;;;1;3;Any
+294;60;40;Gray Guard;10;2;;;;;;1;;Lawful good
+295;60;45;Magical Trickster;6;4;;;;;;1;;Any
+296;60;48;Malconvoker;4;2;;;;;;1;;Any nonevil
+297;60;52;Master of Masks;6;4;;;;;;1;;Any
+298;60;57;Mountebank;6;4;;AVERAGE;POOR;GOOD;POOR;1;;Any nonlawful
+299;60;60;Psibond Agent;6;6;;AVERAGE;POOR;GOOD;POOR;1;;Any
+300;60;64;Spellwarp Sniper;6;4;;;;;;1;;Any
+301;60;67;Uncanny Trickster;6;8;;;;;;1;;Any
+340;61;16;Bear Warrior;12;4;;GOOD;;;;1;7;Any
+306;61;17;Bladesinger;8;2;;GOOD;;;;1;5;Any
+341;61;19;Cavalier;10;2;;;;;;1;8;Any lawful.
+307;61;20;Dark Hunter;8;4;;;;;;1;5;
+308;61;23;Darkwood Stalker;8;4;;;;;;1;5;
+309;61;25;Dervish;10;4;;GOOD;;;;1;5;Any
+310;61;27;Drunken Master;8;4;;;;;;1;;
+311;61;30;Exotic Weapon Master;10;2;;;;;;1;6;
+312;61;31;Eye of Gruumsh;12;2;;;;;;1;6;Chaotic evil, chaotic neutral, or neutral evil.
+313;61;34;Frenzied Berserker;12;2;;;;;;1;6;Any nonlawful.
+314;61;36;Gnome Giant-slayer;10;2;;;;;;1;;
+315;61;38;Halfling Outrider;8;4;;;;;;1;5;
+19;61;5;Hexblade;10;2;6d4 x 10;GOOD;POOR;POOR;GOOD;0;;Any nongood.
+316;61;40;Hulking Hurler;10;2;;;;;;1;5;
+317;61;42;Hunter of the Dead;8;2;;;;;;1;5;Any nonevil
+318;61;44;Invisible Blade;6;4;;;;;;1;;
+319;61;47;Justiciar;10;4;;GOOD;POOR;POOR;GOOD;1;6;Any lawful
+320;61;49;Kensai;10;4;;AVERAGE;POOR;POOR;GOOD;1;5;Any lawful
+321;61;53;Knight of the Chalice;10;2;;GOOD;GOOD;POOR;POOR;1;8;Lawful good
+322;61;55;Knight Protector;10;2;;GOOD;POOR;POOR;GOOD;1;5;Lawful neutral or lawful good.
+323;61;60;Master of the Unseen Hand;4;2;;GOOD;POOR;POOR;GOOD;1;;
+324;61;58;Master Thrower;8;4;;;;;;1;5;Any
+325;61;62;Mindspy;8;2;;GOOD;POOR;POOR;GOOD;1;3;
+326;61;63;Nature's Warrior;10;2;;GOOD;GOOD;POOR;POOR;1;4;Any neutral
+327;61;66;Occult Slayer;8;2;;GOOD;POOR;POOR;GOOD;1;5;
+328;61;68;Order of the Bow Initiate;8;2;;GOOD;POOR;GOOD;GOOD;1;5;
+20;61;13;Paladin Variant;0;;;;;;;0;;
+329;61;70;Purple Dragon Knight;10;2;;GOOD;GOOD;POOR;POOR;1;5;Lawful good, neutral good, lawful neutral, or neutral
+330;61;72;Rage Mage;8;2;;AVERAGE;GOOD;POOR;POOR;1;4;Any nonlawful
+21;61;13;Ranger Variant;0;;;;;;;0;;
+331;61;73;Ravager;10;2;;GOOD;GOOD;POOR;POOR;1;5;Chaotic evil or neutral evil
+332;61;75;Reaping Mauler;10;2;;GOOD;GOOD;GOOD;POOR;1;5;
+333;61;77;Ronin;10;2;;;;;;1;6;Any nonlawful
+22;61;8;Samurai;10;2;2d4x10;GOOD;GOOD;POOR;POOR;0;;Any lawful.
+334;61;79;Spellsword;8;2;;GOOD;GOOD;POOR;GOOD;1;4;Any
+335;61;81;Stonelord;8;2;;;;;;1;5;
+23;61;11;Swashbuckler;10;4;6d4 x 10;GOOD;GOOD;POOR;POOR;0;;Any
+336;61;82;Tattooed Monk;8;4;;;;;;1;3;Any lawful
+337;61;85;Thayan Knight;10;2;;;;;;1;5;Any nongood
+338;61;87;War Chanter;8;4;;;;;;1;4;Any nonlawful
+339;61;89;Warshaper;8;2;;;;;;1;4;
+371;62;30;Diamond Dragon;8;2;;AVERAGE;POOR;GOOD;GOOD;1;3;Neutral good, neutral evil, lawful neutral, chaotic neutral, or neutral
+372;62;34;Dragon Descendant;8;4;;AVERAGE;GOOD;POOR;GOOD;1;;
+373;62;38;Dragon Lord;10;2;;GOOD;GOOD;POOR;POOR;1;6;
+29;62;24;Dragonfire Adept;8;4;2d4x10;;;;;0;;
+374;62;43;Hand of the Winged Masters;8;6;;AVERAGE;POOR;GOOD;GOOD;1;4;
+375;62;46;Pact-bound Adept;4;2;;POOR;POOR;GOOD;GOOD;1;;
+376;62;50;Swift Wing;8;4;;AVERAGE;GOOD;GOOD;POOR;1;3;
+377;62;55;Wyrm Wizard;4;4;;POOR;POOR;POOR;GOOD;1;;
+432;63;48;Beast Heart Adept;8;4;;GOOD;GOOD;POOR;GOOD;1;;
+918;63;108;Dungeon Lord;8;2;;AVERAGE;POOR;GOOD;GOOD;1;5;
+35;63;14;Factotum;8;6;6d4x10;AVERAGE;POOR;GOOD;POOR;0;;
+433;63;53;Trapsmith;6;6;;AVERAGE;POOR;GOOD;POOR;1;;
+908;65;141;Cerebremancer;4;2;;POOR;POOR;POOR;GOOD;1;;
+909;65;142;Elocater;6;6;;AVERAGE;POOR;GOOD;GOOD;1;3;
+910;65;144;Fist of Zuoken;6;4;;AVERAGE;POOR;GOOD;GOOD;1;4;
+911;65;146;Illithid Slayer;8;4;;GOOD;POOR;POOR;GOOD;1;4;
+912;65;147;Metamind;4;4;;POOR;POOR;POOR;GOOD;1;;
+137;65;19;Psion;4;2;3d4x10;POOR;POOR;POOR;GOOD;0;;Any.
+913;65;148;Psion Uncarnate;4;2;;POOR;POOR;POOR;GOOD;1;;
+138;65;24;Psychic Warrior;8;2;5d4x10;AVERAGE;GOOD;POOR;POOR;0;;Any.
+914;65;151;Pyrokineticist;8;2;;AVERAGE;GOOD;GOOD;POOR;1;;Any chaotic.
+139;65;26;Soulknife;10;4;5d4x10;AVERAGE;POOR;GOOD;GOOD;0;;Any.
+915;65;153;Thrallherd;4;2;;POOR;POOR;POOR;GOOD;1;;
+916;65;155;War Mind;10;2;;GOOD;GOOD;GOOD;POOR;1;3;Any nonchaotic.
+140;65;29;Wilder;6;4;4d4x10;AVERAGE;POOR;POOR;GOOD;0;;Any.
+462;67;86;Hellbreaker;6;6;;AVERAGE;POOR;GOOD;GOOD;1;;Any chaotic
+463;67;89;Hellfire Warlock;6;2;;AVERAGE;POOR;POOR;GOOD;1;;
+464;67;92;Hellreaver;10;2;;GOOD;POOR;POOR;GOOD;1;5;Any good
+465;67;95;Soulguard;8;4;;AVERAGE;GOOD;POOR;GOOD;1;;Lawful good or lawful neutral
+499;68;52;Cloud Anchorite;8;4;;AVERAGE;GOOD;GOOD;POOR;1;;Any nonchaotic
+500;68;54;Cryokineticist;8;2;;AVERAGE;GOOD;GOOD;POOR;1;;Any lawful
+501;68;56;Disciple of Thrym;10;2;;GOOD;POOR;POOR;GOOD;1;4;Any nongood
+502;68;58;Frost Mage;4;2;;POOR;POOR;POOR;GOOD;1;;
+503;68;60;Frostrager;12;2;;GOOD;GOOD;POOR;POOR;1;6;
+504;68;62;Knight of the Iron Glacier;0;2;;GOOD;GOOD;POOR;GOOD;1;;Lawful good or lawful neutral
+505;68;65;Primeval;10;2;;GOOD;GOOD;POOR;POOR;1;8;Any nonlawful
+506;68;67;Rimefire Witch;6;2;;POOR;GOOD;POOR;GOOD;1;;
+507;68;70;Stormsinger;6;4;;POOR;POOR;GOOD;GOOD;1;;
+508;68;72;Winterhaunt of Iborighu;8;2;;POOR;GOOD;POOR;GOOD;1;;Chaotic neutral, chaotic evil, or neutral evil
+526;69;99;Combat Medic;6;2;;POOR;POOR;GOOD;POOR;1;;Any nonevil
+527;69;103;Dread Commando;8;6;;GOOD;POOR;GOOD;POOR;1;5;
+528;69;107;Legendary Leader;8;4;;AVERAGE;POOR;POOR;GOOD;1;;
+529;69;112;War Weaver;4;2;;POOR;POOR;POOR;GOOD;1;;
+74;70;82;Archivist;6;4;;;;;;0;;
+530;70;88;Corrupt Avenger;12;;;GOOD;GOOD;POOR;POOR;1;6;
+531;70;93;Death Delver;8;2;;AVERAGE;GOOD;POOR;GOOD;1;;
+75;70;84;Dread Necromancer;6;2;;;;;;0;;
+532;70;98;Dread Witch;4;2;;POOR;POOR;POOR;GOOD;1;;
+533;70;102;Fiend-blooded;4;2;;POOR;POOR;POOR;GOOD;1;;Any nongood
+534;70;108;Purifier of the Hallowed Doctrine;8;2;;AVERAGE;GOOD;POOR;GOOD;1;;Any good or true neutral
+535;70;113;Tainted Scholar;6;2;;POOR;POOR;POOR;GOOD;1;;
+545;71;41;Death's Chosen;10;2;;GOOD;GOOD;POOR;POOR;1;5;Any nongood
+546;71;43;Dirgesinger;6;4;;AVERAGE;POOR;POOR;GOOD;1;;Any nongood
+547;71;53;Ephemeral Exemplar;12;4;;POOR;POOR;POOR;GOOD;1;3;
+548;71;54;Lurking Terror;12;4;;AVERAGE;POOR;POOR;GOOD;1;;
+549;71;44;Master of Radiance;8;4;;AVERAGE;GOOD;POOR;GOOD;1;;Any nonevil
+550;71;46;Master of Shrouds;8;2;;;;;;1;;Any Nongood
+551;71;55;Master Vampire;12;4;;POOR;GOOD;POOR;GOOD;1;;
+552;71;47;Pale Master;4;2;;POOR;POOR;POOR;GOOD;1;;Any nongood
+553;71;49;Sacred Purifier;8;2;;AVERAGE;GOOD;POOR;GOOD;1;;Any good
+554;71;57;Tomb Warden;12;4;;GOOD;GOOD;POOR;POOR;1;3;Any nonchaotic
+555;71;51;True Necromancer;6;2;;POOR;POOR;POOR;GOOD;1;;Any nongood
+556;72;182;Abolisher;8;4;;AVERAGE;POOR;POOR;GOOD;1;;Any nonchaotic
+557;72;42;Beholder Mage;4;2;;POOR;POOR;POOR;GOOD;1;;
+558;72;186;Darkrunner;6;6;;;;;;1;;Any
+559;72;189;Fleshwarper;6;4;;POOR;GOOD;POOR;POOR;1;;Any nonlawful
+560;72;194;Keeper of the Cerulean Sign;6;6;;POOR;POOR;POOR;GOOD;1;;
+561;72;198;Sanctified Mind;8;4;;GOOD;GOOD;POOR;GOOD;1;4;Any nonevil
+562;72;21;Savant Aboleth;8;6;;AVERAGE;GOOD;POOR;GOOD;1;;
+563;72;203;Topaz Guardian;8;2;;GOOD;GOOD;POOR;GOOD;1;5;Any good
+590;74;115;Incandescent Champion;10;2;;AVERAGE;POOR;POOR;GOOD;1;6;Any good
+81;74;20;Incarnate;6;2;;POOR;GOOD;POOR;GOOD;0;;Neutral good, neutral evil, lawful neutral, or chaotic neutral
+591;74;121;Incarnum Blade;10;2;;GOOD;GOOD;POOR;POOR;1;5;Any except neutral
+592;74;126;Ironsoul Forgemaster;8;2;;AVERAGE;GOOD;POOR;GOOD;1;;Any nonevil
+593;74;132;Necrocarnate;6;2;;POOR;POOR;POOR;GOOD;1;;Any evil
+594;74;136;Sapphire Hierarch;6;2;;POOR;POOR;POOR;GOOD;1;;Lawful
+82;74;25;Soulborn;10;2;6d4 x 10;GOOD;GOOD;POOR;POOR;0;;Lawful good, chaotic good, lawful evil, or chaotic evil
+595;74;142;Soulcaster;4;2;;POOR;POOR;POOR;GOOD;1;;
+596;74;147;Spinemeld Warrior;10;2;;GOOD;GOOD;POOR;POOR;1;5;Any lawful
+597;74;153;Totem Rager;10;4;;AVERAGE;GOOD;GOOD;POOR;1;5;
+83;74;29;Totemist;8;4;2d4x10;;GOOD;GOOD;POOR;0;;
+598;74;158;Umbral Disciple;6;6;;AVERAGE;POOR;GOOD;GOOD;1;;
+599;74;162;Witchborn Binder;6;4;;AVERAGE;POOR;POOR;GOOD;1;;
+575;75;16;Bonded Summoner;4;2;;POOR;POOR;POOR;GOOD;1;;
+576;75;18;Dragon Samurai;10;2;;AVERAGE;GOOD;POOR;GOOD;1;5; 
+76;75;5;Favored Soul;0;;;;;;;0;;
+577;75;20;Havoc Mage;8;2;;;;;;1;4;Any
+77;75;8;Healer;8;4;;POOR;GOOD;POOR;GOOD;0;;Any Good
+78;75;11;Marshal;8;4;;;;;;0;;Any
+578;75;20;Skullclan Hunter;6;6;;AVERAGE;POOR;GOOD;GOOD;1;;Any Good
+579;75;22;Tactical Soldier;10;2;;GOOD;GOOD;POOR;POOR;1;5;Any
+580;75;22;War Hulk;12;2;;;GOOD;POOR;POOR;1;5;Any
+581;75;24;Warchief;10;2;;AVERAGE;GOOD;POOR;GOOD;1;3;
+79;75;14;Warmage;0;;;;;;;0;;
+685;79;55;Ardent Dilettante;8;6;;POOR;POOR;GOOD;POOR;1;;
+686;79;63;Astral Dancer;8;6;;AVERAGE;POOR;GOOD;POOR;1;;
+687;79;61;Chaotician;10;4;;GOOD;POOR;GOOD;POOR;1;4;Any chaotic
+688;79;58;Cipher Adept;8;2;;AVERAGE;POOR;GOOD;POOR;1;;Neutral
+689;79;44;Defiant;8;2;;AVERAGE;GOOD;POOR;GOOD;1;;
+690;79;47;Doomlord;12;2;;GOOD;GOOD;POOR;POOR;1;7;
+691;79;65;Elemental Warrior;10;2;;AVERAGE;GOOD;POOR;POOR;1;7;
+692;79;50;Fatemaker;6;6;;AVERAGE;POOR;GOOD;GOOD;1;4;
+693;79;53;Visionary Seeker;6;4;;;;;;1;;
+100;80;6;Beguiler;6;6;;POOR;POOR;POOR;GOOD;0;;
+101;80;11;Dragon Shaman;10;2;;AVERAGE;GOOD;POOR;GOOD;0;;
+102;80;19;Duskblade;8;2;;GOOD;GOOD;POOR;GOOD;0;;
+103;80;24;Knight;12;2;6d4 x 10;GOOD;POOR;POOR;GOOD;0;;Lawful
+705;81;111;Chameleon;8;4;;AVERAGE;POOR;POOR;POOR;1;;
+706;81;117;Loredelver;6;6;;POOR;POOR;GOOD;GOOD;1;;
+707;81;123;Menacing Brute;10;4;;GOOD;GOOD;POOR;POOR;1;5;Any nongood
+708;81;126;Outcast Champion;10;4;;GOOD;GOOD;POOR;POOR;1;;
+709;81;130;Scar Enforcer;8;6;;AVERAGE;POOR;POOR;GOOD;1;3;Any nongood
+710;81;137;Shadow Sentinel;10;2;;GOOD;GOOD;GOOD;POOR;1;5;
+711;81;141;Urban Soul;8;6;;AVERAGE;GOOD;GOOD;POOR;1;;
+725;82;97;Battlesmith;10;2;;GOOD;GOOD;POOR;GOOD;1;5;
+726;82;99;Blade Bravo;8;4;;GOOD;POOR;GOOD;POOR;1;5;
+727;82;101;Cragtop Archer;8;4;;GOOD;GOOD;POOR;POOR;1;6;
+728;82;103;Dawncaller;8;6;;GOOD;POOR;GOOD;POOR;1;;
+729;82;105;Deepwarden;12;6;;GOOD;GOOD;POOR;GOOD;1;5;
+730;82;107;Divine Prankster;6;6;;POOR;POOR;GOOD;GOOD;1;;
+731;82;110;Earth Dreamer;4;2;;POOR;GOOD;POOR;GOOD;1;;
+732;82;112;Goliath Liberator;10;4;;GOOD;GOOD;POOR;POOR;1;7;
+733;82;114;Iron Mind;10;2;;AVERAGE;POOR;POOR;GOOD;1;3;
+734;82;116;Peregrine Runner;8;6;;AVERAGE;GOOD;GOOD;POOR;1;4;
+735;82;118;Runesmith;6;2;;POOR;GOOD;POOR;GOOD;1;;
+736;82;120;Shadowcraft Mage;4;4;;POOR;POOR;POOR;GOOD;1;;
+737;82;122;Stoneblessed;8;2;;AVERAGE;GOOD;POOR;GOOD;1;;
+738;82;124;Stonedeath Assassin;6;6;;AVERAGE;POOR;GOOD;POOR;1;3;
+739;82;127;Stonespeaker Guardian;8;4;;AVERAGE;GOOD;POOR;GOOD;1;;
+712;83;75;Disciple of the Eye;8;4;;AVERAGE;GOOD;GOOD;GOOD;1;;Any lawful
+713;83;79;Dracolexi;6;4;;POOR;POOR;POOR;GOOD;1;;
+714;83;84;Dragon Devotee;6;4;;AVERAGE;GOOD;POOR;POOR;1;5;
+715;83;88;Dragonheart Mage;6;2;;POOR;GOOD;POOR;GOOD;1;;
+716;83;91;Singer of Concordance;6;4;;POOR;POOR;GOOD;GOOD;1;;
+741;84;108;Arcane Hierophant;6;4;;AVERAGE;POOR;POOR;GOOD;1;4;Any nonlawful
+742;84;113;Champion of Corellon Larethian;10;2;;GOOD;GOOD;POOR;GOOD;1;7;Any nonevil
+743;84;118;Luckstealer;4;4;;POOR;POOR;POOR;GOOD;1;;
+744;84;122;Ruathar;6;4;;AVERAGE;POOR;GOOD;GOOD;1;;
+745;84;126;Skypledged;6;4;;AVERAGE;POOR;GOOD;GOOD;1;;
+746;84;131;Stormtalon;10;2;;GOOD;GOOD;POOR;POOR;1;5;
+747;84;135;Whisperknife;8;6;;GOOD;POOR;GOOD;POOR;1;4;
+748;84;139;Wildrunner;10;4;;GOOD;GOOD;GOOD;POOR;1;;Any good or chaotic
+749;85;66;Ashworm Dragoon;10;2;;GOOD;GOOD;POOR;POOR;1;5;
+104;85;44;Barbarian;0;;;;;;;0;;
+105;85;45;Cleric;0;;;;;;;0;;
+106;85;47;Druid;0;;;;;;;0;;
+750;85;70;Lord of Tides;8;4;;AVERAGE;GOOD;POOR;GOOD;1;;
+107;85;48;Paladin;0;;;;;;;0;;
+108;85;48;Ranger;0;;;;;;;0;;
+751;85;76;Sand Shaper;6;4;;POOR;POOR;POOR;GOOD;1;;
+752;85;82;Scion of Tem-et-nu;10;2;;GOOD;GOOD;POOR;GOOD;1;5;
+753;85;86;Scorpion Heritor;6;8;;AVERAGE;GOOD;POOR;POOR;1;3;
+109;85;49;Sorcerer;0;;;;;;;0;;
+754;85;89;Walker In the Waste;6;2;;POOR;POOR;POOR;GOOD;1;;
+110;85;49;Wizard;0;;;;;;;0;;
+826;87;52;Knight of the Pearl;10;2;;GOOD;GOOD;POOR;GOOD;1;5;Lawful good
+827;87;56;Legendary Captain;8;4;;AVERAGE;GOOD;POOR;GOOD;1;4;
+828;87;61;Leviathan Hunter;10;4;;GOOD;GOOD;POOR;POOR;1;5;
+829;87;65;Scarlet Corsair;8;4;;GOOD;POOR;GOOD;POOR;1;5;Any nonlawful
+830;87;68;Sea Witch;4;2;;POOR;GOOD;POOR;GOOD;1;;Any chaotic
+831;87;72;Stormcaster;4;;;POOR;GOOD;GOOD;POOR;1;;Any nonlawful
+832;87;76;Wavekeeper;8;4;;AVERAGE;GOOD;POOR;GOOD;1;4;Any neutral
+866;88;96;Bloodclaw Master;12;2;;AVERAGE;GOOD;GOOD;POOR;1;;
+867;88;100;Bloodstorm Blade;12;4;;GOOD;GOOD;POOR;POOR;1;;
+115;88;8;Crusader;10;4;6d4 x 10;GOOD;GOOD;POOR;POOR;0;;
+868;88;105;Deepstone Sentinel;10;2;;AVERAGE;GOOD;POOR;POOR;1;10;
+869;88;109;Eternal Blade;10;2;;GOOD;GOOD;POOR;POOR;1;10;
+870;88;113;Jade Phoenix Mage;6;2;;GOOD;GOOD;POOR;POOR;1;;Any nonevil
+871;88;119;Master of Nine;8;6;;AVERAGE;POOR;POOR;GOOD;1;;
+872;88;122;Ruby Knight Vindicator;8;4;;GOOD;POOR;POOR;GOOD;1;;
+873;88;126;Shadow Sun Ninja;8;4;;AVERAGE;GOOD;GOOD;GOOD;1;3;Any good
+116;88;15;Swordsage;8;6;;;;;;0;;
+117;88;20;Warblade;12;4;5d4 x 10;GOOD;GOOD;POOR;POOR;0;;
+861;89;204;Acolyte of the Ego;8;4;;GOOD;GOOD;POOR;POOR;1;;
+851;89;50;Anima Mage;4;2;;POOR;POOR;POOR;GOOD;1;;Any nongood
+862;89;208;Bereft;6;2;;AVERAGE;POOR;POOR;GOOD;1;;Any neutral
+112;89;9;Binder;8;2;5d4�10;GOOD;GOOD;POOR;GOOD;0;;
+863;89;212;Brimstone Speaker;8;2;;AVERAGE;GOOD;POOR;GOOD;1;;Any good
+856;89;117;Child of Night;6;2;;POOR;POOR;POOR;GOOD;1;;
+864;89;216;Disciple of the Word;8;4;;AVERAGE;GOOD;GOOD;GOOD;1;4;Any lawful
+865;89;220;Fiendbinder;6;2;;POOR;POOR;POOR;GOOD;1;;Any nongood
+852;89;54;Knight of the Sacred Seal;10;2;;GOOD;GOOD;POOR;POOR;1;4;Any nonchaotic
+857;89;121;Master of Shadow;8;2;;POOR;GOOD;POOR;GOOD;1;;
+858;89;125;Noctumancer;4;2;;POOR;;;;1;;
+853;89;59;Scion of Dantalion;8;2;;AVERAGE;GOOD;POOR;GOOD;1;;
+859;89;129;Shadowblade;8;2;;AVERAGE;GOOD;POOR;POOR;1;5;
+113;89;111;Shadowcaster;6;2;3d4X10;POOR;GOOD;POOR;GOOD;0;;Any
+860;89;132;Shadowsmith;8;6;;GOOD;POOR;GOOD;POOR;1;5;
+854;89;63;Tenebrous Apostate;8;2;;AVERAGE;GOOD;POOR;GOOD;1;;Any nongood
+114;89;198;Truenamer;6;4;4d4�10 gp;AVERAGE;POOR;POOR;GOOD;0;;
+855;89;67;Witch Slayer;8;4;;GOOD;GOOD;POOR;GOOD;1;5;
+960;90;59;Abjurer Variant;0;;;;;;;0;;
+950;90;58;Barbarian Variant;;;;;;;;0;;
+951;90;58;Bard Variant;;;;;;;;0;;
+118;90;49;Bardic Sage;6;6;;AVERAGE;POOR;POOR;GOOD;0;;Neutral good, neutral or neutral evil. 
+874;90;164;Battle Scion;0;;;;;;;1;;
+119;90;56;Battle Sorcerer;8;;;;;;;0;;
+972;90;58;Cleric Variant;;;;;;;;0;;
+120;90;50;Cloistered Cleric;6;6;;;;;;0;;
+961;90;60;Conjurer Variant;;;;;;;;0;;
+121;90;50;Divine Bard;6;;;;;;;0;;
+962;90;60;Diviner Variant;4;;;;;;;0;;
+122;90;57;Domain Wizard;4;2;;;;;;0;;
+952;90;58;Druid Variant;;;;;;;;0;;
+123;90;51;Druidic Avenger;0;;;;;;;0;;
+963;90;61;Enchanter Variant;4;;;;;;;0;;
+964;90;62;Evoker Variant;0;;;;;;;0;;
+124;90;77;Expert;6;6;;AVERAGE;;;;0;;
+875;90;166;Faith Scion;0;;;;;;;1;;
+953;90;58;Fighter Variant;;;;;;;;0;;
+965;90;63;Illusionist Variant;0;;;;;;;0;;
+954;90;58;Monk Variant;;;;;;;;0;;
+949;90;52;Monk Variant: Fighting Styles;;;;;;;;0;;
+966;90;63;Necromancer Variant;;;;;;;;0;;
+125;90;53;Paladin of Freedom;0;;;;;;;0;;
+126;90;53;Paladin of Slaughter;10;;;;;;;0;;
+127;90;54;Paladin of Tyranny;10;;;;;;;0;;
+955;90;58;Paladin Variant;;;;;;;;0;;
+128;90;55;Planar Ranger;0;;;;;;;0;;
+876;90;69;Prestige Bard;6;6;;AVERAGE;POOR;GOOD;GOOD;1;3;Any nonlawful
+877;90;70;Prestige Paladin;10;2;;GOOD;GOOD;POOR;POOR;1;4;Lawful good
+878;90;71;Prestige Ranger;8;6;;GOOD;GOOD;GOOD;POOR;1;4;
+956;90;58;Ranger Variant;;;;;;;;0;;
+958;90;58;Rogue Variant;;;;;;;;0;;
+129;90;50;Savage Bard;;;;;;;;0;;Any chaotic
+957;90;58;Sorcerer/Wizard Variant;;;;;;;;0;;
+130;90;59;Specialized Wizard Variants;0;;;;;;;0;;
+879;90;167;Spell Scion;0;;;;;;;1;;
+131;90;77;Spellcaster;4;2;;POOR;;;;0;;Any
+880;90;168;Swift Scion;0;;;;;;;1;;
+881;90;191;Tainted Sorcerer;0;;;;;;;1;;
+882;90;193;Tainted Warrior;0;;;;;;;1;;
+132;90;51;Thug;10;4;;;;;;0;;
+133;90;48;Totem Barbarian;12;;;;;;;0;;
+967;90;64;Transmuter Variant;0;;;;;;;0;;
+134;90;55;Urban Ranger;8;;;;;;;0;;
+135;90;78;Warrior;10;2;;GOOD;;;;0;;
+136;90;56;Wilderness Rogue;0;;;;;;;0;;
+959;90;59;Wizard Variant;4;;;;;;;0;;
+907;91;19;Legacy Champion;8;4;;AVERAGE;POOR;POOR;GOOD;1;;
+394;92;86;Bloodscaled Fury;12;2;;GOOD;GOOD;POOR;;1;22;Any chaotic
+395;92;87;Disciple of Ashardalon;8;4;;GOOD;GOOD;POOR;GOOD;1;18;Any evil
+396;92;89;Dispassionate Watcher of Chronepsis;8;2;;AVERAGE;GOOD;POOR;GOOD;1;;Any neutral
+397;92;122;Dracolyte;8;2;;AVERAGE;GOOD;POOR;GOOD;1;;
+398;92;90;Dragon Ascendant;12;6;;GOOD;GOOD;GOOD;GOOD;1;30;
+399;92;123;Dragonkith;8;4;;GOOD;GOOD;POOR;POOR;1;6;
+400;92;124;Dragonrider;10;2;;GOOD;GOOD;POOR;GOOD;1;5;
+401;92;125;Dragonslayer;10;2;;GOOD;GOOD;POOR;GOOD;1;5;
+402;92;127;Dragonsong Lyrist;6;4;;AVERAGE;POOR;GOOD;GOOD;1;;Any nonevil
+403;92;128;Dragonstalker;8;4;;GOOD;POOR;GOOD;GOOD;1;5;
+404;92;92;Elemental Master;12;2;;GOOD;GOOD;GOOD;GOOD;1;20;
+405;92;94;Hidecarved Dragon;10;4;;GOOD;GOOD;GOOD;GOOD;1;;Any lawful
+406;92;130;Hoardstealer;6;6;;AVERAGE;POOR;GOOD;POOR;1;;Any nonlawful
+407;92;131;Initiate of the Draconic Mysteries;8;4;;AVERAGE;GOOD;GOOD;GOOD;1;;
+408;92;133;Platinum Knight;8;2;;GOOD;GOOD;POOR;GOOD;1;5;Any good
+409;92;96;Sacred Warder of Bahamut;10;2;;GOOD;GOOD;POOR;GOOD;1;15;Lawful good or neutral good
+410;92;134;Talon of Tiamat;8;2;;AVERAGE;GOOD;POOR;POOR;1;4;Any evil
+411;92;97;Unholy Ravager of Tiamat;10;2;;GOOD;GOOD;POOR;GOOD;1;15;Lawful evil or neutral evil
+425;93;65;Arachnomancer;6;4;;;;;;1;;Any evil
+426;93;68;Cavestalker;8;4;;GOOD;GOOD;GOOD;POOR;1;2;Any
+427;93;72;Demonbinder;4;2;;;;;;1;;Chaotic evil
+428;93;76;Dread Fang of Lolth;8;4;;GOOD;GOOD;POOR;POOR;1;5;Lawful evil
+429;93;80;Eye of Lolth;6;4;;;;;;1;;
+430;93;83;Insidious Corruptor;6;4;;;;;;1;;Any evil
+431;93;87;Kinslayer;8;4;;GOOD;POOR;GOOD;GOOD;1;;
+522;94;19;Arboreal Guardian;0;;;;;;;1;;
+523;94;21;Bone Collector;0;;;;;;;1;;
+524;94;23;Deathwarden Chanter;0;;;;;;;1;;
+72;94;16;Eidolon;0;;;;;;;0;;
+73;94;17;Eidoloncer;0;;;;;;;0;;
+525;94;26;Ghost Slayer;0;;;;;;;1;;
+536;95;33;Darkmask;0;;;;;;;1;;
+537;95;11;Spur Lord;0;;;;;;;1;;
+538;95;64;Thayan Knight;0;;;;;;;1;;
+539;95;102;Zhentarim Skymage;0;;;;;;;1;;
+625;96;220;Akodo Champion;10;4;;;;;;1;5;Lawful Good
+626;96;34;Battle Maiden;10;2;;;;;;1;7;Any Lawful
+627;96;225;Bayushi Deceiver;8;6;;;;;;1;3;Any Nonlawful
+628;96;36;Bear Warrior;12;4;;;;;;1;7;
+629;96;37;Blade Dancer;8;2;;;;;;1;7;Any Lawful
+630;96;215;Daidoji Bodyguard;12;4;;;;;;1;5;Any Lawful
+631;96;38;Eunuch Warlock;6;4;;;;;;1;;Any Evil
+632;96;39;Henshin Mystic;8;4;;AVERAGE;GOOD;GOOD;GOOD;1;7;Any lawful
+633;96;212;Hida Defender;12;2;;;;;;1;5;Any Nonevil
+634;96;41;Iaijutsu Master;10;4;;;;;;1;6;Any Lawful
+635;96;42;Kishi Charger;10;4;;;;;;1;6;
+636;96;236;Maho-bujin;0;;;;;;;1;;
+637;96;237;Maho-tsukai;0;;;;;;;1;;
+638;96;231;Mantis Mercenary;0;;;;;;;1;;
+639;96;218;Mirumoto Niten Master;10;2;;;;;;1;5;
+640;96;228;Moto Avenger;0;;;;;;;1;;
+641;96;43;Ninja Spy;6;6;;;;;;1;;Any Nonchaotic, Nongood
+84;96;20;Samurai;10;;;GOOD;GOOD;POOR;GOOD;0;;Any lawful
+642;96;44;Shadow Scout;10;4;;;;;;1;4;Any Nonevil
+85;96;22;Shaman;0;;;;;;;0;;
+643;96;45;Shapeshifter;8;4;;;;;;1;3;
+644;96;222;Shiba Protector;10;2;;;;;;1;5;
+645;96;46;Shintao Monk;8;4;;;;;;1;4;Lawful Good
+86;96;24;Shugenja;0;;;;;;;0;;
+646;96;48;Singh Rager;12;2;;;;;;1;7;Any Lawful
+87;96;27;Sohei;0;;;;;;;0;;
+647;96;49;Tattooed Monk;8;4;;;;;;1;3;Any Lawful
+648;96;51;Void Disciple;6;2;;;;;;1;;Any Neutral
+649;96;53;Weapon Master (Kensei);10;2;;;;;;1;5;
+650;96;54;Witch Hunter;8;4;;;;;;1;5;Any Nonevil
+88;96;30;Wu Jen;0;;;;;;;0;;
+651;96;55;Yakuza;6;8;;;;;;1;;Any Nonchaotic, Nongood
+808;97;109;Giant-killer;0;;;;;;;1;;
+809;97;110;Hordebreaker;0;;;;;;;1;;
+810;97;112;Knight-errant of Silverymoon;0;;;;;;;1;;
+811;97;114;Orc Scout;0;;;;;;;1;;
+812;97;115;Peerless Archer;10;2;;;;;;1;7;
+813;97;117;Wild Scout;0;;;;;;;1;;
+24;98;46;Commoner;0;;;;;;;0;;
+342;98;77;Dragon Rider;8;4;;AVERAGE;GOOD;GOOD;POOR;1;10;
+25;98;46;Expert;0;;;;;;;0;;
+343;98;80;Inquisitor;6;6;;;;;;1;3;Any nonchaotic
+344;98;56;Knight of the Crown;10;2;;;;;;1;3;Lawful Good
+345;98;63;Knight of the Lily;10;2;;;;;;1;5;Lawful Evil
+346;98;59;Knight of the Rose;0;;;;;;;1;;
+347;98;65;Knight of the Skull;0;;;;;;;1;;
+348;98;58;Knight of the Sword;0;;;;;;;1;;
+349;98;66;Knight of the Thorn;0;;;;;;;1;;
+350;98;81;Legendary Tactician;0;;;;;;;1;;
+26;98;47;Mystic;8;2;Does not appear in the book.;AVERAGE;GOOD;POOR;GOOD;0;;Because mystics follow an inner truth rather than a doctrine imposed on them from the outside, mystics rarely possess a lawful alignment.
+27;98;50;Noble;8;4;Not listed in the book.;AVERAGE;POOR;GOOD;GOOD;0;;Any
+351;98;83;Righteous Zealot;0;;;;;;;1;;
+352;98;68;Steel Legionnaire;0;;;;;;;1;;
+28;98;53;Warrior;0;;;;;;;0;;
+353;98;71;Wizard of High Sorcery;0;;;;;;;1;;
+442;99;168;Demonwrecker;8;2;;AVERAGE;POOR;POOR;GOOD;1;;
+947;99;170;Demonwrecker Arcane;6;2;;POOR;POOR;POOR;GOOD;1;;
+443;99;172;Jaunter;8;4;;AVERAGE;POOR;GOOD;POOR;1;;
+444;100;58;Cataclysm Mage;4;2;;POOR;POOR;POOR;GOOD;1;;
+445;100;64;Thunder Guide;10;4;;AVERAGE;GOOD;POOR;POOR;1;4;
+446;100;70;Windwright Captain;6;6;;AVERAGE;POOR;GOOD;GOOD;1;;
+477;101;117;Bone Knight;10;2;;AVERAGE;GOOD;POOR;POOR;1;4;
+476;101;86;Cyran Avenger;8;4;;GOOD;GOOD;POOR;POOR;1;5;
+475;101;68;Dark Lantern;8;4;;AVERAGE;POOR;GOOD;POOR;1;5;
+474;101;41;Knight Phantom;8;2;;GOOD;GOOD;POOR;POOR;1;;
+478;101;150;Silver Pyromancer;6;2;;POOR;POOR;POOR;GOOD;1;;Lawful good
+703;102;200;Knight of the Raven;8;2;;GOOD;GOOD;POOR;GOOD;1;4;Any good.
+704;102;204;Lightbringer;0;;;;;;;1;;
+740;103;162;Doomdreamer;0;;;;;;;1;;
+789;104;11;Dark Scholar;4;2;;POOR;POOR;POOR;GOOD;1;;
+787;104;7;Serene Guardian;8;2;;GOOD;GOOD;GOOD;POOR;1;6;Any lawful
+788;104;9;Solar Channeler;8;2;;AVERAGE;GOOD;POOR;GOOD;1;;Any good
+790;104;13;Twisted Lord;6;8;;AVERAGE;POOR;GOOD;POOR;1;;
+990;108;;Psychic Theurge;4;2;;POOR;POOR;POOR;GOOD;1;;
+980;109;67;Aerial Avenger;8;6;;AVERAGE;POOR;GOOD;POOR;1;;
+981;109;68;Arcanopath Monk;8;4;;AVERAGE;GOOD;GOOD;GOOD;1;4;Any Lawful
+973;109;26;Battle Dancer;8;4;5d4;GOOD;POOR;GOOD;POOR;0;;Any Chaotic
+982;109;70;Blessed of Gruumsh;10;4;;GOOD;GOOD;POOR;POOR;1;6;Any non-good
+983;109;72;Cerebrex;4;8;;;;;;1;;
+974;109;30;Death Master;8;2;5d4x10;AVERAGE;POOR;POOR;GOOD;0;;Any Evil
+984;109;74;Fleet Runner of Ehlonna;8;2;;;;;;1;;Neutral Good
+985;109;76;Flux Adept;6;2;;;;;;1;;
+986;109;78;Force Missile Mage;4;2;;;;;;1;;
+975;109;36;Jester;6;6;;AVERAGE;POOR;GOOD;GOOD;0;;Any Chaotic
+987;109;80;Monk of the Enabled Hand;8;4;;AVERAGE;GOOD;GOOD;GOOD;1;4;Any Lawful
+976;109;42;Mountebank (Dragon Compendium);6;6;5d4x10;AVERAGE;POOR;GOOD;POOR;0;;Any non-good
+988;109;82;Osteomancer;8;2;;;;;;1;4;
+977;109;45;Savant;8;6;5d4x10;AVERAGE;POOR;POOR;GOOD;0;;
+978;109;51;Sha'ir;4;2;3d4x10;POOR;POOR;POOR;GOOD;0;;Any
+989;109;85;Shaper of Form;6;2;;;;;;1;;
+979;109;57;Urban Druid;8;4;2d4x10;AVERAGE;GOOD;POOR;GOOD;0;;Neutral, Neutral Good, Neutral Evil, or Lawful Neutral
+;;;Competition;;;;;;;;0;;
+;;;Darkness;;;;;;;;0;;
+;;;Mountebank (Dragon Compendium);;;;;;;;0;;
