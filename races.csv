@@ -1,5 +1,5 @@
-id;rulebook_id;page;name;str;dex;con;int;wis;cha;size;speed;level_adjustment;natural_armor;type;racial_hit_dice_count;hit_die_size;base_attack_type;base_fort_save_type;base_reflex_save_type;base_will_save_type;racial_traits;combat
-1;5;189;Minotaur;8;0;4;-4;0;-2;Large;40;2;5;Monstrous humanoid;6;8;FIG;BAD;GOOD;GOOD;"* Darkvision out to 60 feet. 
+id;rulebook_id;page;name;name_pt;str;dex;con;int;wis;cha;size;speed;level_adjustment;natural_armor;type;racial_hit_dice_count;hit_die_size;base_attack_type;base_fort_save_type;base_reflex_save_type;base_will_save_type;racial_traits;combat
+1;5;189;Minotaur;;8;0;4;-4;0;-2;Large;40;2;5;Monstrous humanoid;6;8;FIG;BAD;GOOD;GOOD;"* Darkvision out to 60 feet. 
 * Racial Skills: A minotaur's monstrous humanoid levels give it skill points equal to 9  ï¿½  (2 + Int modifier, minimum 1). Its class skills are Intimidate, Jump, Listen, Search, and Spot. 
 * Minotaurs have a +4 racial bonus on Search, Spot, and Listen checks.
 * Racial Feats: A minotaur's monstrous humanoid levels give it three feats.
@@ -11,7 +11,19 @@ id;rulebook_id;page;name;str;dex;con;int;wis;cha;size;speed;level_adjustment;nat
 *Natural Cunning (Ex):* Immunity to ""_maze_"":/spells/players-handbook-v35--6/maze--2407/  spells, prevents them from ever becoming lost, and enables them to track enemies. Further, they are never caught flat-footed.
 
 "
-2;6;15;Elf;0;2;-2;0;0;0;Medium;30;0;;;;;;;;;"+2 Dexterity, ï¿½2 Constitution: Elves are graceful but frail. An elfï¿½s grace makes her naturally better at stealth and archery.
+6;5;;Drow;;0;2;-2;2;0;2;Medium;30;2;;;;;;;;;"* Darkvision out to 120 feet.
+* Immunity to sleep spells, +2 racial bonus on Will saves against spells, spell-like abilities, and enchantment effects of other sorts.
+* Spell resistance equal to 11 + class level.
+* Spell-Like Abilities: Drow can use the following spelllike abilities once per day: dancing lights, darkness, faerie fire. Caster level equals the drow's class level.
+* Weapon Proficiency: A drow is automatically proficient with the hand crossbow, the rapier, and the short sword.
+* +2 racial bonus on Listen, Search, and Spot checks. A drow who merely passes within 5 feet of a secret or concealed door is entitled to a Search check to notice it as if she were actively looking for it.
+* Light Blindness: Abrupt exposure to bright light (such as sunlight or a daylight spell) blinds drow for 1 round. In addition, they take a -1 circumstance penalty on attack rolls, saves, and checks when in bright light.
+";
+8;5;203;Orc;;4;0;0;-2;-2;-2;Medium;30;0;;;;;;;;;"*Darkvision:* Orcs (and Half-Orcs) can see in the dark up to 60 feet. Darkvision is black and white only, but it is otherwise like normal sight, and Orcs can function just fine with no light at all.
+
+*Light Sensitivity (Ex):* Orcs are dazzled in bright sunlight or within the radius of a daylight spell.
+";Orcs are proficient with all simple weapons, preferring those that cause the most damage in the least time. Many orcs who take up the warrior or fighter class also gain proficiency with the falchion or the greataxe as a martial weapon. They enjoy attacking from concealment and setting ambushes, and they obey the rules of war (such as honoring a truce) only as long as it is convenient for them.
+2;6;15;Elf;Elfo;0;2;-2;0;0;0;Medium;30;0;;;;;;;;;"+2 Dexterity, ï¿½2 Constitution: Elves are graceful but frail. An elfï¿½s grace makes her naturally better at stealth and archery.
 
 Immunity to magic sleep effects, and a +2 racial saving throw bonus against enchantment spells or effects.
 
@@ -22,7 +34,7 @@ Weapon Proficiency: Elves receive the Martial Weapon Proficiency feats for the l
 +2 racial bonus on Listen, Search, and Spot checks. An elf who merely passes within 5 feet of a secret or concealed door is entitled to a Search check to notice it as if she were actively looking for it. An elfï¿½s senses are so keen that she practically has a sixth sense about hidden portals.
 
 Automatic Languages: Common and Elven. Bonus Languages: Draconic, Gnoll, Gnome, Goblin, Orc, and Sylvan. Elves commonly know the languages of their enemies and of their friends, as well as Draconic, the language commonly found in ancient tomes of secret knowledge.";
-3;6;18;Half-elf;0;0;0;0;0;0;Medium;30;0;;;;;;;;;"Immunity to sleep spells and similar magical effects, and a +2 racial bonus on saving throw against enchantment spells or effects.
+3;6;18;Half-elf;Meio-Elfo;0;0;0;0;0;0;Medium;30;0;;;;;;;;;"Immunity to sleep spells and similar magical effects, and a +2 racial bonus on saving throw against enchantment spells or effects.
 
 Low-light Vision: A half-elf can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination. She retains the ability to distinguish color and detail under these conditions.
 
@@ -33,57 +45,18 @@ Low-light Vision: A half-elf can see twice as far as a human in starlight, moonl
 Elven Blood: For all effects related to race, a half-elf is considered an elf. Half-elves, for example, are just as vulnerable to special effects that affect elves as their elf ancestors are, and they can use magic items that are only usable by elves. (See the Monster Manual for more information about elves, and the Dungeon Master's Guide for more on magic items.)
 
 Automatic Languages: Common and Elven. Bonus Languages: Any (other than secret languages, such as Druidic). Half-elves have all the versatility and broad (if shallow) experience that humans have.";
-4;6;14;Dwarf;0;0;2;0;0;-2;Medium;20;0;;;;;;;;;"+2 Constitution, --2 Charisma: Dwarves are stout and tough but tend to be gruff and reserved.
+4;6;14;Dwarf;Anão;0;0;2;0;0;-2;Medium;20;0;;;;;;;;;"+2 Constitution, --2 Charisma: Dwarves are stout and tough but tend to be gruff and reserved.
 
 Medium: As Medium creatures, dwarves have no special bonuses or penalties due to their size.
 
-Dwarf base land speed is 20 feet. However, dwarves can move at this speed even when wearing medium or heavy armor or whose speed is reduced in such conditions).
-
-Darkvision: Dwarves can see in the dark up to 60 feet. Darkvision is black and white only, but it is otherwise like normal sight, and dwarves can function just fine with no light at all.
-
-Stonecunning: This ability grants a dwarf a +2 racial bonus on Search checks to notice unusual stonework, such as sliding walls, stonework traps, new construction (even when built to match the old), unsafe stone surfaces, shaky stone ceilings, and the like. Something that isn't stone but that is disguised as stone also counts as unusual stonework. A dwarf who merely comes within 10 feet of unusual stonework can make a Search check as if he were actively searching, and a dwarf can use the Search skill to find stonework traps as a rogue can. A dwarf can also intuit depth, sensing his approximate depth underground as naturally as a human can sense which way is up. Dwarves have a sixth sense about stonework, an innate ability that they get plenty of opportunity to practice and hone in their underground homes.
-
-Weapon Familiarity: Dwarves may treat dwarven waraxes and dwarven urgroshes (see Chapter 7:Equipment) as martial weapons, rather than exotic weapons.
-
-Stability: Dwarves are exceptionally stable on their feet. A dwarf gains a +4 bonus on ability checks made to resist being bull rushed or tripped when standing on the ground (but not when climbing, flying, riding, or otherwise not standing firmly on the ground).
-
-+2 racial bonus on saving throws against poison: Dwarves are hardy and resistant to toxins.
-
-+2 racial bonus on saving throws against spells and spell-like effects: dwarves have an innate resistance to magic spells.
-
-+1 racial bonus to attack rolls against orcs (including half-orcs) and goblinoids (including goblins, hobgoblins, and bugbears): Dwarves are trained in the special combat techniques that allow them to fight their common enemies more effectively.
-
-+4 dodge bonus to Armor Class against monsters of the giant type (such as ogres, trolls, and hill giants): This bonus represents special training that dwarves undergo, during which they learn tricks that previous generations developed in their battles with giants. Any time a creature loses its Dexterity bonus (if any) to Armor Class, such as when it's caught flat-footed, it loses its dodge bonus, too. The Monster Manual has information on which creatures are of the giant type.
-
-+2 racial bonus on Appraise checks that are related to stone or metal items: Dwarves are familiar with valuable items of all kinds, especially those made of stone or metal.
-
-+2 racial bonus on Craft checks that are related to stone or metal: Dwarves are especially capable with stonework and metalwork.
-
-Automatic Languages: Common and Dwarven. Bonus Languages: Giant, Gnome, Goblin, Orc, Terran, and Undercommon. Dwarves are familiar with the languages of their enemies and of their subterranean allies.
-
-Favored Class: Fighter. A multiclass dwarf's fighter class does not count when determining whether he takes an experience point penalty for multiclassing. (see XP for Multiclass Characters, page 60). Dwarven culture extols the virtues of battle, and the vocation comes easily to dwarves.";
-5;6;;Human;0;0;0;0;0;0;Medium;30;0;;;;;;;;;;
-6;5;;Drow;0;2;-2;2;0;2;Medium;30;2;;;;;;;;;"* Darkvision out to 120 feet.
-* Immunity to sleep spells, +2 racial bonus on Will saves against spells, spell-like abilities, and enchantment effects of other sorts.
-* Spell resistance equal to 11 + class level.
-* Spell-Like Abilities: Drow can use the following spelllike abilities once per day: dancing lights, darkness, faerie fire. Caster level equals the drow's class level.
-* Weapon Proficiency: A drow is automatically proficient with the hand crossbow, the rapier, and the short sword.
-* +2 racial bonus on Listen, Search, and Spot checks. A drow who merely passes within 5 feet of a secret or concealed door is entitled to a Search check to notice it as if she were actively looking for it.
-* Light Blindness: Abrupt exposure to bright light (such as sunlight or a daylight spell) blinds drow for 1 round. In addition, they take a -1 circumstance penalty on attack rolls, saves, and checks when in bright light.
-";
-7;6;18;Half-Orc;2;0;0;-2;0;-2;Medium;30;0;;;;;;;;;"*Darkvision:* Half-orcs (and orcs) can see in the dark up to 60 feet. Darkvision is black and white only, but it is otherwise like normal sight, and half-orcs can function just fine with no light at all.
+Dwarf base land speed is 20 feet. However, dwarves can move at";
+5;6;;Human;Humano;0;0;0;0;0;0;Medium;30;0;;;;;;;;;;
+7;6;18;Half-Orc;Meio-Orc;2;0;0;-2;0;-2;Medium;30;0;;;;;;;;;"*Darkvision:* Half-orcs (and orcs) can see in the dark up to 60 feet. Darkvision is black and white only, but it is otherwise like normal sight, and half-orcs can function just fine with no light at all.
 
 *Orc Blood:* For all effects related to race, a half-orc is considered an orc. Half-orcs, for example, are just as vulnerable to special effects that affect orcs as their orc ancestors are, and they can use magic items that are only usable by orcs. (See the Monster Manual for more information about orcs, and the Dungeon Masterï¿½s Guide for more on magic items.)
 
 *Automatic Languages:* Common and Orc. Bonus Languages: Draconic, Giant, Gnoll, Goblin, and Abyssal. Smart half-orcs (who are rare) may know the languages of their allies or rivals.";
-8;5;203;Orc;4;0;0;-2;-2;-2;Medium;30;0;;;;;;;;;"*Darkvision:* Orcs (and Half-Orcs) can see in the dark up to 60 feet. Darkvision is black and white only, but it is otherwise like normal sight, and Orcs can function just fine with no light at all.
-
-*Light Sensitivity (Ex):* Orcs are dazzled in bright sunlight or within the radius of a daylight spell.
-";Orcs are proficient with all simple weapons, preferring those that cause the most damage in the least time. Many orcs who take up the warrior or fighter class also gain proficiency with the falchion or the greataxe as a martial weapon. They enjoy attacking from concealment and setting ambushes, and they obey the rules of war (such as honoring a truce) only as long as it is convenient for them.
-9;81;93;Doppleganger;0;0;0;0;0;0;Medium;;0;;;;;;;;;;
-10;81;;Illumian;0;0;0;0;0;0;Medium;;0;;;;;;;;;;
-11;81;;Half-ogre;0;0;0;0;0;0;Medium;;0;;;;;;;;;;
-12;6;16;Gnome;-2;0;2;0;0;0;Small;20;0;;;;;;;;;" +2  Constitution,  ï¿½2  Strength:  Like  dwarves,  gnomes  are  tough, but  they  are  small  and  therefore  not  as  strong  as  larger humanoids. 
+12;6;16;Gnome;Gnomo;-2;0;2;0;0;0;Small;20;0;;;;;;;;;" +2  Constitution,  ï¿½2  Strength:  Like  dwarves,  gnomes  are  tough, but  they  are  small  and  therefore  not  as  strong  as  larger humanoids. 
 
  *Small:*  As  a  Small  creature,  a  gnome  gains  a  +1  size  bonus  to Armor Class, a +1 size bonus on attack rolls, and a +4 size bonus on Hide checks, but he uses smaller weapons than humans use, and his lifting and carrying limits are three-quarters of those of a Medium character. 
 
@@ -110,24 +83,20 @@ Favored Class: Fighter. A multiclass dwarf's fighter class does not count when d
  *Spell-Like  Abilities:*  1/dayï¿½speak  with  animals  (burrowing mammal  only,  duration  1  minute).  A  gnome  with  a  Charisma score  of  at  least  10  also  has  the  following  spell-like  abilities: 1/dayï¿½dancing lights, ghost sound, prestidigitation. Caster level 1st; save  DC  10  +  gnomeï¿½s  Cha  modifier  +  spell  level.  See  the  spell descriptions on pages 216, 235, and 264, respectively. 
 
  *Favored  Class:*  Bard.  A  multiclass  gnomeï¿½s  bard  class  does  not count  when  determining  whether  he takes an experience point penalty (see XP for Multiclass Characters, page 60). ";
-13;82;;Goliath;0;0;0;0;0;0;Medium;;0;;;;;;;;;;
-14;82;;Feral gargan;0;0;0;0;0;0;Medium;;0;;;;;;;;;;
-15;6;;Halfling;0;0;0;0;0;0;Medium;;0;;;;;;;;;;
-16;84;65;Raptoran;0;0;0;0;0;0;Medium;;0;;;;;;;;;;
-17;81;209;Aasimar;0;0;0;0;2;2;Medium;30;1;;Outsider;;8;FIG;GOOD;GOOD;GOOD;"* Darkvision 60ft.
-* +2 on Spot and Listen checks.
-* gains feats according to class
-* Daylight 1/day as a 1st level caster or a caster of his class levels, whichever is higher.
-* Automatic Languages: Common, Celestial
-* Bonus Languages: Draconic, Dwarven, Elven, Gnome, Halfling, Sylvan
-* Resistance to acid 5, cold 5, and electricity 5";Aasimars usually like a fair, straightforward contest. Against a particularly evil foe, however they fight with utter conviction and to the death.
-18;74;;Skarn;0;0;0;0;0;0;Medium;;0;;;;;;;;;;
-19;19;;Half-moon elf;0;0;0;0;0;0;Medium;;0;;;;;;;;;;
-20;81;107;Tiefling;0;2;0;2;0;-2;Medium;30;1;;Outsider;;8;FIG;GOOD;GOOD;GOOD;"* Darvision 60ft.
-* +2 bonus on bluff and hide checks
-* Darkness 1/day as a 1st level caster or a caster of her class level, whichever is higher
-* ";Tieflings are sneaky, subtle, and generally conniving. They prefer to strike from ambush and usually avoid a fair fight if they can. 
-21;34;15;Kuo-Toa;2;0;2;2;4;-2;Medium;20;3;;;;;;;;;"* Lightning Bolt (Su): Two or more kuo-toa clerics (whips) operating together can generate a stroke of lightning every 1d4 rounds. The whips must join hands to launch the bolt but need only remain within 30 feet of one another while it builds. The resulting lightning bolt deals 1d6 points of damage per whip, but a successful Reflex save halves this amount (DC 11 + highest Wisdom modifier among the participating whips + number of whips).
+15;6;;Halfling;Halfling;0;0;0;0;0;0;Medium;;0;;;;;;;;;;
+39;10;55;Kalashtar;;0;0;0;0;0;0;Medium;30;0;;;;;;;;;"* +2 racial bonus on saving throws against mind affecting spells and abilities, including possession: The kalashtar's dual spirits help them resist spells that target their minds.
+* +2 racial bonus on Bluff, Diplomacy, and Intimidate checks: Kalashtar are masters of social interaction, influencing others through their commanding presence and subtle psychic powers.
+* +2 racial bonus on Disguise checks made to impersonate a human: Kalashtar have a close physical resemblance to humans. 
+* Kalashtar sleep but they do not dream. As such, they have immunity to the dream and nightmare spells, as well as any other effect that relies on the target's ability to dream. 
+* Naturally Psionic: Kalashtar gain 1 extra power point per character level, regardless of whether they choose a psionic class.
+* Psi-Like Abilities: Mindlink (1/day). This ability is like the psionic power manifested by a wilder of 1/2 the kalashtar's Hit Dice (minimum 1st level).
+
+If you are not using the Expanded Psionics Handbook in your game, use this description of the mindlink  power: 
+
+You forge a telepathic bond with another creature within 30 feet, which must have an Intelligence score 
+of 3 or higher. The bond can be established only with a willing subject, who therefore receives no saving throw and gains no benefit from spell resistance. You can communicate telepathically through the bond even if you do not share a common language. No special power or influence is established as a result of the bond. Once the bond is formed, it works over any distance (although not from one plane  to another), but lasts for only 1 round per character level. This is a mind-affecting ability.";
+19;19;;Half-moon elf;;0;0;0;0;0;0;Medium;;0;;;;;;;;;;
+21;34;15;Kuo-Toa;;2;0;2;2;4;-2;Medium;20;3;;;;;;;;;"* Lightning Bolt (Su): Two or more kuo-toa clerics (whips) operating together can generate a stroke of lightning every 1d4 rounds. The whips must join hands to launch the bolt but need only remain within 30 feet of one another while it builds. The resulting lightning bolt deals 1d6 points of damage per whip, but a successful Reflex save halves this amount (DC 11 + highest Wisdom modifier among the participating whips + number of whips).
 
 ï¿½ Adhesive (Ex): A kuo-toa uses his own body oil and other materials to give his shield a finish almost like flypaper, capable of holding fast any creatures or items that touch it. Any creature that makes an unsuccessful melee attack against a kuo-toa must succeed on a Reflex save (DC 11 + kuo-toa's Con modifier), or the weapon sticks to the shield and is yanked out of its wielder's grip. A creature using a natural weapon is automatically grappled if it gets stuck. A kuo-toa requires one hour and special materials costing 20 gp to coat a shield with adhesive, but the secretion remains sticky for up to three days, or until it actually catches something or someone, whichever comes first. Successfully trapping a creature or item uses up the adhesive, so the shield can trap no further creatures or items until its coating is replenished. Pulling a stuck weapon or limb from a shield requires a DC 20 Strength check.
 
@@ -156,7 +125,7 @@ Favored Class: Fighter. A multiclass dwarf's fighter class does not count when d
 ï¿½ Racial Feats: A kuo-toa's monstrous humanoid levels give him one feat.
 
 ï¿½ Automatic Languages: Kuo-Toan, Undercommon, and Aquan. Bonus Languages: Common, Dwarven, Elven, and Serusan (or by character region).";
-21;34;15;Kuo-Toa;2;0;2;2;4;-2;Medium;50;3;;;;;;;;;"* Lightning Bolt (Su): Two or more kuo-toa clerics (whips) operating together can generate a stroke of lightning every 1d4 rounds. The whips must join hands to launch the bolt but need only remain within 30 feet of one another while it builds. The resulting lightning bolt deals 1d6 points of damage per whip, but a successful Reflex save halves this amount (DC 11 + highest Wisdom modifier among the participating whips + number of whips).
+21;34;15;Kuo-Toa;;2;0;2;2;4;-2;Medium;50;3;;;;;;;;;"* Lightning Bolt (Su): Two or more kuo-toa clerics (whips) operating together can generate a stroke of lightning every 1d4 rounds. The whips must join hands to launch the bolt but need only remain within 30 feet of one another while it builds. The resulting lightning bolt deals 1d6 points of damage per whip, but a successful Reflex save halves this amount (DC 11 + highest Wisdom modifier among the participating whips + number of whips).
 
 ï¿½ Adhesive (Ex): A kuo-toa uses his own body oil and other materials to give his shield a finish almost like flypaper, capable of holding fast any creatures or items that touch it. Any creature that makes an unsuccessful melee attack against a kuo-toa must succeed on a Reflex save (DC 11 + kuo-toa's Con modifier), or the weapon sticks to the shield and is yanked out of its wielder's grip. A creature using a natural weapon is automatically grappled if it gets stuck. A kuo-toa requires one hour and special materials costing 20 gp to coat a shield with adhesive, but the secretion remains sticky for up to three days, or until it actually catches something or someone, whichever comes first. Successfully trapping a creature or item uses up the adhesive, so the shield can trap no further creatures or items until its coating is replenished. Pulling a stuck weapon or limb from a shield requires a DC 20 Strength check.
 
@@ -185,34 +154,101 @@ Favored Class: Fighter. A multiclass dwarf's fighter class does not count when d
 ï¿½ Racial Feats: A kuo-toa's monstrous humanoid levels give him one feat.
 
 ï¿½ Automatic Languages: Kuo-Toan, Undercommon, and Aquan. Bonus Languages: Common, Dwarven, Elven, and Serusan (or by character region).";
-22;47;190;Pixie (Sprite);-4;4;0;2;0;2;Small;20;0;;;;;;;;;"* As Small creatures, pixies gain a +1 size bonus to Armor Class, a +1 size bonus on attack rolls, and a +4 size bonus on Hide checks, but they must use smaller weapons than Medium-size creatures do, and their lifting and carrying limits are three-quarters of those of Medium-size characters.
+36;37;13;Jerren;;-2;2;0;0;0;0;Small;20;0;;;;;;;;;"+2 Dexterity, --2 Strength: Jerren are quick, agile, and skilled with ranged weapons, but they are Small and therefore not as strong as other humanoids.
+
++2 racial bonus on Intimidate, Bluff, and Move Silently checks. Jerren are scary, untruthful, and s";
+37;37;12;Vashar;;0;0;0;0;0;0;Medium;;0;;;;;;;;;"Because they are vile to the core, Vasharans each receive 1 extra vile feat at 1st level. 
+
+A Vasharan receives 4 extra skill points at 1st level and 1 extra skill point at each additional level. Like humans, they are versatile and capable. (The 4 skill points at first level are added on as a bonus, not multiplied in.)
+
+Automatic Language: Common. Bonus Languages: Any (other than secret languages such as Druidic). ";
+22;47;190;Pixie (Sprite);;-4;4;0;2;0;2;Small;20;0;;;;;;;;;"* As Small creatures, pixies gain a +1 size bonus to Armor Class, a +1 size bonus on attack rolls, and a +4 size bonus on Hide checks, but they must use smaller weapons than Medium-size creatures do, and their lifting and carrying limits are three-quarters of those of Medium-size characters.
 
 ï¿½ Low-Light Vision: Pixies can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination. They retain the ability to distinguish color and detail under these conditions.
 
 ï¿½ Skills: +2 racial bonus on Listen, Search, and Spot checks.
 
 ï¿½ Automatic Languages: Common and Sylvan.";
-23;52;165;Bariaur;4;0;2;0;0;-2;Medium;40;2;;Outsider;3;8;FIG;GOOD;GOOD;GOOD;"* Darkvision out to 60 feet.
+40;47;217;Half-ogres;;6;-2;2;-2;0;-2;Large;30;1;4;Giant;;8;CLR;GOOD;BAD;BAD;"*Darkvision:* Half-ogres have darkvision with a range of 60 feet. 
+*Giant Blood:* For all special abilities and effects, a half-ogre is considered a giant. Half-ogres can use giant weapons and magic items with racially specific giant powers as if they were giants. 
+
+";
+23;52;165;Bariaur;;4;0;2;0;0;-2;Medium;40;2;;Outsider;3;8;FIG;GOOD;GOOD;GOOD;"* Darkvision out to 60 feet.
 * Racial Hit Dice: A bariaur begins with three levels of outsider, which provide 3d8 Hit Dice, a base attack bonus of +3, and base saving throw bonuses of Fort +3, Ref +3, and Will +3.
 * Racial Skills: A bariaur's outsider levels give it skill points equal to 6 ï¿½ (8 + Int modifier). Its class skills are Handle Animal, Hide, Jump, Listen, Move Silently, Sense Motive, Spot, and Survival.
 * A bariaur's outsider levels give it two feats.
 * Skill Bonuses: Bariaurs have keen senses and gain a +2 racial bonus on Listen and Spot checks.
 ";
-24;96;15;Vanara;-2;0;0;2;2;0;Medium;30;0;;;;;;;;;"*Special* +8 on Climb checks, Use Str or Dex whichever is higher. May chose to take 10, even if rushed or threatened when climbing. If climbing quickly, he moves at 30 feet and makes a single Climb check each round at a -5 penalty. 
+18;74;;Skarn;;0;0;0;0;0;0;Medium;;0;;;;;;;;;;
+9;81;93;Doppleganger;;0;0;0;0;0;0;Medium;;0;;;;;;;;;;
+10;81;;Illumian;;0;0;0;0;0;0;Medium;;0;;;;;;;;;;
+11;81;;Half-ogre;;0;0;0;0;0;0;Medium;;0;;;;;;;;;;
+17;81;209;Aasimar;;0;0;0;0;2;2;Medium;30;1;;Outsider;;8;FIG;GOOD;GOOD;GOOD;"* Darkvision 60ft.
+* +2 on Spot and Listen checks.
+* gains feats according to class
+* Daylight 1/day as a 1st level caster or a caster of his class levels, whichever is higher.
+* Automatic Languages: Common, Celestial
+* Bonus Languages: Draconic, Dwarven, Elven, Gnome, Halfling, Sylvan
+* Resistance to acid 5, cold 5, and electricity 5";Aasimars usually like a fair, straightforward contest. Against a particularly evil foe, however they fight with utter conviction and to the death.
+20;81;107;Tiefling;;0;2;0;2;0;-2;Medium;30;1;;Outsider;;8;FIG;GOOD;GOOD;GOOD;"* Darvision 60ft.
+* +2 bonus on bluff and hide checks
+* Darkness 1/day as a 1st level caster or a caster of her class level, whichever is higher
+* ";Tieflings are sneaky, subtle, and generally conniving. They prefer to strike from ambush and usually avoid a fair fight if they can. 
+41;81;108;Underfolk;;0;0;0;0;0;0;Medium;30;0;;Humanoid (good fort);;8;CLR;GOOD;BAD;BAD;"* Darkvision: Underfolk can see in the dark out to 60 feet. Darkvision is black and white only, but it is otherwise like normal sight, and underfolk can function just fine with no light at all.
+
+* 4 extra skill points at 1st level and 1 extra skill point at each additional level, since underfolk (like their human ancestors) are versitile and capable. (The 4 skill points at 1st level are added on as a bonus, not multiplied in,)
+
+*+2 racial bonus on Listen checks: living as underground hunters for generations has given underfolk keen hearing.
+
+*Weapon Familiarity: Underfolk treat light and heavy picks as simple weapons rather than martial weapons.
+
+* Camouflage (Ex): Underfolk can change their skin coloration at will to mimic the surrounding terrain, giving them a +_4 racial bonus to Hide checks. In rocky terrain, this bonus increases to +10. This ability works even if an underfolk is viewed with darkvision, although _true seeing_ negates the bonus.
+
+*Light Sensitivity (Ex): Underfolk are dazzled in bright sunlight or within the radius of a ""_daylight_""/spells/players-handbook-v35--6/daylight--2601/ spell";
+42;81;;Skulk;;0;0;0;0;0;0;Medium;;0;;;;;;;;;;
+13;82;;Goliath;;0;0;0;0;0;0;Medium;;0;;;;;;;;;;
+14;82;;Feral gargan;;0;0;0;0;0;0;Medium;;0;;;;;;;;;;
+35;82;94;Whisper Gnome;;-2;2;2;0;0;-2;Small;30;0;;;;;;;;;"* +2 Dexterity, +2 Constitution, -2 Strength, -2 Charisma: Whisper gnomes are agile and tough, but they are Small and therefore not as strong as larger humanoids. Their quiet nature also leads to a lack of personal presence.
+
+* Small: As a Small creature, a whisper gnome gains a +1 size bonus to Armor Class, a +1 size bonus on attack rolls, and a +4 size bonus on Hide checks, but he uses smaller weapons than ""humans"":/races/players-handbook-v35--6/human--5/ use, and his lifting and carrying limits are three-quarters of those of a Medium character.
+
+* Whisper gnome base land speed is 30 feet, despite their size.
+
+* Low-Light Vision: A whisper gnome can see twice as far as a ""human"":/races/players-handbook-v35--6/human--5/ in starlight, moonlight, and similar conditions of poor illumination. He retains the ability to distinguish color and detail under these conditions.
+
+* Darkvision: Whisper gnomes can see in the dark out to 60 feet. Darkvision is black and white only, but it is otherwise like normal sight, and whisper gnomes can function just fine with no light at all.
+
+* Weapon Familiarity: Whisper gnomes treat gnome hooked hammers as martial weapons rather than exotic weapons.
+
+* +1 racial bonus on attack rolls against kobolds and goblinoids (including goblins, hobgoblins, and bugbears): Like their more common cousins, whisper gnomes battle these creatures frequently and practice special techniques for fighting them.
+
+* +4 dodge bonus to Armor Class against monsters of the giant type (such as ogres, trolls, and hill giants): This bonus represents special training that whisper gnomes undergo, during which they learn tricks that previous generations developed in their battles with giants. Any time a creature loses its Dexterity bonus (if any) to Armor Class, such as when it's caught flat-footed, it loses its dodge bonus, too. The Monster Manual has information on which creatures are of the giant type.
+
+* +4 racial bonus on Hide and Move Silently checks: Whisper gnomes have an uncanny knack for stealth.
+
+* +2 racial bonus on Listen and Spot checks: Whisper gnomes have keen eyes and ears.
+
+* Spell-Like Abilities: 1/day - ""_silence_"":/spells/players-handbook-v35--6/silence--2704/ (must be centered on whisper gnome's body). A whisper gnome with a Charisma score of at least 10 also has the following spell-like abilities: 1/day - ""_ghost sound_"":/spells/players-handbook-v35--6/ghost-sound--2670/, ""_mage hand_"":/spells/players-handbook-v35--6/mage-hand--2833/, ""_message_"":/spells/players-handbook-v35--6/message--2843/. Caster level 1st; save DC 10 + whisper gnome's Cha modifier + spell level.
+
+* Favored Class: ""Rogue"":/classes/rogue/. The best multiclass choices for whisper gnome rogues are ""fighter"":/classes/fighter/, ""ranger"":/classes/ranger/, and ""cleric"":/classes/cleric/. A fair number of whisper gnome ""wizards"":/classes/wizard/ and ""sorcerers"":/classes/sorcerer/ become ""arcane tricksters"":/classes/arcane-trickster/.
+
+* Racial Feats: The ""Extra Silence"":/feats/races-of-stone--82/extra-silence--1035/ and ""Silencing Strike"":/feats/races-of-stone--82/silencing-strike--2624/ feats can be taken by whisper gnome characters (see Chapter 6: Character Options).";
+16;84;65;Raptoran;;0;0;0;0;0;0;Medium;;0;;;;;;;;;;
+24;96;15;Vanara;;-2;0;0;2;2;0;Medium;30;0;;;;;;;;;"*Special* +8 on Climb checks, Use Str or Dex whichever is higher. May chose to take 10, even if rushed or threatened when climbing. If climbing quickly, he moves at 30 feet and makes a single Climb check each round at a -5 penalty. 
 
 *Low-light Vision:* Vanaras can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination. They retain the ability to distinguish color and detail under these conditions.
 
 *+4 racial bonus on Balance and jump checks:* 
 
 *+2 racial bonus on Hide and Move Silently checks:* ";
-24;96;15;Vanara;-2;0;0;2;2;0;Medium;20;0;;;;;;;;;"*Special* +8 on Climb checks, Use Str or Dex whichever is higher. May chose to take 10, even if rushed or threatened when climbing. If climbing quickly, he moves at 30 feet and makes a single Climb check each round at a -5 penalty. 
+24;96;15;Vanara;;-2;0;0;2;2;0;Medium;20;0;;;;;;;;;"*Special* +8 on Climb checks, Use Str or Dex whichever is higher. May chose to take 10, even if rushed or threatened when climbing. If climbing quickly, he moves at 30 feet and makes a single Climb check each round at a -5 penalty. 
 
 *Low-light Vision:* Vanaras can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination. They retain the ability to distinguish color and detail under these conditions.
 
 *+4 racial bonus on Balance and jump checks:* 
 
 *+2 racial bonus on Hide and Move Silently checks:* ";
-25;96;13;Nezumi;0;0;2;0;0;-2;Medium;40;0;;;;;;;;;"*Low-light Vision:* Nezumi can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination. They retain the ability to distinguish color and detail under these conditions.
+25;96;13;Nezumi;;0;0;2;0;0;-2;Medium;40;0;;;;;;;;;"*Low-light Vision:* Nezumi can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination. They retain the ability to distinguish color and detail under these conditions.
 
 *+2 racial bonus on Hide and Move Silently checks:* 
 
@@ -233,22 +269,14 @@ Nezumi with the Scent feat can identify familiar odors just as humans do familia
 Water, particularly running water, ruins a trail. 
 
 False, powerful odors can easily mask other scents. The presence of such an odor completely spoils the ability to properly detect or identify creatures, and the base Wilderness Lore DC to track becomes 20 rather than 10.";
-26;96;14;Spirit Folk, Bamboo;0;0;0;0;0;0;Medium;30;0;;;;;;;;;"+2 racial bonus on Wilderness Lore checks.
+26;96;14;Spirit Folk, Bamboo;;0;0;0;0;0;0;Medium;30;0;;;;;;;;;"+2 racial bonus on Wilderness Lore checks.
 
 +4 racial bonus on Hide checks when in woods or forest.
 
 *Trackless Step:* Bamboo spirit folk leave no trail in natural surroundings and cannot be tracked.
 
-+2 racial bonus on saving throws against spells and spell-like effects with the words ""earth,"" ""rock,"" ""stone,"" or ""wood"" in the name of the effect, shugenja spells of the earth element, and wu jen spells connected to earth or wood.
-
-*Low-light Vision:* Spirit folk can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination . They retain the ability to distinguish color and detail under these conditions.
-
-Once per day a bamboo spirit folk can use ""_speak with animals_"":/spells/players-handbook-v35--6/speak-with-animals--2515/ to speak with any animal . This ability is innate to bamboo spirit folk . It has a duration of 1 minute (the spirit folk is considered a 1st-level caster when using this ability, regardless of actual level) . 
-
-*Low-light Vision:* Spirit folk can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination . They retain the ability to distinguish color and detail under these conditions.
-
-*Favored Class:* Any. When determining whether a multiclass spirit folk suffers an XP penalty, her highest-level class does not count.";
-27;96;14;Spirit Folk, River;0;0;0;0;0;0;Medium;30;0;;;;;;;;;"*Water Breathing:* River spirit folk can breathe water as easily as they breathe air.
++2 racial bonus on saving throws against spells ";
+27;96;14;Spirit Folk, River;;0;0;0;0;0;0;Medium;30;0;;;;;;;;;"*Water Breathing:* River spirit folk can breathe water as easily as they breathe air.
 
 River spirit folk have a base swimming speed of 30 feet. They do not need to make Swim checks to swim normally. They gain a +8 racial bonus on any Swim check to perform some special action or avoid a hazard, and they can always choose to take 10 on these checks, even if rushed or threatened when swimming. They can use the run action while swimming, provided they swim in a straight line.
 
@@ -257,7 +285,7 @@ River spirit folk have a base swimming speed of 30 feet. They do not need to mak
 Once per day a river spirit folk can use ""_speak with animals_"":/spells/players-handbook-v35--6/speak-with-animals--2515/ to speak with any fish . This ability is innate to river spirit folk. It has a duration of 1 minute (the spirit folk is considered a 1st-level caster when using this ability, regardless of actual level).
 
 *Favored Class:* Any. When determining whether a multiclass spirit folk suffers an XP penalty, her highest-level class does not count.";
-27;96;14;Spirit Folk, River;0;0;0;0;0;0;Medium;30;0;;;;;;;;;"*Water Breathing:* River spirit folk can breathe water as easily as they breathe air.
+27;96;14;Spirit Folk, River;;0;0;0;0;0;0;Medium;30;0;;;;;;;;;"*Water Breathing:* River spirit folk can breathe water as easily as they breathe air.
 
 River spirit folk have a base swimming speed of 30 feet. They do not need to make Swim checks to swim normally. They gain a +8 racial bonus on any Swim check to perform some special action or avoid a hazard, and they can always choose to take 10 on these checks, even if rushed or threatened when swimming. They can use the run action while swimming, provided they swim in a straight line.
 
@@ -266,7 +294,7 @@ River spirit folk have a base swimming speed of 30 feet. They do not need to mak
 Once per day a river spirit folk can use ""_speak with animals_"":/spells/players-handbook-v35--6/speak-with-animals--2515/ to speak with any fish . This ability is innate to river spirit folk. It has a duration of 1 minute (the spirit folk is considered a 1st-level caster when using this ability, regardless of actual level).
 
 *Favored Class:* Any. When determining whether a multiclass spirit folk suffers an XP penalty, her highest-level class does not count.";
-28;96;;Spirit Folk, Sea;0;0;0;0;0;0;Medium;30;0;;;;;;;;;"*Water Breathing:* Sea spirit folk can breathe water as easily as they breathe air.
+28;96;;Spirit Folk, Sea;;0;0;0;0;0;0;Medium;30;0;;;;;;;;;"*Water Breathing:* Sea spirit folk can breathe water as easily as they breathe air.
 
 They do not need to make Swim checks to swim normally. They gain a +8 racial bonus on any Swim check to perform some special action or avoid a hazard, and they can always choose to take 10 on these checks, even if rushed or threatened when swimming. They can use the run action while swimming, provided they swim in a straight line.
 
@@ -279,7 +307,7 @@ A sea spirit folk can make a Knowledge (nature) check (or an untrained intellige
 *Spirit Subtype:* Spirit folk have the spirit subtype, which means they can be affected by spells that specifically target spirits, such as ""_protection from spirits_"":/spells/oriental-adventures--96/protection-from-spirits--2023/ and ""_invisibility to spirits_"":/spells/oriental-adventures--96/invisibility-to-spirits--2019/. Their human ancestry makes them humanoids, however, so they are also affected by spells such as ""_hold person_"":/spells/players-handbook-v35--6/hold-person--2558/ and ""_charm person_"":/spells/players-handbook-v35--6/charm-person--2535/.
 
 *Favored Class:* Any. When determining whether a multiclass spirit folk suffers an XP penalty, her highest level class does not count.";
-28;96;;Spirit Folk, Sea;0;0;0;0;0;0;Medium;30;0;;;;;;;;;"*Water Breathing:* Sea spirit folk can breathe water as easily as they breathe air.
+28;96;;Spirit Folk, Sea;;0;0;0;0;0;0;Medium;30;0;;;;;;;;;"*Water Breathing:* Sea spirit folk can breathe water as easily as they breathe air.
 
 They do not need to make Swim checks to swim normally. They gain a +8 racial bonus on any Swim check to perform some special action or avoid a hazard, and they can always choose to take 10 on these checks, even if rushed or threatened when swimming. They can use the run action while swimming, provided they swim in a straight line.
 
@@ -292,7 +320,21 @@ A sea spirit folk can make a Knowledge (nature) check (or an untrained intellige
 *Spirit Subtype:* Spirit folk have the spirit subtype, which means they can be affected by spells that specifically target spirits, such as ""_protection from spirits_"":/spells/oriental-adventures--96/protection-from-spirits--2023/ and ""_invisibility to spirits_"":/spells/oriental-adventures--96/invisibility-to-spirits--2019/. Their human ancestry makes them humanoids, however, so they are also affected by spells such as ""_hold person_"":/spells/players-handbook-v35--6/hold-person--2558/ and ""_charm person_"":/spells/players-handbook-v35--6/charm-person--2535/.
 
 *Favored Class:* Any. When determining whether a multiclass spirit folk suffers an XP penalty, her highest level class does not count.";
-29;109;6;Diabolus;0;0;0;0;0;0;Medium;30;1;;;;;;;;;"ï¿½ Outsider (native): Diaboli are outsiders with the native subtype. Diaboli have a knack for making themselves at home on new planes.
+34;96;11;Korobukuru;;0;0;2;-2;0;0;Small;20;0;;;;;;;;;"* Small: As Small creatures, korobokurus gain a +1 size bonus to Armor Class, a +1 size bonus on attack rolls, and a +4 size bonus on Hide checks, but they must use smaller weapons than humans use, and their lifting and carrying limits are three-quarters of those of Medium-size characters.
+
+* Darkvision: Korobokurus can see in the dark up to 60 feet. Darkvision is black and white only, but it is otherwise like normal sight, and korobokurus can function just fine with no light at all.
+
+* +2 racial bonus on saving throws against poison: Korobokurus are hardy and resistant to toxins.
+
+* +2 racial bonus on saving throws against spells and spell-like effects.
+
+* +1 racial bonus on attack rolls against goblinoids (goblins, hobgoblins, bugbears, bakemono, and goblin rats): Korobokurus are trained in the special combat techniques that allow them to fight their common enemies more effectively.
+
+* +4 dodge bonus against giants: This bonus represents special training that korobokurus undergo, during which they learn tricks that previous generations developed in their battles with ogres. Note that any time a character loses his positive Dexterity bonus to Armor Class, such as when he's caught flat-footed, he loses his dodge bonus, too.
+
+* +2 racial bonus on Wilderness Lore checks: Korobokurus are familiar with the wild lands in which they dwell.";
+38;96;10;Hengeyokai;;0;0;0;0;-2;0;Medium;30;1;;;;;;;;;"-2 Wisdom. Hengeyokai tend to be flighty and weak-willed. A hengeyokai's physical ability scores vary widely in its animal and hybrid forms; the character's generated ability scores apply to its human form. In hybrid form, a hengeyokai gains a +2 adjustme";
+29;109;6;Diabolus;;0;0;0;0;0;0;Medium;30;1;;;;;;;;;"ï¿½ Outsider (native): Diaboli are outsiders with the native subtype. Diaboli have a knack for making themselves at home on new planes.
 ï¿½ Chaotic: Diaboli have the chaotic subtype.
 ï¿½ Medium: As Medium creatures, diaboli have no special bonuses or penalties due to their size.
 ï¿½ Diaboli base land speed is 30 feet.
@@ -306,7 +348,7 @@ A sea spirit folk can make a Knowledge (nature) check (or an untrained intellige
 ï¿½ Bonus Languages: Abyssal, Common, Draconic, and Infernal. Diaboli learn the languages easiest for them to pronounce as well as the most frequently used languages near their adopted homes.
 ï¿½ Favored Class: Sorcerer. A multiclass diaboli's sorcerer class does not count when determining whether he takes an experience point penalty for multiclassing (see XP for Multiclass Characters on page 60 of the Player's Handbook). With a unique tie to the multiverse and strong streak of chaotic individualism, diaboli make excellent sorcerers.
 ï¿½ Level Adjustment: +1.";
-30;109;10;Diopsid;0;-2;2;-2;0;0;Medium;30;1;4;Monstrous humanoid;;8;FIG;BAD;GOOD;GOOD;"DIOPSID RACIAL TRAITS
+30;109;10;Diopsid;;0;-2;2;-2;0;0;Medium;30;1;4;Monstrous humanoid;;8;FIG;BAD;GOOD;GOOD;"DIOPSID RACIAL TRAITS
 ï¿½ Monstrous Humanoid: As monstrous humanoids, diopsids are immune to spells that only affect humanoids, such as charm person and hold person.
 ï¿½ +2 Constitution, -2 Dexterity, -2 Intelligence: Diopsids are tough, but they are clumsy and slow witted compared to other races. A diopsid's young age at adulthood makes it inexperienced and ignorant compared to other folk.
 ï¿½ Medium: As size Medium creatures, diopsids gain no special benefits or penalties due to their size. Diopsid base land speed is 30 feet.
@@ -321,7 +363,7 @@ A sea spirit folk can make a Knowledge (nature) check (or an untrained intellige
 ï¿½ Automatic Languages: Common and Diopsid. Bonus Languages: Dwarf, Orc, Terran, Undercommon. Diopsids learn the languages of the Underdark to facilitate trade with other folk. The diopsid love of new weapons and metal goods is powerful enough to overcome their normally sluggish intellects. The diopsid native tongue employs their luminous glands, allowing them to flash messages across the largest Underdark caverns without a sound. Diopsids can also create flashes of ""light"" visible only to creatures with darkvision, allowing them to ""whisper"" without tipping off their presence to creatures that rely on normal vision. An observer can detect a diopsid communicating in this manner with a Spot check rather than a Listen check. While creatures that lack bioluminescence cannot ""speak"" Diopsid, they can understand and translate it.
 ï¿½ Favored Class: Barbarian. A multiclass diopsid's barbarian levels do not count when determining whether it takes an experience point penalty. Diopsids are strong, tough warriors who prefer brute force to elegant fighting styles. Thus, the barbarian class is a perfect match for them.
 ï¿½ Level Adjustment: +1.";
-31;109;;Dvati;0;0;0;0;0;0;Medium;30;1;;;;;;;;;"ï¿½ Medium: As Medium creatures, dvati have no special bonuses or penalties due to size.
+31;109;;Dvati;;0;0;0;0;0;0;Medium;30;1;;;;;;;;;"ï¿½ Medium: As Medium creatures, dvati have no special bonuses or penalties due to size.
 ï¿½ Dvati base land speed is 30 feet.
 ï¿½ Darkvision: Dvati can see in the dark to a range of up to 60 feet. Darkvision is black and white only, but it is otherwise like normal sight, and dvati can function just fine with no light at all.
 ï¿½ Twins:
@@ -347,7 +389,7 @@ In most cases, an effect that applies to one twin fails to spill over to the oth
 ï¿½ Automatic Languages: Common and Dvati. Bonus Languages: Any. Dvati requires two creatures speaking simultaneously. One twin provides a description of actions, while the other supplies words and descriptions of things. The two weave together to communicate in a uniquely dvati manner. Other creatures can speak this tongue, but two Dvati-speaking creatures must work together. Otherwise, communication via this language is impossible. In most cases, dvati use Common to speak with other races.
 ï¿½ Favored Class: Bard. A multiclass dvati's bard class does not count when determining whether he takes an experience point penalty for multiclassing. The dvati's strange, magical nature makes them natural Spellcasters, and their ability to meld their voices into one grants them an unmatched singing ability. Dvati bards are legendary for their ability to perform as flawless duos.
 ï¿½ Level Adjustment: +1.";
-32;109;18;Lupin;0;0;0;0;0;0;Medium;30;0;;Monstrous humanoid;;8;FIG;BAD;GOOD;GOOD;"ï¿½ Monstrous Humanoid: As monstrous humanoids, lupins are immune to spells that only affect humanoids, such as _charm person_ and _hold person._
+32;109;18;Lupin;;0;0;0;0;0;0;Medium;30;0;;Monstrous humanoid;;8;FIG;BAD;GOOD;GOOD;"ï¿½ Monstrous Humanoid: As monstrous humanoids, lupins are immune to spells that only affect humanoids, such as _charm person_ and _hold person._
 ï¿½ Medium: As Medium creatures, lupins have no special bonuses or penalties due to size.
 ï¿½ Lupin base land speed is 30 feet.
 ï¿½ Darkvision: Lupins can see in the dark up to 60 feet. Darkvision is black and white only, but it is otherwise like normal sight, and lupins can function just fine with no light at all.
@@ -369,7 +411,7 @@ A lupin gains a +2 racial bonus on all Survival checks made to follow tracks. Lu
 ï¿½ +2 bonus on Listen checks: Lupins have a keen sense of hearing.
 ï¿½ Automatic Languages: Common and Lupin. Bonus languages: Elven, Gnoll, Gnome, Goblin, Halfling, and Sylvan. Lupins tend to learn the languages of both their enemies and their friends.
 ï¿½ Favored Class: Ranger. A multiclass lupin's ranger class does not count when determining whether he takes an experience point penalty for multiclassing. The lupins' keen senses make them natural trackers. Lupin rangers may choose humanoid (shapechanger) as a favored enemy.";
-33;109;21;Tibbit;-2;2;0;0;0;0;Small;20;0;;Monstrous humanoid;;8;FIG;BAD;GOOD;GOOD;"ï¿½ Monstrous Humanoid (shapeshifter): As monstrous humanoids, tibbits are immune to spells that affect only humanoids. (Tibbits, of course, would be horrified to learn that they are classified as ""monstrous."") They also have the shapeshifter subtype.
+33;109;21;Tibbit;;-2;2;0;0;0;0;Small;20;0;;Monstrous humanoid;;8;FIG;BAD;GOOD;GOOD;"ï¿½ Monstrous Humanoid (shapeshifter): As monstrous humanoids, tibbits are immune to spells that affect only humanoids. (Tibbits, of course, would be horrified to learn that they are classified as ""monstrous."") They also have the shapeshifter subtype.
 ï¿½ +2 Dexterity, -2 Strength: Tibbits are small and relatively weak, but they have a cat's quick reflexes and fluid agility.
 ï¿½ Small: As a Small creature, a tibbit gains a +1 size bonus to Armor Class, a +1 size bonus on attack rolls, and a +4 size bonus on Hide checks, but she uses smaller weapons than humans use, and her lifting and carrying limits are three-quarters of those of a Medium creature.
 ï¿½ Tibbit base land speed is 20 feet.
@@ -395,122 +437,3 @@ Aside from the changes noted here, a tibbit's abilities and game statistics othe
 ï¿½ +2 racial bonus on all Jump and Escape Artist checks. Like their feline cousins, tibbits are quick, nimble, and lithe.
 ï¿½ Automatic Languages: Common and Feline. The Feline language is spoken by all tibbits and cats with an Intelligence of 3 or higher, allowing a tibbit to use the Diplomacy skill against such felines. This language is part of the felines' racial heritage. Other races cannot master it, nor can they use spells such as tongues to communicate with cats. Bonus Languages: Any. Tibbits travel far and wide and their curiosity pushes them to learn a number of languages.
 ï¿½ Favored Class: Rogue. A multiclass tibbit's rogue class does not count when determining whether she takes an experience point penalty for multiclassing. Tibbits excel at keeping a low profile and finding secrets, two tasks for which the rogue is ideally suited.";
-34;96;11;Korobukuru;0;0;2;-2;0;0;Small;20;0;;;;;;;;;"* Small: As Small creatures, korobokurus gain a +1 size bonus to Armor Class, a +1 size bonus on attack rolls, and a +4 size bonus on Hide checks, but they must use smaller weapons than humans use, and their lifting and carrying limits are three-quarters of those of Medium-size characters.
-
-* Darkvision: Korobokurus can see in the dark up to 60 feet. Darkvision is black and white only, but it is otherwise like normal sight, and korobokurus can function just fine with no light at all.
-
-* +2 racial bonus on saving throws against poison: Korobokurus are hardy and resistant to toxins.
-
-* +2 racial bonus on saving throws against spells and spell-like effects.
-
-* +1 racial bonus on attack rolls against goblinoids (goblins, hobgoblins, bugbears, bakemono, and goblin rats): Korobokurus are trained in the special combat techniques that allow them to fight their common enemies more effectively.
-
-* +4 dodge bonus against giants: This bonus represents special training that korobokurus undergo, during which they learn tricks that previous generations developed in their battles with ogres. Note that any time a character loses his positive Dexterity bonus to Armor Class, such as when he's caught flat-footed, he loses his dodge bonus, too.
-
-* +2 racial bonus on Wilderness Lore checks: Korobokurus are familiar with the wild lands in which they dwell.";
-35;82;94;Whisper Gnome;-2;2;2;0;0;-2;Small;30;0;;;;;;;;;"* +2 Dexterity, +2 Constitution, -2 Strength, -2 Charisma: Whisper gnomes are agile and tough, but they are Small and therefore not as strong as larger humanoids. Their quiet nature also leads to a lack of personal presence.
-
-* Small: As a Small creature, a whisper gnome gains a +1 size bonus to Armor Class, a +1 size bonus on attack rolls, and a +4 size bonus on Hide checks, but he uses smaller weapons than ""humans"":/races/players-handbook-v35--6/human--5/ use, and his lifting and carrying limits are three-quarters of those of a Medium character.
-
-* Whisper gnome base land speed is 30 feet, despite their size.
-
-* Low-Light Vision: A whisper gnome can see twice as far as a ""human"":/races/players-handbook-v35--6/human--5/ in starlight, moonlight, and similar conditions of poor illumination. He retains the ability to distinguish color and detail under these conditions.
-
-* Darkvision: Whisper gnomes can see in the dark out to 60 feet. Darkvision is black and white only, but it is otherwise like normal sight, and whisper gnomes can function just fine with no light at all.
-
-* Weapon Familiarity: Whisper gnomes treat gnome hooked hammers as martial weapons rather than exotic weapons.
-
-* +1 racial bonus on attack rolls against kobolds and goblinoids (including goblins, hobgoblins, and bugbears): Like their more common cousins, whisper gnomes battle these creatures frequently and practice special techniques for fighting them.
-
-* +4 dodge bonus to Armor Class against monsters of the giant type (such as ogres, trolls, and hill giants): This bonus represents special training that whisper gnomes undergo, during which they learn tricks that previous generations developed in their battles with giants. Any time a creature loses its Dexterity bonus (if any) to Armor Class, such as when it's caught flat-footed, it loses its dodge bonus, too. The Monster Manual has information on which creatures are of the giant type.
-
-* +4 racial bonus on Hide and Move Silently checks: Whisper gnomes have an uncanny knack for stealth.
-
-* +2 racial bonus on Listen and Spot checks: Whisper gnomes have keen eyes and ears.
-
-* Spell-Like Abilities: 1/day - ""_silence_"":/spells/players-handbook-v35--6/silence--2704/ (must be centered on whisper gnome's body). A whisper gnome with a Charisma score of at least 10 also has the following spell-like abilities: 1/day - ""_ghost sound_"":/spells/players-handbook-v35--6/ghost-sound--2670/, ""_mage hand_"":/spells/players-handbook-v35--6/mage-hand--2833/, ""_message_"":/spells/players-handbook-v35--6/message--2843/. Caster level 1st; save DC 10 + whisper gnome's Cha modifier + spell level.
-
-* Favored Class: ""Rogue"":/classes/rogue/. The best multiclass choices for whisper gnome rogues are ""fighter"":/classes/fighter/, ""ranger"":/classes/ranger/, and ""cleric"":/classes/cleric/. A fair number of whisper gnome ""wizards"":/classes/wizard/ and ""sorcerers"":/classes/sorcerer/ become ""arcane tricksters"":/classes/arcane-trickster/.
-
-* Racial Feats: The ""Extra Silence"":/feats/races-of-stone--82/extra-silence--1035/ and ""Silencing Strike"":/feats/races-of-stone--82/silencing-strike--2624/ feats can be taken by whisper gnome characters (see Chapter 6: Character Options).";
-36;37;13;Jerren;-2;2;0;0;0;0;Small;20;0;;;;;;;;;"+2 Dexterity, --2 Strength: Jerren are quick, agile, and skilled with ranged weapons, but they are Small and therefore not as strong as other humanoids.
-
-+2 racial bonus on Intimidate, Bluff, and Move Silently checks. Jerren are scary, untruthful, and sneaky.
-
-+1 racial bonus on all saving throws. Jerren are surprisingly capable of avoiding mishaps.
-
-+2 morale bonus on saving throws against fear. (This bonus stacks with Jerren's +1 bonus on saving throws in
-general.)
-
-+1 racial bonus on attack rolls with a thrown weapon. Jerren delight in inflicting harm from afar.
-
-+2 racial bonus on Listen checks. Jerren are quite skilled in overhearing secrets.";
-37;37;12;Vashar;0;0;0;0;0;0;Medium;;0;;;;;;;;;"Because they are vile to the core, Vasharans each receive 1 extra vile feat at 1st level. 
-
-A Vasharan receives 4 extra skill points at 1st level and 1 extra skill point at each additional level. Like humans, they are versatile and capable. (The 4 skill points at first level are added on as a bonus, not multiplied in.)
-
-Automatic Language: Common. Bonus Languages: Any (other than secret languages such as Druidic). ";
-38;96;10;Hengeyokai;0;0;0;0;-2;0;Medium;30;1;;;;;;;;;"-2 Wisdom. Hengeyokai tend to be flighty and weak-willed. A hengeyokai's physical ability scores vary widely in its animal and hybrid forms; the character's generated ability scores apply to its human form. In hybrid form, a hengeyokai gains a +2 adjustment to one physical ability score, as shown on Table 1--2: Hengeyokai Hybrid Forms. Its physical ability scores in animal form are average for its animal type, as shown on Table 
-
-|_. Animal |_. Ability Modifier |_. Special |_.
-| Badger | +2 Con | Speed 20 ft., burrow 30 ft. |
-| Carp | +2 Dex | Speed 20 ft., Swim 30 ft. |
-| Cat | +2 Dex | +4 balance |
-| Crab | -- | +1 natural armor, +4 Swim |
-| Crane | +2 Dex | Speed 20 ft., Fly 20 ft., (average) |
-| Dog | +2 Con | +4 Wilderness Lore when tracking by scent |
-| Fox | +2 Dex | +4 Escape Artist |
-| Hare | +2 Dex | Speed 40 ft. |
-| Monkey | +2 Dex | +4 Climb |
-| Raccoon dog | +2 Str | +4 Wilderness Lore when tracking by scent |
-| Rat | +2 Dex | +4 Hide |
-| Sparrow | +2 Dex | Speed 20 ft., fly 20 ft., (average) |
-| Weasel | Tiny | +4 Move Silently |
-
-*Alternate Form:* Hengeyokai can change shape, assuming one of three possible forms. This supernatural ability functions like the ""_polymorph other_"":/spells/tome-and-blood-a-guidebook-to-wizards-and-sorcerers--51/polymorph-other--3421/ spell, but a hengeyokai can change form a number of times per day equal to 1 plus his character level. Thus, a 1st-level hengeyokai can switch from human form to animal form and back again in a single day. Changing form is a full-round action that does provoke attacks of opportunity, as with the polymorph self spell. A hengeyokai's animal form is a normal animal of Small or smaller size. Possible animal forms include badger, carp, cat, crab, crane, dog, fox, hare, monkey, raccoon dog, rat, sparrow, and weasel. Equipment the hengeyokai is wearing or carrying transforms to become part of the animal form (as with ""_polymorph other_"":/spells/tome-and-blood-a-guidebook-to-wizards-and-sorcerers--51/polymorph-other--3421/), and magic items cease functioning while the hengeyokai remains in animal form. In animal form, hengeyokai has low-light vision and the supernatural ability to communicate with other animals of its kind. This is the same as a familiar's ability to speak with animals of its type. Hengeyokai have the size, speed, AC, damage rating, and physical ability scores shown on Table 1--3: Hengeyokai Animal Forms. In animal form, a hengeyokai is effectively disguised as an animal, gaining a +10 bonus on Disguise checks while in this form.
-
-|_. Animal |_. Size |_. Speed |_. AC |_. Damage |_. Str |_. Dex |_. Con |_.
-| Badger | Tiny | 30 ft., burrow 10ft.  | 15 (+2 size, +3 Dex) | 2 claws 1d2-1, bite 1d3-1 | 8 | 17 | 15 |
-| Carp | Diminutive | Swim 10ft. | 19 (+4, size, +5 dex) | -- | 1 | 20 | 10 |
-| Cat | Tiny | 30 ft. | 14 (+2 size, +2 Dex) | 2 claws 1d2 -4, bite 1d3-4 | 3 | 15 | 10 |
-| Crab | Diminutive | 15ft. | 18 (+4 size, +3 Dex, +1 natural) | 2 claws 1d2-5 | 1 | 17 | 10 |
-| Crane | Small | 5 ft., fly 60 ft. | 14 (+1 size, +3 Dex) | Bite 1d4-2 | 6 | 16 | 10 |
-| Dog | Small | 40 ft. | 15 (+1 size, +3 Dex, +1 natural) | Bite 1d4+1 | 13 | 17 | 15 |
-| Fox | Small | 40ft. | 15 (+1 size, +4 Dex) | Bite 1d4 | 11 | 19 | 11 |
-| Hare | Tiny | 40ft. | 16 (+2 size, +4 Dex) | Bite 1d3-5 | 1 | 19 | 10 |
-| Monkey | Tiny | 30 ft., climb 30 ft. | 14 (+2 size, +4 Dex) | Bite 1d3-4 | 3 | 15 | 10 |
-| Raccoon dog | Small | 30 ft. | 13 (+1 size, +2 Dex, +1 natural) | Bite 1d4 +1 | 12 | 13 | 12 |
-| Rat | Tiny | 15 ft., climb 15 ft. | 14 (+2 size, +2 Dex) | Bite 1d3-4 | 2 | 15 | 10 |
-| Sparrow | Fine | 1 ft., fly 50 ft. | 14 (+8 size, +6 Dex) | -- | 1| 23 | 10 |
-| Weasel | Tiny | 20 ft., climb 20 ft. |  14 (+2 size, +2 Dex) | Bite 1d3-4 | 3 | 15 | 10 |
-
-Hengeyokai in hybrid form retain their low-light vision and the ability to communicate with animals of their type. Their physical characteristics are based on their abilities in human form, modified as shown on Table 1--2: Hengeyokai Hybrid Forms. In this form, a hengeyokai can typically wear light or medium armor without modification, but wearing heavy armor is impossible. Equipment worn or carried by a hengeyokai in human form does not transform when the hengeyokai assumes hybrid form. When a hengeyokai in animal form assumes hybrid form, her equipment returns to its normal form and magic items resume functioning.
-
-*Shapechanger:* Hengeyokai are shapechangers, not humanoids. As such, they are immune to spells that specifically target humanoids (including ""_charm person_"":/spells/players-handbook-v35--6/charm-person--2535/ and ""_hold person_"":/spells/players-handbook-v35--6/hold-person--2558/), but are susceptible to any spells that target shapechangers.";
-39;10;55;Kalashtar;0;0;0;0;0;0;Medium;30;0;;;;;;;;;"* +2 racial bonus on saving throws against mind affecting spells and abilities, including possession: The kalashtar's dual spirits help them resist spells that target their minds.
-* +2 racial bonus on Bluff, Diplomacy, and Intimidate checks: Kalashtar are masters of social interaction, influencing others through their commanding presence and subtle psychic powers.
-* +2 racial bonus on Disguise checks made to impersonate a human: Kalashtar have a close physical resemblance to humans. 
-* Kalashtar sleep but they do not dream. As such, they have immunity to the dream and nightmare spells, as well as any other effect that relies on the target's ability to dream. 
-* Naturally Psionic: Kalashtar gain 1 extra power point per character level, regardless of whether they choose a psionic class.
-* Psi-Like Abilities: Mindlink (1/day). This ability is like the psionic power manifested by a wilder of 1/2 the kalashtar's Hit Dice (minimum 1st level).
-
-If you are not using the Expanded Psionics Handbook in your game, use this description of the mindlink  power: 
-
-You forge a telepathic bond with another creature within 30 feet, which must have an Intelligence score 
-of 3 or higher. The bond can be established only with a willing subject, who therefore receives no saving throw and gains no benefit from spell resistance. You can communicate telepathically through the bond even if you do not share a common language. No special power or influence is established as a result of the bond. Once the bond is formed, it works over any distance (although not from one plane  to another), but lasts for only 1 round per character level. This is a mind-affecting ability.";
-40;47;217;Half-ogres;6;-2;2;-2;0;-2;Large;30;1;4;Giant;;8;CLR;GOOD;BAD;BAD;"*Darkvision:* Half-ogres have darkvision with a range of 60 feet. 
-*Giant Blood:* For all special abilities and effects, a half-ogre is considered a giant. Half-ogres can use giant weapons and magic items with racially specific giant powers as if they were giants. 
-
-";
-41;81;108;Underfolk;0;0;0;0;0;0;Medium;30;0;;Humanoid (good fort);;8;CLR;GOOD;BAD;BAD;"* Darkvision: Underfolk can see in the dark out to 60 feet. Darkvision is black and white only, but it is otherwise like normal sight, and underfolk can function just fine with no light at all.
-
-* 4 extra skill points at 1st level and 1 extra skill point at each additional level, since underfolk (like their human ancestors) are versitile and capable. (The 4 skill points at 1st level are added on as a bonus, not multiplied in,)
-
-*+2 racial bonus on Listen checks: living as underground hunters for generations has given underfolk keen hearing.
-
-*Weapon Familiarity: Underfolk treat light and heavy picks as simple weapons rather than martial weapons.
-
-* Camouflage (Ex): Underfolk can change their skin coloration at will to mimic the surrounding terrain, giving them a +_4 racial bonus to Hide checks. In rocky terrain, this bonus increases to +10. This ability works even if an underfolk is viewed with darkvision, although _true seeing_ negates the bonus.
-
-*Light Sensitivity (Ex): Underfolk are dazzled in bright sunlight or within the radius of a ""_daylight_""/spells/players-handbook-v35--6/daylight--2601/ spell";
-42;81;;Skulk;0;0;0;0;0;0;Medium;;0;;;;;;;;;;
