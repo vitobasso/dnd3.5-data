@@ -1,111 +1,111 @@
-id;dnd_edition_id;name;abbr;year
-4;1;Dungeon Master's Guide v.3.5;DMG;2003
-5;1;Monster Manual v.3.5;MM;2003
-6;1;Player's Handbook v.3.5;PH;2000
-107;1;Monster Manual;MM;2000
-108;1;Web;Web;
-7;3;Dragonmarked;Dra;2006
-8;3;Faiths of Eberron;FE;
-9;3;Magic of Eberron;MoE;
-10;3;Races of Eberron;RE;2005
-11;3;Sharn: City of Towers;Sh;
-12;3;Eberron Campaign Setting;ECS;
-13;3;Player's Guide to Eberron;PE;
-14;3;Secrets of Sarlona;SoS;2007
-15;3;Secrets of Xen'drik;SX;
-100;3;Explorer's Handbook;EH;
-101;3;Five Nations;FN;
-105;3;The Forge of War;FoW;2007
-112;3;Dragons of Ebberon;DE;2007
-113;3;Eyes of the Lich Queen;EotLQ;2007
-16;4;City of Splendors: Waterdeep;CSW;2005
-22;4;Player's Guide to Faerï¿½n;PG;
-24;4;Serpent Kingdoms;SK;2004
-25;4;Shining South;ShS;
-26;4;Dragons of Faerun;DrF;
-27;4;Champions of Ruin;CR;
-28;4;Champions of Valor;CV;
-30;4;Lost Empires of Faerun;LE;
-31;4;Power of Faerun;PF;
-34;4;Underdark;Und;
-114;4;Shadowdale: The Scouring of the Land;S:TSotL;2007
-40;5;Dungeon Master's Guide II;DMG2;2005
-45;5;Monster Manual II;MM2;2002
-52;5;Book of Exalted Deeds;BE;2003
-53;5;CityScape;Ci;2006
-54;5;Complete Adventurer;CAd;2005
-55;5;Complete Arcane;CAr;2004
-56;5;Complete Divine;CD;2004
-57;5;Complete Champion;CC;2007
-58;5;Complete Mage;CM;2006
-59;5;Complete Psionic;CP;2006
-60;5;Complete Scoundrel;CS;2007
-61;5;Complete Warrior;CW;2003
-62;5;Dragon Magic;DM;2006
-63;5;Dungeonscape;Du;2007
-64;5;Exemplars of Evil;EE;2007
-65;5;Expanded Psionics Handbook;XPH;2004
-66;5;Fiendish Codex I: Hordes of the Abyss;FCI;2006
-67;5;Fiendish Codex II: Tyrants of the Nine Hells;FCII;
-68;5;Frostburn;Fr;2004
-69;5;Heroes of Battle;HB;2005
-70;5;Heroes of Horror;HH;2005
-71;5;Libris Mortis: The Book of the Dead;LM;2004
-72;5;Lords of Madness;LoM;2005
-73;5;Magic Item Compendium;MIC;2007
-74;5;Magic of Incarnum;MoI;2005
-75;5;Miniatures Handbook;MH;2003
-76;5;Monster Manual III;MM3;2004
-77;5;Monster Manual IV;MM4;2006
-78;5;Monster Manual V;MM5;2007
-79;5;Planar Handbook;PlH;2004
-80;5;Player's Handbook II;PH2;2006
-81;5;Races of Destiny;RD;2004
-82;5;Races of Stone;RS;2004
-83;5;Races of the Dragon;RDr;2006
-84;5;Races of the Wild;RW;2005
-85;5;Sandstorm;Sa;2005
-86;5;Spell Compendium;Sc_;2005
-87;5;Stormwrack;Sto;2005
-88;5;Tome of Battle: The Book of Nine Swords;ToB;2006
-89;5;Tome of Magic;TM;2006
-90;5;Unearthed Arcana;UA;2004
-91;5;Weapons of Legacy;WL;2005
-92;5;Draconomicon;Dr;2003
-93;5;Drow of the Underdark;DrU;2007
-99;5;Expedition to the Demonweb Pits;EDP;
-102;5;Expedition to Castle Ravenloft;Rav;
-104;5;The Shattered Gates of Slaughtergarde;ShG;
-109;5;Dragon Compendium;DC;
-110;5;Elder Evils;EE;2007
-115;5;Red Hand of Doom;RH;2006
-18;6;Faiths & Pantheons;FP;
-19;6;Forgotten Realms Campaign Setting;FRCS;
-20;6;Magic of Faerun;Mag;
-21;6;Monster Compendium: Monsters of Faerï¿½n;Mon;
-23;6;Races of Faerun;Rac;
-33;6;Unapproachable East;Una;2003
-95;6;Lords of Darkness;LD;
-97;6;Silver Marches;SM;
-17;7;Enemies and Allies;EA;2001
-35;7;Arms and Equipment Guide;AE;2003
-36;7;Book of Challenges: Dungeon Rooms, Puzzles, and Traps;BC;2002
-37;7;Book of Vile Darkness;BV;2002
-38;7;Defenders of the Faith: A Guidebook to Clerics and Paladins;DF;2001
-39;7;Deities and Demigods;DD;2002
-41;7;Epic Level Handbook;EL;2002
-42;7;Fiend Folio;FF;2003
-43;7;Manual of the Planes;MP;2001
-44;7;Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers;MW;2002
-46;7;Psionics Handbook 3.0;PsH3_;2001
-47;7;Savage Species;SS;2003
-48;7;Song and Silence: A Guidebook to Bards and Rogues;SaS;2001
-49;7;Stronghold Builder's Guidebook;SB;2002
-50;7;Sword and Fist: A Guidebook to Monks and Fighters;SF;2001
-51;7;Tome and Blood: A Guidebook to Wizards and Sorcerers;TB;2001
-94;7;Ghostwalk;Gh;2003
-103;7;Return to the Temple of Elemental Evil;RT;2001
-111;7;Feats;Feats;2003
-96;8;Oriental Adventures;OA;2001
-98;9;Dragonlance Campaign Setting;DCS;
-106;10;Player's Handbook 3.0;PHB;2000
+id;dnd_edition_id;name;name_pt;abbr;year
+4;1;Dungeon Master's Guide 3.5;Livro do Mestre 3.5;DMG;2003
+5;1;Monster Manual 3.5;Livro dos Monstros 3.5;MM;2003
+6;1;Player's Handbook 3.5;Livro do Jogador 3.5;PH;2000
+107;1;Monster Manual;;MM;2000
+108;1;Web;;Web;
+7;3;Dragonmarked;;Dra;2006
+8;3;Faiths of Eberron;;FE;
+9;3;Magic of Eberron;;MoE;
+10;3;Races of Eberron;;RE;2005
+11;3;Sharn: City of Towers;;Sh;
+12;3;Eberron Campaign Setting;;ECS;
+13;3;Player's Guide to Eberron;;PE;
+14;3;Secrets of Sarlona;;SoS;2007
+15;3;Secrets of Xen'drik;;SX;
+100;3;Explorer's Handbook;;EH;
+101;3;Five Nations;;FN;
+105;3;The Forge of War;;FoW;2007
+112;3;Dragons of Ebberon;;DE;2007
+113;3;Eyes of the Lich Queen;;EotLQ;2007
+16;4;City of Splendors: Waterdeep;;CSW;2005
+22;4;Player's Guide to Faerûn;;PG;
+24;4;Serpent Kingdoms;;SK;2004
+25;4;Shining South;;ShS;
+26;4;Dragons of Faerun;;DrF;
+27;4;Champions of Ruin;;CR;
+28;4;Champions of Valor;;CV;
+30;4;Lost Empires of Faerun;;LE;
+31;4;Power of Faerun;;PF;
+34;4;Underdark;;Und;
+114;4;Shadowdale: The Scouring of the Land;;S:TSotL;2007
+40;5;Dungeon Master's Guide II;Livro do Mestre II;DMG2;2005
+45;5;Monster Manual II;Livro dos Monstros III;MM2;2002
+52;5;Book of Exalted Deeds;;BE;2003
+53;5;CityScape;;Ci;2006
+54;5;Complete Adventurer;Livro Completo do Aventureiro;CAd;2005
+55;5;Complete Arcane;Livro Completo do Arcano;CAr;2004
+56;5;Complete Divine;Livro Completo do Divino;CD;2004
+57;5;Complete Champion;;CC;2007
+58;5;Complete Mage;;CM;2006
+59;5;Complete Psionic;;CP;2006
+60;5;Complete Scoundrel;;CS;2007
+61;5;Complete Warrior;Livro Completo do Guerreiro;CW;2003
+62;5;Dragon Magic;;DM;2006
+63;5;Dungeonscape;;Du;2007
+64;5;Exemplars of Evil;;EE;2007
+65;5;Expanded Psionics Handbook;;XPH;2004
+66;5;Fiendish Codex I: Hordes of the Abyss;;FCI;2006
+67;5;Fiendish Codex II: Tyrants of the Nine Hells;;FCII;
+68;5;Frostburn;;Fr;2004
+69;5;Heroes of Battle;;HB;2005
+70;5;Heroes of Horror;;HH;2005
+71;5;Libris Mortis: The Book of the Dead;;LM;2004
+72;5;Lords of Madness;;LoM;2005
+73;5;Magic Item Compendium;;MIC;2007
+74;5;Magic of Incarnum;;MoI;2005
+75;5;Miniatures Handbook;;MH;2003
+76;5;Monster Manual III;Livro dos Monstros III;MM3;2004
+77;5;Monster Manual IV;Livro dos Monstros IV;MM4;2006
+78;5;Monster Manual V;Livro dos Monstros V;MM5;2007
+79;5;Planar Handbook;;PlH;2004
+80;5;Player's Handbook II;Livro do Jogador II;PH2;2006
+81;5;Races of Destiny;;RD;2004
+82;5;Races of Stone;;RS;2004
+83;5;Races of the Dragon;;RDr;2006
+84;5;Races of the Wild;;RW;2005
+85;5;Sandstorm;;Sa;2005
+86;5;Spell Compendium;;Sc_;2005
+87;5;Stormwrack;;Sto;2005
+88;5;Tome of Battle: The Book of Nine Swords;;ToB;2006
+89;5;Tome of Magic;;TM;2006
+90;5;Unearthed Arcana;;UA;2004
+91;5;Weapons of Legacy;;WL;2005
+92;5;Draconomicon;;Dr;2003
+93;5;Drow of the Underdark;;DrU;2007
+99;5;Expedition to the Demonweb Pits;;EDP;
+102;5;Expedition to Castle Ravenloft;;Rav;
+104;5;The Shattered Gates of Slaughtergarde;;ShG;
+109;5;Dragon Compendium;;DC;
+110;5;Elder Evils;;EE;2007
+115;5;Red Hand of Doom;;RH;2006
+18;6;Faiths & Pantheons;;FP;
+19;6;Forgotten Realms Campaign Setting;;FRCS;
+20;6;Magic of Faerun;;Mag;
+21;6;Monster Compendium: Monsters of Faerûn;;Mon;
+23;6;Races of Faerun;;Rac;
+33;6;Unapproachable East;;Una;2003
+95;6;Lords of Darkness;;LD;
+97;6;Silver Marches;;SM;
+17;7;Enemies and Allies;;EA;2001
+35;7;Arms and Equipment Guide;;AE;2003
+36;7;Book of Challenges: Dungeon Rooms, Puzzles, and Traps;;BC;2002
+37;7;Book of Vile Darkness;;BV;2002
+38;7;Defenders of the Faith: A Guidebook to Clerics and Paladins;Defensores da Fé;DF;2001
+39;7;Deities and Demigods;Divindades e Semideuses;DD;2002
+41;7;Epic Level Handbook;;EL;2002
+42;7;Fiend Folio;;FF;2003
+43;7;Manual of the Planes;;MP;2001
+44;7;Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers;Mestres Selvagens;MW;2002
+46;7;Psionics Handbook 3.0;;PsH3_;2001
+47;7;Savage Species;;SS;2003
+48;7;Song and Silence: A Guidebook to Bards and Rogues;Canção e Silêncio;SaS;2001
+49;7;Stronghold Builder's Guidebook;;SB;2002
+50;7;Sword and Fist: A Guidebook to Monks and Fighters;Punhos e Espadas;SF;2001
+51;7;Tome and Blood: A Guidebook to Wizards and Sorcerers;Linhagens e Tomos;TB;2001
+94;7;Ghostwalk;;Gh;2003
+103;7;Return to the Temple of Elemental Evil;;RT;2001
+111;7;Feats;;Feats;2003
+96;8;Oriental Adventures;Aventuras Orientais;OA;2001
+98;9;Dragonlance Campaign Setting;;DCS;
+106;10;Player's Handbook 3.0;Livro do Jogador 3.0;PHB;2000

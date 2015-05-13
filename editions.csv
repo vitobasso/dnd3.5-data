@@ -1,10 +1,10 @@
-id;name;system;core
-1;Core;DnD 3.5;1
-3;Eberron;DnD 3.5;0
-4;Forgotten Realms;DnD 3.5;0
-5;Supplementals;DnD 3.5;0
-6;Forgotten Realms;DnD 3.0;0
-7;Supplementals;DnD 3.0;0
-8;Oriental Adventures;DnD 3.0;0
-9;Dragonlance;DnD 3.5;0
-10;Core;DnD 3.0;1
+id;name;name_pt;system;core
+1;Core;Básicos;DnD 3.5;1
+3;Eberron;;DnD 3.5;0
+4;Forgotten Realms;;DnD 3.5;0
+5;Supplementals;Suplementos;DnD 3.5;0
+6;Forgotten Realms;;DnD 3.0;0
+7;Supplementals;Suplementos;DnD 3.0;0
+8;Oriental Adventures;Aventuras Orientais;DnD 3.0;0
+9;Dragonlance;;DnD 3.5;0
+10;Core;Básicos;DnD 3.0;1
