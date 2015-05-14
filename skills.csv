@@ -1,33 +1,33 @@
 id;rulebook_id;name;name_pt;key ability;armor penalty;untrained;synergy to
-1;6;Appraise;AvaliaÁ„o;INT;;yes;
-2;6;Balance;EquilÌbrio;DEX;yes;yes;
+1;6;Appraise;Avalia√ß√£o;INT;;yes;
+2;6;Balance;Equil√≠brio;DEX;yes;yes;
 3;6;Bluff;Blefar;CHA;;yes;Diplomacy, Disguise [acting], Intimidate, Sleight of Hand
 4;6;Climb;Escalar;STR;yes;yes;
-5;6;Concentration;ConcentraÁ„o;CON;;yes;
-6;6;Craft (alchemy);OfÌcios (alquimia);INT;;yes;Appraise (alchemy)
-7;6;Craft (armor-smithing);OfÌcios (armoraria);INT;;yes;Appraise (armor-smithing)]
-8;6;Craft (bowmaking);OfÌcios (arquearia);INT;;yes;Appraise (bowmaking)
-9;6;Craft (blacksmithing);OfÌcios (ferreiro);INT;;yes;Appraise (blacksmithing)
-10;6;Craft (trapmaking);OfÌcios (armadilharia);INT;;yes;Appraise (trapmaking)
-11;6;Craft (weaponsmithing);OfÌcios (armeiro);INT;;yes;Appraise (weaponsmithing)
+5;6;Concentration;Concentra√ß√£o;CON;;yes;
+6;6;Craft (alchemy);Of√≠cios (alquimia);INT;;yes;Appraise (alchemy)
+7;6;Craft (armor-smithing);Of√≠cios (armoraria);INT;;yes;Appraise (armor-smithing)]
+8;6;Craft (bowmaking);Of√≠cios (arquearia);INT;;yes;Appraise (bowmaking)
+9;6;Craft (blacksmithing);Of√≠cios (ferreiro);INT;;yes;Appraise (blacksmithing)
+10;6;Craft (trapmaking);Of√≠cios (armadilharia);INT;;yes;Appraise (trapmaking)
+11;6;Craft (weaponsmithing);Of√≠cios (armeiro);INT;;yes;Appraise (weaponsmithing)
 12;6;Decipher Script;Decifrar Escrita;INT;;;Use Magic Device [scrolls]
 13;6;Diplomacy;Diplomacia;CHA;;yes;
 14;6;Disable Device;Operar Mecanismo;INT;;yes;
 15;6;Disguise;Disfarces;CHA;;yes;
 16;6;Escape Artist;Arte da Fuga;DEX;yes;yes;Use Rope [bindings]
-17;6;Forgery;FalsificaÁ„o;INT;;yes;
-18;6;Gather Information;Obter InformaÁ„o;CHA;;yes;
+17;6;Forgery;Falsifica√ß√£o;INT;;yes;
+18;6;Gather Information;Obter Informa√ß√£o;CHA;;yes;
 19;6;Handle Animal;Adestrar Animais;CHA;;;Ride
 20;6;Heal;Cura;WIS;;yes;
 21;6;Hide;Esconder-se;DEX;yes;yes;
-22;6;Intimidate;IntimidaÁ„o;CHA;;yes;
+22;6;Intimidate;Intimida√ß√£o;CHA;;yes;
 23;6;Jump;Saltar;STR;;yes;Tumble
 24;6;Knowledge (arcana);Conhecimento (arcano);INT;;;Spellcraft
 25;6;Knowledge (geography);Conhecimento (geografia);INT;;;Survival [avoid getting lost, hazards]
-26;6;Knowledge (history);Conhecimento (histÛria);INT;;;
+26;6;Knowledge (history);Conhecimento (hist√≥ria);INT;;;
 27;6;Knowledge (nature);Conhecimento (natureza);INT;;;Survival [aboveground natural]
 28;6;Knowledge (nobility and royality);Conhecimento (nobreza e realeza);INT;;;Diplomacy
-29;6;Knowledge (religion);Conhecimento (religi„o);INT;;;
+29;6;Knowledge (religion);Conhecimento (religi√£o);INT;;;
 30;6;Knowledge (the planes);Conhecimento (planos);INT;;;Survival [other planes]
 50;6;Knowledge (architecture and engineering);Conhecimento (arquitetura e engenharia);INT;;;
 51;6;Knowledge (local);Conhecimento (local);INT;;;
@@ -35,19 +35,19 @@ id;rulebook_id;name;name_pt;key ability;armor penalty;untrained;synergy to
 31;6;Listen;Ouvir;WIS;;yes;
 32;6;Move Silently;Furtividade;DEX;yes;yes;
 33;6;Open Lock;Abrir Fechaduras;DEX;;;
-34;6;Perform (act);AtuaÁ„o (dramaturgia);CHA;;;
-35;6;Perform (dance);AtuaÁ„o (danÁa);CHA;;;
-36;6;Perform (sing);AtuaÁ„o (canto);CHA;;;
-37;6;Profession (cook);Profiss„o (cozinheiro);WIS;;;
-38;6;Profession (herbalist);Profiss„o (herbalista);WIS;;;
+34;6;Perform (act);Atua√ß√£o (dramaturgia);CHA;;;
+35;6;Perform (dance);Atua√ß√£o (dan√ßa);CHA;;;
+36;6;Perform (sing);Atua√ß√£o (canto);CHA;;;
+37;6;Profession (cook);Profiss√£o (cozinheiro);WIS;;;
+38;6;Profession (herbalist);Profiss√£o (herbalista);WIS;;;
 39;6;Ride;Cavalgar;DEX;;yes;
 40;6;Search;Procurar;INT;;yes;Survival [tracks]
-41;6;Sense Motive;Sentir MotivaÁ„o;WIS;;yes;Diplomacy
-42;6;Sleight of Hand;PrestidigitaÁ„o;DEX;yes;;
+41;6;Sense Motive;Sentir Motiva√ß√£o;WIS;;yes;Diplomacy
+42;6;Sleight of Hand;Prestidigita√ß√£o;DEX;yes;;
 43;6;Spellcraft;Identificar Magia;INT;;;Use Magic Device [scrolls]
 44;6;Spot;Observar;WIS;;yes;
-45;6;Survival;SobrevivÍncia;WIS;;yes;Knowledge (nature)
-46;6;Swim;NataÁ„o;STR;;yes;
+45;6;Survival;Sobreviv√™ncia;WIS;;yes;Knowledge (nature)
+46;6;Swim;Nata√ß√£o;STR;;yes;
 47;6;Tumble;Acrobacias;DEX;yes;;Balance, Jump
-48;6;Use Magic Device;Usar Intrumento M·gico;CHA;;;Spellcraft [scrolls]
+48;6;Use Magic Device;Usar Intrumento M√°gico;CHA;;;Spellcraft [scrolls]
 49;6;Use Rope;Usar Cordas;DEX;;yes;Climb [ropes], Escape Artist [ropes]

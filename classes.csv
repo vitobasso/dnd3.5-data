@@ -21,9 +21,9 @@ id;rulebook_id;page;name;name_pt;hit_die;skill_points;starting_gold;bab;fort;ref
 392;4;194;Shadowdancer;;8;6;;AVERAGE;POOR;GOOD;POOR;1;;
 393;4;196;Thaumaturgist;;4;2;;POOR;POOR;POOR;GOOD;1;;
 34;4;109;Warrior;;8;2;3d4 x 10 gp;GOOD;GOOD;POOR;POOR;0;;
-89;6;24;Barbarian;B�rbaro;12;4;4d4 x 10;GOOD;GOOD;POOR;POOR;0;;
+89;6;24;Barbarian;Bárbaro;12;4;4d4 x 10;GOOD;GOOD;POOR;POOR;0;;
 90;6;26;Bard;Bardo;6;6;4d4 x 10;AVERAGE;POOR;GOOD;GOOD;0;;Any Nonlawful
-91;6;30;Cleric;Cl�rigo;8;2;;AVERAGE;GOOD;POOR;GOOD;0;;Within one step of deity.  Exception: A cleric can only be neutral if his deity is also nuetral.
+91;6;30;Cleric;Clérigo;8;2;;AVERAGE;GOOD;POOR;GOOD;0;;Within one step of deity.  Exception: A cleric can only be neutral if his deity is also nuetral.
 92;6;33;Druid;Druida;8;4;;AVERAGE;GOOD;POOR;GOOD;0;;One aspect must be Neutral 
 93;6;37;Fighter;Guerreiro;10;2;;GOOD;GOOD;POOR;POOR;0;;
 94;6;39;Monk;Monge;8;4;;AVERAGE;GOOD;GOOD;GOOD;0;;Any Lawful
@@ -405,7 +405,7 @@ id;rulebook_id;page;name;name_pt;hit_die;skill_points;starting_gold;bab;fort;ref
 778;50;32;Order of the Bow Initiate;;10;2;;GOOD;POOR;GOOD;GOOD;1;5;
 779;50;33;Ravager;;10;2;;GOOD;GOOD;POOR;POOR;1;5;Chaotic evil, chaotic neutral, neutral evil
 780;50;34;Red Avenger;;8;4;;GOOD;GOOD;GOOD;GOOD;1;5;
-781;50;35;Tribal Protector;;10;2;;GOOD;GOOD;GOOD;POOR;1;5;The same alignment as the majority of the character�s tribe.
+781;50;35;Tribal Protector;;10;2;;GOOD;GOOD;GOOD;POOR;1;5;The same alignment as the majority of the characterï¿½s tribe.
 782;50;37;Warmaster;;10;4;;GOOD;GOOD;POOR;POOR;1;7;Any nonchaotic, nonevil.
 783;50;38;Weapon Master;;10;2;;GOOD;POOR;GOOD;POOR;1;5;
 836;51;43;Acolyte of the Skin;;4;2;;POOR;GOOD;POOR;GOOD;1;;Any nongood
@@ -799,7 +799,7 @@ id;rulebook_id;page;name;name_pt;hit_die;skill_points;starting_gold;bab;fort;ref
 861;89;204;Acolyte of the Ego;;8;4;;GOOD;GOOD;POOR;POOR;1;;
 851;89;50;Anima Mage;;4;2;;POOR;POOR;POOR;GOOD;1;;Any nongood
 862;89;208;Bereft;;6;2;;AVERAGE;POOR;POOR;GOOD;1;;Any neutral
-112;89;9;Binder;;8;2;5d4�10;GOOD;GOOD;POOR;GOOD;0;;
+112;89;9;Binder;;8;2;5d4ï¿½10;GOOD;GOOD;POOR;GOOD;0;;
 863;89;212;Brimstone Speaker;;8;2;;AVERAGE;GOOD;POOR;GOOD;1;;Any good
 856;89;117;Child of Night;;6;2;;POOR;POOR;POOR;GOOD;1;;
 864;89;216;Disciple of the Word;;8;4;;AVERAGE;GOOD;GOOD;GOOD;1;4;Any lawful
@@ -812,7 +812,7 @@ id;rulebook_id;page;name;name_pt;hit_die;skill_points;starting_gold;bab;fort;ref
 113;89;111;Shadowcaster;;6;2;3d4X10;POOR;GOOD;POOR;GOOD;0;;Any
 860;89;132;Shadowsmith;;8;6;;GOOD;POOR;GOOD;POOR;1;5;
 854;89;63;Tenebrous Apostate;;8;2;;AVERAGE;GOOD;POOR;GOOD;1;;Any nongood
-114;89;198;Truenamer;;6;4;4d4�10 gp;AVERAGE;POOR;POOR;GOOD;0;;
+114;89;198;Truenamer;;6;4;4d4ï¿½10 gp;AVERAGE;POOR;POOR;GOOD;0;;
 855;89;67;Witch Slayer;;8;4;;GOOD;GOOD;POOR;GOOD;1;5;
 960;90;59;Abjurer Variant;;0;;;;;;;0;;
 950;90;58;Barbarian Variant;;;;;;;;;0;;

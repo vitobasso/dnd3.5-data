@@ -19,7 +19,7 @@ id;dnd_edition_id;name;name_pt;abbr;year
 112;3;Dragons of Ebberon;;DE;2007
 113;3;Eyes of the Lich Queen;;EotLQ;2007
 16;4;City of Splendors: Waterdeep;;CSW;2005
-22;4;Player's Guide to Faerûn;;PG;
+22;4;Player's Guide to FaerÃ»n;;PG;
 24;4;Serpent Kingdoms;;SK;2004
 25;4;Shining South;;ShS;
 26;4;Dragons of Faerun;;DrF;
@@ -82,7 +82,7 @@ id;dnd_edition_id;name;name_pt;abbr;year
 18;6;Faiths & Pantheons;;FP;
 19;6;Forgotten Realms Campaign Setting;;FRCS;
 20;6;Magic of Faerun;;Mag;
-21;6;Monster Compendium: Monsters of Faerûn;;Mon;
+21;6;Monster Compendium: Monsters of FaerÃ»n;;Mon;
 23;6;Races of Faerun;;Rac;
 33;6;Unapproachable East;;Una;2003
 95;6;Lords of Darkness;;LD;
@@ -91,7 +91,7 @@ id;dnd_edition_id;name;name_pt;abbr;year
 35;7;Arms and Equipment Guide;;AE;2003
 36;7;Book of Challenges: Dungeon Rooms, Puzzles, and Traps;;BC;2002
 37;7;Book of Vile Darkness;;BV;2002
-38;7;Defenders of the Faith: A Guidebook to Clerics and Paladins;Defensores da Fé;DF;2001
+38;7;Defenders of the Faith: A Guidebook to Clerics and Paladins;Defensores da FÃ©;DF;2001
 39;7;Deities and Demigods;Divindades e Semideuses;DD;2002
 41;7;Epic Level Handbook;;EL;2002
 42;7;Fiend Folio;;FF;2003
@@ -99,7 +99,7 @@ id;dnd_edition_id;name;name_pt;abbr;year
 44;7;Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers;Mestres Selvagens;MW;2002
 46;7;Psionics Handbook 3.0;;PsH3_;2001
 47;7;Savage Species;;SS;2003
-48;7;Song and Silence: A Guidebook to Bards and Rogues;Canção e Silêncio;SaS;2001
+48;7;Song and Silence: A Guidebook to Bards and Rogues;CanÃ§Ã£o e SilÃªncio;SaS;2001
 49;7;Stronghold Builder's Guidebook;;SB;2002
 50;7;Sword and Fist: A Guidebook to Monks and Fighters;Punhos e Espadas;SF;2001
 51;7;Tome and Blood: A Guidebook to Wizards and Sorcerers;Linhagens e Tomos;TB;2001

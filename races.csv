@@ -1,6 +1,6 @@
 id;rulebook_id;page;name;name_pt;str;dex;con;int;wis;cha;size;speed;level_adjustment;natural_armor;type;racial_hit_dice_count;hit_die_size;base_attack_type;base_fort_save_type;base_reflex_save_type;base_will_save_type;racial_traits;combat
 1;5;189;Minotaur;;8;0;4;-4;0;-2;Large;40;2;5;Monstrous humanoid;6;8;FIG;BAD;GOOD;GOOD;"* Darkvision out to 60 feet. 
-* Racial Skills: A minotaur's monstrous humanoid levels give it skill points equal to 9  �  (2 + Int modifier, minimum 1). Its class skills are Intimidate, Jump, Listen, Search, and Spot. 
+* Racial Skills: A minotaur's monstrous humanoid levels give it skill points equal to 9  ï¿½  (2 + Int modifier, minimum 1). Its class skills are Intimidate, Jump, Listen, Search, and Spot. 
 * Minotaurs have a +4 racial bonus on Search, Spot, and Listen checks.
 * Racial Feats: A minotaur's monstrous humanoid levels give it three feats.
 * Weapon Proficiency: A minotaur is proficient with the greataxe and all simple weapons.
@@ -23,7 +23,7 @@ id;rulebook_id;page;name;name_pt;str;dex;con;int;wis;cha;size;speed;level_adjust
 
 *Light Sensitivity (Ex):* Orcs are dazzled in bright sunlight or within the radius of a daylight spell.
 ";Orcs are proficient with all simple weapons, preferring those that cause the most damage in the least time. Many orcs who take up the warrior or fighter class also gain proficiency with the falchion or the greataxe as a martial weapon. They enjoy attacking from concealment and setting ambushes, and they obey the rules of war (such as honoring a truce) only as long as it is convenient for them.
-2;6;15;Elf;Elfo;0;2;-2;0;0;0;Medium;30;0;;;;;;;;;"+2 Dexterity, �2 Constitution: Elves are graceful but frail. An elf�s grace makes her naturally better at stealth and archery.
+2;6;15;Elf;Elfo;0;2;-2;0;0;0;Medium;30;0;;;;;;;;;"+2 Dexterity, ï¿½2 Constitution: Elves are graceful but frail. An elfï¿½s grace makes her naturally better at stealth and archery.
 
 Immunity to magic sleep effects, and a +2 racial saving throw bonus against enchantment spells or effects.
 
@@ -31,7 +31,7 @@ Low-light Vision: An elf can see twice as far as a human in starlight, moonlight
 
 Weapon Proficiency: Elves receive the Martial Weapon Proficiency feats for the longsword, rapier, longbow (including composite longbow), and shortbow (including composite shortbow) as bonus feats. Elves esteem the arts of swordplay and archery, so all elves are familiar with these weapons.
 
-+2 racial bonus on Listen, Search, and Spot checks. An elf who merely passes within 5 feet of a secret or concealed door is entitled to a Search check to notice it as if she were actively looking for it. An elf�s senses are so keen that she practically has a sixth sense about hidden portals.
++2 racial bonus on Listen, Search, and Spot checks. An elf who merely passes within 5 feet of a secret or concealed door is entitled to a Search check to notice it as if she were actively looking for it. An elfï¿½s senses are so keen that she practically has a sixth sense about hidden portals.
 
 Automatic Languages: Common and Elven. Bonus Languages: Draconic, Gnoll, Gnome, Goblin, Orc, and Sylvan. Elves commonly know the languages of their enemies and of their friends, as well as Draconic, the language commonly found in ancient tomes of secret knowledge.";
 3;6;18;Half-elf;Meio-Elfo;0;0;0;0;0;0;Medium;30;0;;;;;;;;;"Immunity to sleep spells and similar magical effects, and a +2 racial bonus on saving throw against enchantment spells or effects.
@@ -45,7 +45,7 @@ Low-light Vision: A half-elf can see twice as far as a human in starlight, moonl
 Elven Blood: For all effects related to race, a half-elf is considered an elf. Half-elves, for example, are just as vulnerable to special effects that affect elves as their elf ancestors are, and they can use magic items that are only usable by elves. (See the Monster Manual for more information about elves, and the Dungeon Master's Guide for more on magic items.)
 
 Automatic Languages: Common and Elven. Bonus Languages: Any (other than secret languages, such as Druidic). Half-elves have all the versatility and broad (if shallow) experience that humans have.";
-4;6;14;Dwarf;An�o;0;0;2;0;0;-2;Medium;20;0;;;;;;;;;"+2 Constitution, --2 Charisma: Dwarves are stout and tough but tend to be gruff and reserved.
+4;6;14;Dwarf;Anão;0;0;2;0;0;-2;Medium;20;0;;;;;;;;;"+2 Constitution, --2 Charisma: Dwarves are stout and tough but tend to be gruff and reserved.
 
 Medium: As Medium creatures, dwarves have no special bonuses or penalties due to their size.
 
@@ -53,10 +53,10 @@ Dwarf base land speed is 20 feet. However, dwarves can move at";
 5;6;;Human;Humano;0;0;0;0;0;0;Medium;30;0;;;;;;;;;;
 7;6;18;Half-Orc;Meio-Orc;2;0;0;-2;0;-2;Medium;30;0;;;;;;;;;"*Darkvision:* Half-orcs (and orcs) can see in the dark up to 60 feet. Darkvision is black and white only, but it is otherwise like normal sight, and half-orcs can function just fine with no light at all.
 
-*Orc Blood:* For all effects related to race, a half-orc is considered an orc. Half-orcs, for example, are just as vulnerable to special effects that affect orcs as their orc ancestors are, and they can use magic items that are only usable by orcs. (See the Monster Manual for more information about orcs, and the Dungeon Master�s Guide for more on magic items.)
+*Orc Blood:* For all effects related to race, a half-orc is considered an orc. Half-orcs, for example, are just as vulnerable to special effects that affect orcs as their orc ancestors are, and they can use magic items that are only usable by orcs. (See the Monster Manual for more information about orcs, and the Dungeon Masterï¿½s Guide for more on magic items.)
 
 *Automatic Languages:* Common and Orc. Bonus Languages: Draconic, Giant, Gnoll, Goblin, and Abyssal. Smart half-orcs (who are rare) may know the languages of their allies or rivals.";
-12;6;16;Gnome;Gnomo;-2;0;2;0;0;0;Small;20;0;;;;;;;;;" +2  Constitution,  �2  Strength:  Like  dwarves,  gnomes  are  tough, but  they  are  small  and  therefore  not  as  strong  as  larger humanoids. 
+12;6;16;Gnome;Gnomo;-2;0;2;0;0;0;Small;20;0;;;;;;;;;" +2  Constitution,  ï¿½2  Strength:  Like  dwarves,  gnomes  are  tough, but  they  are  small  and  therefore  not  as  strong  as  larger humanoids. 
 
  *Small:*  As  a  Small  creature,  a  gnome  gains  a  +1  size  bonus  to Armor Class, a +1 size bonus on attack rolls, and a +4 size bonus on Hide checks, but he uses smaller weapons than humans use, and his lifting and carrying limits are three-quarters of those of a Medium character. 
 
@@ -70,19 +70,19 @@ Dwarf base land speed is 20 feet. However, dwarves can move at";
 
  *+1  racial  bonus  on  attack  rolls  against  kobolds  and  goblinoids (including  goblins,  hobgoblins,  and  bugbears):*  Gnomes  battle these  creatures  frequently  and  practice  special  techniques  for fighting them. 
 
- *+4 dodge bonus to Armor Class against monsters of the giant type (such  as  ogres,  trolls,  and  hill  giants):*  This  bonus  represents special  training  that  gnomes  undergo,  during  which  they  learn tricks  that  previous  generations  developed  in  their  battles  with giants.  Any  time  a  creature  loses  its  Dexterity  bonus  (if  any)  to Armor Class, such as when it�s caught flat-footed, it loses its dodge bonus,  too.  The  Monster  Manual  has  information  on  which creatures are of the giant type.
+ *+4 dodge bonus to Armor Class against monsters of the giant type (such  as  ogres,  trolls,  and  hill  giants):*  This  bonus  represents special  training  that  gnomes  undergo,  during  which  they  learn tricks  that  previous  generations  developed  in  their  battles  with giants.  Any  time  a  creature  loses  its  Dexterity  bonus  (if  any)  to Armor Class, such as when itï¿½s caught flat-footed, it loses its dodge bonus,  too.  The  Monster  Manual  has  information  on  which creatures are of the giant type.
 
  *+2 racial bonus on Listen checks:* Gnomes have keen ears. 
 
- *+2  racial  bonus  on  Craft  (alchemy)  checks:*  A  gnome�s  sensitive nose allows him to monitor alchemical processes by smell.
+ *+2  racial  bonus  on  Craft  (alchemy)  checks:*  A  gnomeï¿½s  sensitive nose allows him to monitor alchemical processes by smell.
  
  *Automatic  Languages:*  Common  and  Gnome.  
 
  *Bonus  Languages:* Draconic, Dwarven, Elven, Giant, Goblin, and Orc. Gnomes deal more  with  elves  and  dwarves  than  elves  and  dwarves  deal  with one  another,  and  they  learn  the  languages  of  their  enemies (kobolds, giants, goblins, and orcs) as well. In addition, a gnome can use speak with a burrowing mammal (a badger, fox, rabbit, or the like, see below). This ability is innate to gnomes. See the speak with animals spell description, page 281. 
 
- *Spell-Like  Abilities:*  1/day�speak  with  animals  (burrowing mammal  only,  duration  1  minute).  A  gnome  with  a  Charisma score  of  at  least  10  also  has  the  following  spell-like  abilities: 1/day�dancing lights, ghost sound, prestidigitation. Caster level 1st; save  DC  10  +  gnome�s  Cha  modifier  +  spell  level.  See  the  spell descriptions on pages 216, 235, and 264, respectively. 
+ *Spell-Like  Abilities:*  1/dayï¿½speak  with  animals  (burrowing mammal  only,  duration  1  minute).  A  gnome  with  a  Charisma score  of  at  least  10  also  has  the  following  spell-like  abilities: 1/dayï¿½dancing lights, ghost sound, prestidigitation. Caster level 1st; save  DC  10  +  gnomeï¿½s  Cha  modifier  +  spell  level.  See  the  spell descriptions on pages 216, 235, and 264, respectively. 
 
- *Favored  Class:*  Bard.  A  multiclass  gnome�s  bard  class  does  not count  when  determining  whether  he takes an experience point penalty (see XP for Multiclass Characters, page 60). ";
+ *Favored  Class:*  Bard.  A  multiclass  gnomeï¿½s  bard  class  does  not count  when  determining  whether  he takes an experience point penalty (see XP for Multiclass Characters, page 60). ";
 15;6;;Halfling;Halfling;0;0;0;0;0;0;Medium;;0;;;;;;;;;;
 39;10;55;Kalashtar;;0;0;0;0;0;0;Medium;30;0;;;;;;;;;"* +2 racial bonus on saving throws against mind affecting spells and abilities, including possession: The kalashtar's dual spirits help them resist spells that target their minds.
 * +2 racial bonus on Bluff, Diplomacy, and Intimidate checks: Kalashtar are masters of social interaction, influencing others through their commanding presence and subtle psychic powers.
@@ -98,62 +98,62 @@ of 3 or higher. The bond can be established only with a willing subject, who the
 19;19;;Half-moon elf;;0;0;0;0;0;0;Medium;;0;;;;;;;;;;
 21;34;15;Kuo-Toa;;2;0;2;2;4;-2;Medium;20;3;;;;;;;;;"* Lightning Bolt (Su): Two or more kuo-toa clerics (whips) operating together can generate a stroke of lightning every 1d4 rounds. The whips must join hands to launch the bolt but need only remain within 30 feet of one another while it builds. The resulting lightning bolt deals 1d6 points of damage per whip, but a successful Reflex save halves this amount (DC 11 + highest Wisdom modifier among the participating whips + number of whips).
 
-� Adhesive (Ex): A kuo-toa uses his own body oil and other materials to give his shield a finish almost like flypaper, capable of holding fast any creatures or items that touch it. Any creature that makes an unsuccessful melee attack against a kuo-toa must succeed on a Reflex save (DC 11 + kuo-toa's Con modifier), or the weapon sticks to the shield and is yanked out of its wielder's grip. A creature using a natural weapon is automatically grappled if it gets stuck. A kuo-toa requires one hour and special materials costing 20 gp to coat a shield with adhesive, but the secretion remains sticky for up to three days, or until it actually catches something or someone, whichever comes first. Successfully trapping a creature or item uses up the adhesive, so the shield can trap no further creatures or items until its coating is replenished. Pulling a stuck weapon or limb from a shield requires a DC 20 Strength check.
+ï¿½ Adhesive (Ex): A kuo-toa uses his own body oil and other materials to give his shield a finish almost like flypaper, capable of holding fast any creatures or items that touch it. Any creature that makes an unsuccessful melee attack against a kuo-toa must succeed on a Reflex save (DC 11 + kuo-toa's Con modifier), or the weapon sticks to the shield and is yanked out of its wielder's grip. A creature using a natural weapon is automatically grappled if it gets stuck. A kuo-toa requires one hour and special materials costing 20 gp to coat a shield with adhesive, but the secretion remains sticky for up to three days, or until it actually catches something or someone, whichever comes first. Successfully trapping a creature or item uses up the adhesive, so the shield can trap no further creatures or items until its coating is replenished. Pulling a stuck weapon or limb from a shield requires a DC 20 Strength check.
 
-� Electricity Resistance 10 (Ex): Kuo-toas are naturally resistant to electricity.
+ï¿½ Electricity Resistance 10 (Ex): Kuo-toas are naturally resistant to electricity.
 
-� Immunities (Ex): A kuo-toa is immune to poison and paralysis.
+ï¿½ Immunities (Ex): A kuo-toa is immune to poison and paralysis.
 
-� Keen Sight (Ex): A kuo-toa has excellent vision, thanks to his two independently focusing eyes. His eyesight is so keen that he can spot a moving object or creature even if it is invisible or ethereal. Only by remaining perfectly still can such objects or creatures avoid a kuo-toa's notice.
+ï¿½ Keen Sight (Ex): A kuo-toa has excellent vision, thanks to his two independently focusing eyes. His eyesight is so keen that he can spot a moving object or creature even if it is invisible or ethereal. Only by remaining perfectly still can such objects or creatures avoid a kuo-toa's notice.
 
-� Slippery (Ex): A kuo-toa secretes an oily film that makes him difficult to grapple or snare. Webs (magic or otherwise) don't affect kuo-toas, and they usually can wriggle free from most other forms of confinement.
+ï¿½ Slippery (Ex): A kuo-toa secretes an oily film that makes him difficult to grapple or snare. Webs (magic or otherwise) don't affect kuo-toas, and they usually can wriggle free from most other forms of confinement.
 
 * Light Blindness (Ex): Abrupt exposure to bright light (such as sunlight or a daylight spell) blinds a kuo-toa for 1 round. In addition, he takes a --1 circumstance penalty on all attack rolls, saves, and checks while operating in bright light.
 
-� Amphibious (Ex): Kuo-toas can breathe both air and water without difficulty and are capable of surviving indefinitely in either environment.
+ï¿½ Amphibious (Ex): Kuo-toas can breathe both air and water without difficulty and are capable of surviving indefinitely in either environment.
 
-� Natural Armor Bonus (Ex): A kuo-toa has a +6 natural armor bonus to Armor Class because of his scaly skin.
+ï¿½ Natural Armor Bonus (Ex): A kuo-toa has a +6 natural armor bonus to Armor Class because of his scaly skin.
 
-� Racial Bonuses: A kuo-toa has a +8 racial bonus on Escape Artist checks and a +4 racial bonus on Search and Spot checks.
+ï¿½ Racial Bonuses: A kuo-toa has a +8 racial bonus on Escape Artist checks and a +4 racial bonus on Search and Spot checks.
 
-� Weapon Familiarity: A kuo-toa may treat pincer staffs (see Chapter 5: Equipment and Magic Items) as martial weapons rather than exotic weapons.
+ï¿½ Weapon Familiarity: A kuo-toa may treat pincer staffs (see Chapter 5: Equipment and Magic Items) as martial weapons rather than exotic weapons.
 
-� Racial Hit Dice: A kuo-toa character begins with two levels of monstrous humanoid, which provide 2d8 Hit Dice, a base attack bonus of +2, and base saving throw bonuses of Fort +0, Ref +3, and Will +3.
+ï¿½ Racial Hit Dice: A kuo-toa character begins with two levels of monstrous humanoid, which provide 2d8 Hit Dice, a base attack bonus of +2, and base saving throw bonuses of Fort +0, Ref +3, and Will +3.
 
-* Racial Skills: A kuo-toa's monstrous humanoid levels give him skill points equal to 5 � (2 + Int modifier). His class skills are Craft (any), Escape Artist, Knowledge (any), Listen, Move Silently, Search, and Spot.
+* Racial Skills: A kuo-toa's monstrous humanoid levels give him skill points equal to 5 ï¿½ (2 + Int modifier). His class skills are Craft (any), Escape Artist, Knowledge (any), Listen, Move Silently, Search, and Spot.
 
-� Racial Feats: A kuo-toa's monstrous humanoid levels give him one feat.
+ï¿½ Racial Feats: A kuo-toa's monstrous humanoid levels give him one feat.
 
-� Automatic Languages: Kuo-Toan, Undercommon, and Aquan. Bonus Languages: Common, Dwarven, Elven, and Serusan (or by character region).";
+ï¿½ Automatic Languages: Kuo-Toan, Undercommon, and Aquan. Bonus Languages: Common, Dwarven, Elven, and Serusan (or by character region).";
 21;34;15;Kuo-Toa;;2;0;2;2;4;-2;Medium;50;3;;;;;;;;;"* Lightning Bolt (Su): Two or more kuo-toa clerics (whips) operating together can generate a stroke of lightning every 1d4 rounds. The whips must join hands to launch the bolt but need only remain within 30 feet of one another while it builds. The resulting lightning bolt deals 1d6 points of damage per whip, but a successful Reflex save halves this amount (DC 11 + highest Wisdom modifier among the participating whips + number of whips).
 
-� Adhesive (Ex): A kuo-toa uses his own body oil and other materials to give his shield a finish almost like flypaper, capable of holding fast any creatures or items that touch it. Any creature that makes an unsuccessful melee attack against a kuo-toa must succeed on a Reflex save (DC 11 + kuo-toa's Con modifier), or the weapon sticks to the shield and is yanked out of its wielder's grip. A creature using a natural weapon is automatically grappled if it gets stuck. A kuo-toa requires one hour and special materials costing 20 gp to coat a shield with adhesive, but the secretion remains sticky for up to three days, or until it actually catches something or someone, whichever comes first. Successfully trapping a creature or item uses up the adhesive, so the shield can trap no further creatures or items until its coating is replenished. Pulling a stuck weapon or limb from a shield requires a DC 20 Strength check.
+ï¿½ Adhesive (Ex): A kuo-toa uses his own body oil and other materials to give his shield a finish almost like flypaper, capable of holding fast any creatures or items that touch it. Any creature that makes an unsuccessful melee attack against a kuo-toa must succeed on a Reflex save (DC 11 + kuo-toa's Con modifier), or the weapon sticks to the shield and is yanked out of its wielder's grip. A creature using a natural weapon is automatically grappled if it gets stuck. A kuo-toa requires one hour and special materials costing 20 gp to coat a shield with adhesive, but the secretion remains sticky for up to three days, or until it actually catches something or someone, whichever comes first. Successfully trapping a creature or item uses up the adhesive, so the shield can trap no further creatures or items until its coating is replenished. Pulling a stuck weapon or limb from a shield requires a DC 20 Strength check.
 
-� Electricity Resistance 10 (Ex): Kuo-toas are naturally resistant to electricity.
+ï¿½ Electricity Resistance 10 (Ex): Kuo-toas are naturally resistant to electricity.
 
-� Immunities (Ex): A kuo-toa is immune to poison and paralysis.
+ï¿½ Immunities (Ex): A kuo-toa is immune to poison and paralysis.
 
-� Keen Sight (Ex): A kuo-toa has excellent vision, thanks to his two independently focusing eyes. His eyesight is so keen that he can spot a moving object or creature even if it is invisible or ethereal. Only by remaining perfectly still can such objects or creatures avoid a kuo-toa's notice.
+ï¿½ Keen Sight (Ex): A kuo-toa has excellent vision, thanks to his two independently focusing eyes. His eyesight is so keen that he can spot a moving object or creature even if it is invisible or ethereal. Only by remaining perfectly still can such objects or creatures avoid a kuo-toa's notice.
 
-� Slippery (Ex): A kuo-toa secretes an oily film that makes him difficult to grapple or snare. Webs (magic or otherwise) don't affect kuo-toas, and they usually can wriggle free from most other forms of confinement.
+ï¿½ Slippery (Ex): A kuo-toa secretes an oily film that makes him difficult to grapple or snare. Webs (magic or otherwise) don't affect kuo-toas, and they usually can wriggle free from most other forms of confinement.
 
 * Light Blindness (Ex): Abrupt exposure to bright light (such as sunlight or a daylight spell) blinds a kuo-toa for 1 round. In addition, he takes a --1 circumstance penalty on all attack rolls, saves, and checks while operating in bright light.
 
-� Amphibious (Ex): Kuo-toas can breathe both air and water without difficulty and are capable of surviving indefinitely in either environment.
+ï¿½ Amphibious (Ex): Kuo-toas can breathe both air and water without difficulty and are capable of surviving indefinitely in either environment.
 
-� Natural Armor Bonus (Ex): A kuo-toa has a +6 natural armor bonus to Armor Class because of his scaly skin.
+ï¿½ Natural Armor Bonus (Ex): A kuo-toa has a +6 natural armor bonus to Armor Class because of his scaly skin.
 
-� Racial Bonuses: A kuo-toa has a +8 racial bonus on Escape Artist checks and a +4 racial bonus on Search and Spot checks.
+ï¿½ Racial Bonuses: A kuo-toa has a +8 racial bonus on Escape Artist checks and a +4 racial bonus on Search and Spot checks.
 
-� Weapon Familiarity: A kuo-toa may treat pincer staffs (see Chapter 5: Equipment and Magic Items) as martial weapons rather than exotic weapons.
+ï¿½ Weapon Familiarity: A kuo-toa may treat pincer staffs (see Chapter 5: Equipment and Magic Items) as martial weapons rather than exotic weapons.
 
-� Racial Hit Dice: A kuo-toa character begins with two levels of monstrous humanoid, which provide 2d8 Hit Dice, a base attack bonus of +2, and base saving throw bonuses of Fort +0, Ref +3, and Will +3.
+ï¿½ Racial Hit Dice: A kuo-toa character begins with two levels of monstrous humanoid, which provide 2d8 Hit Dice, a base attack bonus of +2, and base saving throw bonuses of Fort +0, Ref +3, and Will +3.
 
-* Racial Skills: A kuo-toa's monstrous humanoid levels give him skill points equal to 5 � (2 + Int modifier). His class skills are Craft (any), Escape Artist, Knowledge (any), Listen, Move Silently, Search, and Spot.
+* Racial Skills: A kuo-toa's monstrous humanoid levels give him skill points equal to 5 ï¿½ (2 + Int modifier). His class skills are Craft (any), Escape Artist, Knowledge (any), Listen, Move Silently, Search, and Spot.
 
-� Racial Feats: A kuo-toa's monstrous humanoid levels give him one feat.
+ï¿½ Racial Feats: A kuo-toa's monstrous humanoid levels give him one feat.
 
-� Automatic Languages: Kuo-Toan, Undercommon, and Aquan. Bonus Languages: Common, Dwarven, Elven, and Serusan (or by character region).";
+ï¿½ Automatic Languages: Kuo-Toan, Undercommon, and Aquan. Bonus Languages: Common, Dwarven, Elven, and Serusan (or by character region).";
 36;37;13;Jerren;;-2;2;0;0;0;0;Small;20;0;;;;;;;;;"+2 Dexterity, --2 Strength: Jerren are quick, agile, and skilled with ranged weapons, but they are Small and therefore not as strong as other humanoids.
 
 +2 racial bonus on Intimidate, Bluff, and Move Silently checks. Jerren are scary, untruthful, and s";
@@ -164,18 +164,18 @@ A Vasharan receives 4 extra skill points at 1st level and 1 extra skill point at
 Automatic Language: Common. Bonus Languages: Any (other than secret languages such as Druidic). ";
 22;47;190;Pixie (Sprite);;-4;4;0;2;0;2;Small;20;0;;;;;;;;;"* As Small creatures, pixies gain a +1 size bonus to Armor Class, a +1 size bonus on attack rolls, and a +4 size bonus on Hide checks, but they must use smaller weapons than Medium-size creatures do, and their lifting and carrying limits are three-quarters of those of Medium-size characters.
 
-� Low-Light Vision: Pixies can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination. They retain the ability to distinguish color and detail under these conditions.
+ï¿½ Low-Light Vision: Pixies can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination. They retain the ability to distinguish color and detail under these conditions.
 
-� Skills: +2 racial bonus on Listen, Search, and Spot checks.
+ï¿½ Skills: +2 racial bonus on Listen, Search, and Spot checks.
 
-� Automatic Languages: Common and Sylvan.";
+ï¿½ Automatic Languages: Common and Sylvan.";
 40;47;217;Half-ogres;;6;-2;2;-2;0;-2;Large;30;1;4;Giant;;8;CLR;GOOD;BAD;BAD;"*Darkvision:* Half-ogres have darkvision with a range of 60 feet. 
 *Giant Blood:* For all special abilities and effects, a half-ogre is considered a giant. Half-ogres can use giant weapons and magic items with racially specific giant powers as if they were giants. 
 
 ";
 23;52;165;Bariaur;;4;0;2;0;0;-2;Medium;40;2;;Outsider;3;8;FIG;GOOD;GOOD;GOOD;"* Darkvision out to 60 feet.
 * Racial Hit Dice: A bariaur begins with three levels of outsider, which provide 3d8 Hit Dice, a base attack bonus of +3, and base saving throw bonuses of Fort +3, Ref +3, and Will +3.
-* Racial Skills: A bariaur's outsider levels give it skill points equal to 6 � (8 + Int modifier). Its class skills are Handle Animal, Hide, Jump, Listen, Move Silently, Sense Motive, Spot, and Survival.
+* Racial Skills: A bariaur's outsider levels give it skill points equal to 6 ï¿½ (8 + Int modifier). Its class skills are Handle Animal, Hide, Jump, Listen, Move Silently, Sense Motive, Spot, and Survival.
 * A bariaur's outsider levels give it two feats.
 * Skill Bonuses: Bariaurs have keen senses and gain a +2 racial bonus on Listen and Spot checks.
 ";
@@ -334,39 +334,39 @@ A sea spirit folk can make a Knowledge (nature) check (or an untrained intellige
 
 * +2 racial bonus on Wilderness Lore checks: Korobokurus are familiar with the wild lands in which they dwell.";
 38;96;10;Hengeyokai;;0;0;0;0;-2;0;Medium;30;1;;;;;;;;;"-2 Wisdom. Hengeyokai tend to be flighty and weak-willed. A hengeyokai's physical ability scores vary widely in its animal and hybrid forms; the character's generated ability scores apply to its human form. In hybrid form, a hengeyokai gains a +2 adjustme";
-29;109;6;Diabolus;;0;0;0;0;0;0;Medium;30;1;;;;;;;;;"� Outsider (native): Diaboli are outsiders with the native subtype. Diaboli have a knack for making themselves at home on new planes.
-� Chaotic: Diaboli have the chaotic subtype.
-� Medium: As Medium creatures, diaboli have no special bonuses or penalties due to their size.
-� Diaboli base land speed is 30 feet.
-� Darkvision: Diaboli can see in the dark up to 60 feet. Darkvision is black and white only, but it is otherwise like normal sight, and diaboli can function just fine with no light at all.
-� +2 racial bonus on all saving throws against spells and spell-like effects: Diaboli come from a demiplane slightly out of phase with other planes, which gives them some resistance to magical effects.
-� +2 racial bonus on Intimidate checks made against animals and humanoids. The frightful appearance and alien psychology of diaboli make them particularly good at coercing Material Plane natives.
-� -2 penalty on Diplomacy, Handle Animal, Perform, and Sense Motive checks. The hideous appearance and strange mannerisms of the diaboli make it difficult for them to interact peaceably with native humanoids and animals of the Material Plane.
-� Weapon Familiarity: Diaboli treat tridents as simple weapons rather than martial weapons.
-� Natural Attack: Tail. A diabolus can make a secondary natural attack with its tail (at a -5 penalty on attack rolls). This attack deals 1d4 points of damage and injects its target with a mild poison (DC 10 + 1/2 HD + Constitution modifier). The poison's initial damage causes its victim to become sickened for 2d4 rounds; it has no secondary damage. A sickened creature suffers a -2 penalty on all attack rolls, weapon damage rolls, saving throws, skill checks, and ability checks. A diaboli can produce a number of doses of poison equal to 3 + its Constitution modifier per day.
-� Automatic Languages: Diabolan and diaboli tail code. 
-� Bonus Languages: Abyssal, Common, Draconic, and Infernal. Diaboli learn the languages easiest for them to pronounce as well as the most frequently used languages near their adopted homes.
-� Favored Class: Sorcerer. A multiclass diaboli's sorcerer class does not count when determining whether he takes an experience point penalty for multiclassing (see XP for Multiclass Characters on page 60 of the Player's Handbook). With a unique tie to the multiverse and strong streak of chaotic individualism, diaboli make excellent sorcerers.
-� Level Adjustment: +1.";
+29;109;6;Diabolus;;0;0;0;0;0;0;Medium;30;1;;;;;;;;;"ï¿½ Outsider (native): Diaboli are outsiders with the native subtype. Diaboli have a knack for making themselves at home on new planes.
+ï¿½ Chaotic: Diaboli have the chaotic subtype.
+ï¿½ Medium: As Medium creatures, diaboli have no special bonuses or penalties due to their size.
+ï¿½ Diaboli base land speed is 30 feet.
+ï¿½ Darkvision: Diaboli can see in the dark up to 60 feet. Darkvision is black and white only, but it is otherwise like normal sight, and diaboli can function just fine with no light at all.
+ï¿½ +2 racial bonus on all saving throws against spells and spell-like effects: Diaboli come from a demiplane slightly out of phase with other planes, which gives them some resistance to magical effects.
+ï¿½ +2 racial bonus on Intimidate checks made against animals and humanoids. The frightful appearance and alien psychology of diaboli make them particularly good at coercing Material Plane natives.
+ï¿½ -2 penalty on Diplomacy, Handle Animal, Perform, and Sense Motive checks. The hideous appearance and strange mannerisms of the diaboli make it difficult for them to interact peaceably with native humanoids and animals of the Material Plane.
+ï¿½ Weapon Familiarity: Diaboli treat tridents as simple weapons rather than martial weapons.
+ï¿½ Natural Attack: Tail. A diabolus can make a secondary natural attack with its tail (at a -5 penalty on attack rolls). This attack deals 1d4 points of damage and injects its target with a mild poison (DC 10 + 1/2 HD + Constitution modifier). The poison's initial damage causes its victim to become sickened for 2d4 rounds; it has no secondary damage. A sickened creature suffers a -2 penalty on all attack rolls, weapon damage rolls, saving throws, skill checks, and ability checks. A diaboli can produce a number of doses of poison equal to 3 + its Constitution modifier per day.
+ï¿½ Automatic Languages: Diabolan and diaboli tail code. 
+ï¿½ Bonus Languages: Abyssal, Common, Draconic, and Infernal. Diaboli learn the languages easiest for them to pronounce as well as the most frequently used languages near their adopted homes.
+ï¿½ Favored Class: Sorcerer. A multiclass diaboli's sorcerer class does not count when determining whether he takes an experience point penalty for multiclassing (see XP for Multiclass Characters on page 60 of the Player's Handbook). With a unique tie to the multiverse and strong streak of chaotic individualism, diaboli make excellent sorcerers.
+ï¿½ Level Adjustment: +1.";
 30;109;10;Diopsid;;0;-2;2;-2;0;0;Medium;30;1;4;Monstrous humanoid;;8;FIG;BAD;GOOD;GOOD;"DIOPSID RACIAL TRAITS
-� Monstrous Humanoid: As monstrous humanoids, diopsids are immune to spells that only affect humanoids, such as charm person and hold person.
-� +2 Constitution, -2 Dexterity, -2 Intelligence: Diopsids are tough, but they are clumsy and slow witted compared to other races. A diopsid's young age at adulthood makes it inexperienced and ignorant compared to other folk.
-� Medium: As size Medium creatures, diopsids gain no special benefits or penalties due to their size. Diopsid base land speed is 30 feet.
-� Darkvision: Diopsids can see in the dark to a range of up to 60 feet. Darkvision is black and white only, but it is otherwise like normal sight, and diopsids can function just fine with no light at all.
-� Bioluminescence: A diopsid has a number of glands on its body that allow it to shed light much like a firefly. At will, the diopsid can shed light in a 10- foot radius around its body. Shadowy illumination extends another 20 feet around this area. The diopsid can create or douse this light as a free action.
-� Natural Armor: A diopsid's tough carapace gives it a +4 natural armor bonus.
-� Wings: Diopsids have a pair of stubby wings that, while too weak to provide them with flight, allows them to gently guide to a soft landing regardless of how far they fall. A diopsid does not take falling damage as long as it is capable of taking actions. As an immediate action, it can unfurl its wings and float slowly downward at 60 feet per round. Aparalyzed,unconscious,orotherwiseincapacitated diopsid cannot use its wings in this manner.
-� Extra Arms: Diopsids have four arms: their two primary limbs and a secondary, weaker set of arms. Their weaker limbs are poorly suited to carrying weapons or shields, but they do an excellent job of providing stability and support to the upper limbs. The diopsid's extra limbs allow it to use weapons one size category larger than normal without penalty. The diopsid's secondary arms must be free for it to gain this benefit. This benefit does not extend to larger weapons. For example, a diopsid can wield a Large longsword with a single primary arm without penalty by steadying the blade's pommel with its lower limb. A diopsid can wield a pair of two-handed weapons by using all four of its limbs. The diopsid gains the full benefits of wielding a two-handed weapon, such as 1-1/2 times its Strength bonus on damage rolls. The diopsid suffers the standard penalty for fighting with two weapons and carrying a non-light weapon in its off hand. A diopsid wielding a pair of two-handed weapons is a fearsome sight. It shifts and twirls the two weapons between its four hands, hammering its opponent with tremendous strikes while defying its normally clumsy, fumbling nature. If a diopsid carries a weapon or shield in its secondary arms while one or more of its primary arms also carry an item, it suffers a number of penalties. When using a shield, the diopsid takes the shield's armor check penalty on its attack rolls and skill checks even if it has proficiency with the shield. When using a weapon, the diopsid gains only half its Strength bonus on damage rolls. It takes a -4 penalty on all attacks for each light weapon used in this manner. This penalty increases to -8 for one-handed weapons. The diopsid cannot carry a two-handed weapon withjust its secondary arms. A diopsid with at least one empty hand can cast spells with a somatic component.
-� Limb Symmetry: A diopsid's four arms allow it to carry and use multiple items with relative ease. A diopsid can use its third and fourth limbs to steady a weapon held in its primary arms, shift its weight, and maneuver it to attack or defend. A diopsid ignores the Dexterity prerequisite, if any, for any feat that has the words ""two-weapon"" in its name, such as Two- Weapon Fighting. The diopsid must fulfill the rest of the feat's requirements as normal.
-� Insect Body: The diopsid's beetle-like body makes it unsuited to use many tools and magic items designed for humanoids. A diopsid has trouble wearing bulky armor even if it has the appropriate feat. A diopsid can wear light armor without penalty. When wearing medium armor the diopsid takes a -2 penalty to Dexterity. This penalty increases to -4 if the diopsid wears heavy armor. The diopsid's multiple limbs and bulky form make it poorly suited to using heavy armor. For such a suit to offer its full protection, it must restrict the diopsid's movements. In any case, the diopsid must purchase custom-made armor. This armor costs the same price as if the diopsid had to purchase armor one size larger than normal.
-� Immune to Sleep: Diopsids do not need to sleep and are immune to all sleep effects.
-� Automatic Languages: Common and Diopsid. Bonus Languages: Dwarf, Orc, Terran, Undercommon. Diopsids learn the languages of the Underdark to facilitate trade with other folk. The diopsid love of new weapons and metal goods is powerful enough to overcome their normally sluggish intellects. The diopsid native tongue employs their luminous glands, allowing them to flash messages across the largest Underdark caverns without a sound. Diopsids can also create flashes of ""light"" visible only to creatures with darkvision, allowing them to ""whisper"" without tipping off their presence to creatures that rely on normal vision. An observer can detect a diopsid communicating in this manner with a Spot check rather than a Listen check. While creatures that lack bioluminescence cannot ""speak"" Diopsid, they can understand and translate it.
-� Favored Class: Barbarian. A multiclass diopsid's barbarian levels do not count when determining whether it takes an experience point penalty. Diopsids are strong, tough warriors who prefer brute force to elegant fighting styles. Thus, the barbarian class is a perfect match for them.
-� Level Adjustment: +1.";
-31;109;;Dvati;;0;0;0;0;0;0;Medium;30;1;;;;;;;;;"� Medium: As Medium creatures, dvati have no special bonuses or penalties due to size.
-� Dvati base land speed is 30 feet.
-� Darkvision: Dvati can see in the dark to a range of up to 60 feet. Darkvision is black and white only, but it is otherwise like normal sight, and dvati can function just fine with no light at all.
-� Twins:
+ï¿½ Monstrous Humanoid: As monstrous humanoids, diopsids are immune to spells that only affect humanoids, such as charm person and hold person.
+ï¿½ +2 Constitution, -2 Dexterity, -2 Intelligence: Diopsids are tough, but they are clumsy and slow witted compared to other races. A diopsid's young age at adulthood makes it inexperienced and ignorant compared to other folk.
+ï¿½ Medium: As size Medium creatures, diopsids gain no special benefits or penalties due to their size. Diopsid base land speed is 30 feet.
+ï¿½ Darkvision: Diopsids can see in the dark to a range of up to 60 feet. Darkvision is black and white only, but it is otherwise like normal sight, and diopsids can function just fine with no light at all.
+ï¿½ Bioluminescence: A diopsid has a number of glands on its body that allow it to shed light much like a firefly. At will, the diopsid can shed light in a 10- foot radius around its body. Shadowy illumination extends another 20 feet around this area. The diopsid can create or douse this light as a free action.
+ï¿½ Natural Armor: A diopsid's tough carapace gives it a +4 natural armor bonus.
+ï¿½ Wings: Diopsids have a pair of stubby wings that, while too weak to provide them with flight, allows them to gently guide to a soft landing regardless of how far they fall. A diopsid does not take falling damage as long as it is capable of taking actions. As an immediate action, it can unfurl its wings and float slowly downward at 60 feet per round. Aparalyzed,unconscious,orotherwiseincapacitated diopsid cannot use its wings in this manner.
+ï¿½ Extra Arms: Diopsids have four arms: their two primary limbs and a secondary, weaker set of arms. Their weaker limbs are poorly suited to carrying weapons or shields, but they do an excellent job of providing stability and support to the upper limbs. The diopsid's extra limbs allow it to use weapons one size category larger than normal without penalty. The diopsid's secondary arms must be free for it to gain this benefit. This benefit does not extend to larger weapons. For example, a diopsid can wield a Large longsword with a single primary arm without penalty by steadying the blade's pommel with its lower limb. A diopsid can wield a pair of two-handed weapons by using all four of its limbs. The diopsid gains the full benefits of wielding a two-handed weapon, such as 1-1/2 times its Strength bonus on damage rolls. The diopsid suffers the standard penalty for fighting with two weapons and carrying a non-light weapon in its off hand. A diopsid wielding a pair of two-handed weapons is a fearsome sight. It shifts and twirls the two weapons between its four hands, hammering its opponent with tremendous strikes while defying its normally clumsy, fumbling nature. If a diopsid carries a weapon or shield in its secondary arms while one or more of its primary arms also carry an item, it suffers a number of penalties. When using a shield, the diopsid takes the shield's armor check penalty on its attack rolls and skill checks even if it has proficiency with the shield. When using a weapon, the diopsid gains only half its Strength bonus on damage rolls. It takes a -4 penalty on all attacks for each light weapon used in this manner. This penalty increases to -8 for one-handed weapons. The diopsid cannot carry a two-handed weapon withjust its secondary arms. A diopsid with at least one empty hand can cast spells with a somatic component.
+ï¿½ Limb Symmetry: A diopsid's four arms allow it to carry and use multiple items with relative ease. A diopsid can use its third and fourth limbs to steady a weapon held in its primary arms, shift its weight, and maneuver it to attack or defend. A diopsid ignores the Dexterity prerequisite, if any, for any feat that has the words ""two-weapon"" in its name, such as Two- Weapon Fighting. The diopsid must fulfill the rest of the feat's requirements as normal.
+ï¿½ Insect Body: The diopsid's beetle-like body makes it unsuited to use many tools and magic items designed for humanoids. A diopsid has trouble wearing bulky armor even if it has the appropriate feat. A diopsid can wear light armor without penalty. When wearing medium armor the diopsid takes a -2 penalty to Dexterity. This penalty increases to -4 if the diopsid wears heavy armor. The diopsid's multiple limbs and bulky form make it poorly suited to using heavy armor. For such a suit to offer its full protection, it must restrict the diopsid's movements. In any case, the diopsid must purchase custom-made armor. This armor costs the same price as if the diopsid had to purchase armor one size larger than normal.
+ï¿½ Immune to Sleep: Diopsids do not need to sleep and are immune to all sleep effects.
+ï¿½ Automatic Languages: Common and Diopsid. Bonus Languages: Dwarf, Orc, Terran, Undercommon. Diopsids learn the languages of the Underdark to facilitate trade with other folk. The diopsid love of new weapons and metal goods is powerful enough to overcome their normally sluggish intellects. The diopsid native tongue employs their luminous glands, allowing them to flash messages across the largest Underdark caverns without a sound. Diopsids can also create flashes of ""light"" visible only to creatures with darkvision, allowing them to ""whisper"" without tipping off their presence to creatures that rely on normal vision. An observer can detect a diopsid communicating in this manner with a Spot check rather than a Listen check. While creatures that lack bioluminescence cannot ""speak"" Diopsid, they can understand and translate it.
+ï¿½ Favored Class: Barbarian. A multiclass diopsid's barbarian levels do not count when determining whether it takes an experience point penalty. Diopsids are strong, tough warriors who prefer brute force to elegant fighting styles. Thus, the barbarian class is a perfect match for them.
+ï¿½ Level Adjustment: +1.";
+31;109;;Dvati;;0;0;0;0;0;0;Medium;30;1;;;;;;;;;"ï¿½ Medium: As Medium creatures, dvati have no special bonuses or penalties due to size.
+ï¿½ Dvati base land speed is 30 feet.
+ï¿½ Darkvision: Dvati can see in the dark to a range of up to 60 feet. Darkvision is black and white only, but it is otherwise like normal sight, and dvati can function just fine with no light at all.
+ï¿½ Twins:
 
 A ""single"" dvati is a pair of creatures that shares a soul. A dvati twin can no more exist without his soul partner than a human can live without a heart. The unique, spiritual link between a dvati pair has several important implications. A dvati character is actually two separate dvati twins who share a soul. These two creatures move and act separately but have a number of restrictions based on their connection. The dvati twins gain levels and progress in the same manner as a single creature of another race. The twins share a class and both have the same level. The twins do not progress at a different rate, nor do they split XP between them. Rather, each has an identical XP total. When dividing XP among characters, a dvati counts as one PC. 
 
@@ -383,17 +383,17 @@ The dvati twins have an innate, powerful psychic connection. They can communicat
 If one dvati twin dies, the other slowly sickens and perishes. Each day that passes after a dvati twin dies, the surviving twin takes 1d4 points of Constitution and Wisdom damage and takes a cumulative -1 penalty on attack rolls, skill checks, and saving throws. The ability damage and penalties remain (and cannot be healed or removed) until the living twin dies or his soulmate returns to life (at which time they immediately disappear). Most dvati prefer to commit ritual suicide if one twin dies without hope of return, as the pain of losing the close bond drives a dvati to the brink of madness.
 In most cases, an effect that applies to one twin fails to spill over to the other. If a medusa turns one twin to stone, the other remains healthy. Negative levels are an exception to this rule. If one dvati twin suffers a negative level, both of them incur its effects. The dvati makes one save to remove the negative level. Level loss caused by returning to life via a raise dead or similar spell affects both dvati twins.
 
-� Echo Attack: By combining their voices into one maddening cacophony, a pair of dvati twins can confuse a creature they flank. If both twins speak as a move action while flanking an opponent, that creature must make a Will save. The DC of this save equals the result of a single Perform (sing) check made by the dvati. If the save fails, the twins gain their choice of a +1 bonus on attack rolls against the creature or a +1 bonus to Armor Class against the creature's strikes. This bonus lasts for 1 round. Creatures that cannot hear or be flanked are immune to this effect.
-� Pair Link: The close relationship between dvati twins grants them several benefits when they work together. If two dvati twins team up to flank an opponent, they each gain a +3 bonus on attack rolls, rather than the normal +2 bonus. If a twin uses the aid another action to help his twin, he grants an additional +2 bonus (for a total of +4) on attack rolls or to Armor Class.
-� Spell Conductor: A dvati twin can choose to shift a spell that affects him to his twin so long as both of them are on the same plane. The shifted spell must have a range of touch and it must also be harmless. Using this ability requires a move action to focus and channel the spell's power. Aside from the change in target, the spell's duration and effects continue as normal. A dvati can transfer a spell he casts from one twin to the other as part of the act of casting. He cannot transfer spells used by others.
-� Automatic Languages: Common and Dvati. Bonus Languages: Any. Dvati requires two creatures speaking simultaneously. One twin provides a description of actions, while the other supplies words and descriptions of things. The two weave together to communicate in a uniquely dvati manner. Other creatures can speak this tongue, but two Dvati-speaking creatures must work together. Otherwise, communication via this language is impossible. In most cases, dvati use Common to speak with other races.
-� Favored Class: Bard. A multiclass dvati's bard class does not count when determining whether he takes an experience point penalty for multiclassing. The dvati's strange, magical nature makes them natural Spellcasters, and their ability to meld their voices into one grants them an unmatched singing ability. Dvati bards are legendary for their ability to perform as flawless duos.
-� Level Adjustment: +1.";
-32;109;18;Lupin;;0;0;0;0;0;0;Medium;30;0;;Monstrous humanoid;;8;FIG;BAD;GOOD;GOOD;"� Monstrous Humanoid: As monstrous humanoids, lupins are immune to spells that only affect humanoids, such as _charm person_ and _hold person._
-� Medium: As Medium creatures, lupins have no special bonuses or penalties due to size.
-� Lupin base land speed is 30 feet.
-� Darkvision: Lupins can see in the dark up to 60 feet. Darkvision is black and white only, but it is otherwise like normal sight, and lupins can function just fine with no light at all.
-� Acute Sense of Smell:
+ï¿½ Echo Attack: By combining their voices into one maddening cacophony, a pair of dvati twins can confuse a creature they flank. If both twins speak as a move action while flanking an opponent, that creature must make a Will save. The DC of this save equals the result of a single Perform (sing) check made by the dvati. If the save fails, the twins gain their choice of a +1 bonus on attack rolls against the creature or a +1 bonus to Armor Class against the creature's strikes. This bonus lasts for 1 round. Creatures that cannot hear or be flanked are immune to this effect.
+ï¿½ Pair Link: The close relationship between dvati twins grants them several benefits when they work together. If two dvati twins team up to flank an opponent, they each gain a +3 bonus on attack rolls, rather than the normal +2 bonus. If a twin uses the aid another action to help his twin, he grants an additional +2 bonus (for a total of +4) on attack rolls or to Armor Class.
+ï¿½ Spell Conductor: A dvati twin can choose to shift a spell that affects him to his twin so long as both of them are on the same plane. The shifted spell must have a range of touch and it must also be harmless. Using this ability requires a move action to focus and channel the spell's power. Aside from the change in target, the spell's duration and effects continue as normal. A dvati can transfer a spell he casts from one twin to the other as part of the act of casting. He cannot transfer spells used by others.
+ï¿½ Automatic Languages: Common and Dvati. Bonus Languages: Any. Dvati requires two creatures speaking simultaneously. One twin provides a description of actions, while the other supplies words and descriptions of things. The two weave together to communicate in a uniquely dvati manner. Other creatures can speak this tongue, but two Dvati-speaking creatures must work together. Otherwise, communication via this language is impossible. In most cases, dvati use Common to speak with other races.
+ï¿½ Favored Class: Bard. A multiclass dvati's bard class does not count when determining whether he takes an experience point penalty for multiclassing. The dvati's strange, magical nature makes them natural Spellcasters, and their ability to meld their voices into one grants them an unmatched singing ability. Dvati bards are legendary for their ability to perform as flawless duos.
+ï¿½ Level Adjustment: +1.";
+32;109;18;Lupin;;0;0;0;0;0;0;Medium;30;0;;Monstrous humanoid;;8;FIG;BAD;GOOD;GOOD;"ï¿½ Monstrous Humanoid: As monstrous humanoids, lupins are immune to spells that only affect humanoids, such as _charm person_ and _hold person._
+ï¿½ Medium: As Medium creatures, lupins have no special bonuses or penalties due to size.
+ï¿½ Lupin base land speed is 30 feet.
+ï¿½ Darkvision: Lupins can see in the dark up to 60 feet. Darkvision is black and white only, but it is otherwise like normal sight, and lupins can function just fine with no light at all.
+ï¿½ Acute Sense of Smell:
 
 In many ways, a lupin's acute sense of smell works like the scent ability but without the automatic nature of scent. A lupin's nose allows it to locate and identify certain races and creatures by their smell, and to aid it in tracking.
 
@@ -405,18 +405,18 @@ A lupin within 5 feet of an invisible or hidden creature is entitled to a DC 10 
 
 A lupin gains a +2 racial bonus on all Survival checks made to follow tracks. Lupins can't track by smell alone, but the olfactory clues they find aid their tracking techniques.
 
-� Lupins take a -2 penalty on all saving throws against attacks based on odor (such as a stinking cloud spell or a ghast's stench).
-� Expert Rider: Lupins always consider Ride a class skill, and they gain a +2 bonus on all Ride checks. Lupins rely on strong mounts while making their yearly nomadic movements, and even settled lupins purchase a horse as soon as they can.
-� +1 bonus on attack rolls and damage rolls against werewolves. As soon as they are weaned, lupins begin learning techniques to fight their ancient foes.
-� +2 bonus on Listen checks: Lupins have a keen sense of hearing.
-� Automatic Languages: Common and Lupin. Bonus languages: Elven, Gnoll, Gnome, Goblin, Halfling, and Sylvan. Lupins tend to learn the languages of both their enemies and their friends.
-� Favored Class: Ranger. A multiclass lupin's ranger class does not count when determining whether he takes an experience point penalty for multiclassing. The lupins' keen senses make them natural trackers. Lupin rangers may choose humanoid (shapechanger) as a favored enemy.";
-33;109;21;Tibbit;;-2;2;0;0;0;0;Small;20;0;;Monstrous humanoid;;8;FIG;BAD;GOOD;GOOD;"� Monstrous Humanoid (shapeshifter): As monstrous humanoids, tibbits are immune to spells that affect only humanoids. (Tibbits, of course, would be horrified to learn that they are classified as ""monstrous."") They also have the shapeshifter subtype.
-� +2 Dexterity, -2 Strength: Tibbits are small and relatively weak, but they have a cat's quick reflexes and fluid agility.
-� Small: As a Small creature, a tibbit gains a +1 size bonus to Armor Class, a +1 size bonus on attack rolls, and a +4 size bonus on Hide checks, but she uses smaller weapons than humans use, and her lifting and carrying limits are three-quarters of those of a Medium creature.
-� Tibbit base land speed is 20 feet.
-� Darkvision: Tibbits can see in the dark up to 60 feet. Darkvision is black and white only, but it is otherwise like normal sight, and lupins can function just fine with no light at all.
-� Feline Transformation: At will, as a standard action, a tibbit can transform into a house cat. This effect is similar to the spell polymorph but with a number of key changes.
+ï¿½ Lupins take a -2 penalty on all saving throws against attacks based on odor (such as a stinking cloud spell or a ghast's stench).
+ï¿½ Expert Rider: Lupins always consider Ride a class skill, and they gain a +2 bonus on all Ride checks. Lupins rely on strong mounts while making their yearly nomadic movements, and even settled lupins purchase a horse as soon as they can.
+ï¿½ +1 bonus on attack rolls and damage rolls against werewolves. As soon as they are weaned, lupins begin learning techniques to fight their ancient foes.
+ï¿½ +2 bonus on Listen checks: Lupins have a keen sense of hearing.
+ï¿½ Automatic Languages: Common and Lupin. Bonus languages: Elven, Gnoll, Gnome, Goblin, Halfling, and Sylvan. Lupins tend to learn the languages of both their enemies and their friends.
+ï¿½ Favored Class: Ranger. A multiclass lupin's ranger class does not count when determining whether he takes an experience point penalty for multiclassing. The lupins' keen senses make them natural trackers. Lupin rangers may choose humanoid (shapechanger) as a favored enemy.";
+33;109;21;Tibbit;;-2;2;0;0;0;0;Small;20;0;;Monstrous humanoid;;8;FIG;BAD;GOOD;GOOD;"ï¿½ Monstrous Humanoid (shapeshifter): As monstrous humanoids, tibbits are immune to spells that affect only humanoids. (Tibbits, of course, would be horrified to learn that they are classified as ""monstrous."") They also have the shapeshifter subtype.
+ï¿½ +2 Dexterity, -2 Strength: Tibbits are small and relatively weak, but they have a cat's quick reflexes and fluid agility.
+ï¿½ Small: As a Small creature, a tibbit gains a +1 size bonus to Armor Class, a +1 size bonus on attack rolls, and a +4 size bonus on Hide checks, but she uses smaller weapons than humans use, and her lifting and carrying limits are three-quarters of those of a Medium creature.
+ï¿½ Tibbit base land speed is 20 feet.
+ï¿½ Darkvision: Tibbits can see in the dark up to 60 feet. Darkvision is black and white only, but it is otherwise like normal sight, and lupins can function just fine with no light at all.
+ï¿½ Feline Transformation: At will, as a standard action, a tibbit can transform into a house cat. This effect is similar to the spell polymorph but with a number of key changes.
 
 In cat form, the tibbit becomes size Tiny. Her size bonus to Armor Class and on attack rolls increases to +2, and her size bonus on Hide checks becomes +8. She gains a +10 bonus to her land speed. A tibbit suffers a -8 penalty to Strength (minimum 3) but gains a +2 bonus to Dexterity.
 
@@ -433,7 +433,7 @@ A tibbit slain in cat form reverts to her humanoid form after 1 round.
 Any spell that reveals the true nature ofa creature under the effects ofpolymorph shows the truth behind a tibbit's cat guise. Spells that reveal magical auras but do not penetrate a polymorph spell reveal nothing special about a tibbit in cat form.
 
 Aside from the changes noted here, a tibbit's abilities and game statistics otherwise remain the same. Note that anyone spotting a tibbit in cat form has a difficult time recognizing the feline as a tibbit.
-� +2 racial bonus on all Spot checks. Tibbits have keen eyes.
-� +2 racial bonus on all Jump and Escape Artist checks. Like their feline cousins, tibbits are quick, nimble, and lithe.
-� Automatic Languages: Common and Feline. The Feline language is spoken by all tibbits and cats with an Intelligence of 3 or higher, allowing a tibbit to use the Diplomacy skill against such felines. This language is part of the felines' racial heritage. Other races cannot master it, nor can they use spells such as tongues to communicate with cats. Bonus Languages: Any. Tibbits travel far and wide and their curiosity pushes them to learn a number of languages.
-� Favored Class: Rogue. A multiclass tibbit's rogue class does not count when determining whether she takes an experience point penalty for multiclassing. Tibbits excel at keeping a low profile and finding secrets, two tasks for which the rogue is ideally suited.";
+ï¿½ +2 racial bonus on all Spot checks. Tibbits have keen eyes.
+ï¿½ +2 racial bonus on all Jump and Escape Artist checks. Like their feline cousins, tibbits are quick, nimble, and lithe.
+ï¿½ Automatic Languages: Common and Feline. The Feline language is spoken by all tibbits and cats with an Intelligence of 3 or higher, allowing a tibbit to use the Diplomacy skill against such felines. This language is part of the felines' racial heritage. Other races cannot master it, nor can they use spells such as tongues to communicate with cats. Bonus Languages: Any. Tibbits travel far and wide and their curiosity pushes them to learn a number of languages.
+ï¿½ Favored Class: Rogue. A multiclass tibbit's rogue class does not count when determining whether she takes an experience point penalty for multiclassing. Tibbits excel at keeping a low profile and finding secrets, two tasks for which the rogue is ideally suited.";
