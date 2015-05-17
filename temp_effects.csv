@@ -32,9 +32,9 @@ id;rulebook_id;name;name_pt;type;effect_1;effect_2;effect_3;effect_4;special
 32;6;Eagle's Splendor;Esplendor da Águia;SPELL;CHA 4;;;;
 33;6;Fox's Cunning;Astúcia da Raposa;SPELL;INT 4;;;;
 34;6;Owl's Wisdom;Sabedoria da Coruja;SPELL;WIS 4;;;;
-35;6;Barkskin +2;Pele de Árvore +2;SPELL;AC 2 natural;;;;
-36;6;Barkskin +3;Pele de Árvore +3;SPELL;AC 3 natural;;;;
-37;6;Barkskin +4;Pele de Árvore +4;SPELL;AC 4 natural;;;;
+35;6;Barkskin +2;Pele de Árvore +2;SPELL;AC 2 natural_armor;;;;
+36;6;Barkskin +3;Pele de Árvore +3;SPELL;AC 3 natural_armor;;;;
+37;6;Barkskin +4;Pele de Árvore +4;SPELL;AC 4 natural_armor;;;;
 38;6;Flare;Brilho;SPELL;HIT -1;;;;
 39;6;Haste;Velocidade;SPELL;SPEED 6;HIT 1;AC 1;REFL 1;EXTRA_ATK 1
 40;6;Slow;Lentidão;SPELL;HIT -2;AC -2;;;
