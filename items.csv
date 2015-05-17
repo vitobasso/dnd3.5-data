@@ -73,8 +73,6 @@ id;rulebook_id;page;name;name_pt;slot;price_gp;weight;feat_requirement;weapon_ty
 102;4;221;Spined Shield;;Armor or shield;5580;15.0;;;;;;;;;;;;;;;;
 135;4;280;Talisman of the Sphere;;;;1.0;;;;;;;;;;;;;;;;
 103;4;221;Winged Shield;;;;10.0;;;;;;;;;;;;;;;;
-91;6;118;Longbow;;Weapon;75;;;;;;;;;;;;;;;;;
-92;6;120;Quarterstaff;;Weapon;0;4.0;;;;;;;;;;;;;;;;
 93;35;5;Arrow, Alchemist's;;Ammunition;75;0.2;;;;;;;;;;;;;;;;
 53;48;10;Fang Scarab;;Body;3500;;;;;;;;;;;;;;;;;
 33;52;112;Asura Shield;;Armor or shield;27180;;;;;;;;;;;;;;;;;
