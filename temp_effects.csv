@@ -1,4 +1,4 @@
-id;rulebook_id;name;name_pt;type;effect 1;effect 2;effect 3;effect 4;special
+id;rulebook_id;name;name_pt;type;effect_1;effect_2;effect_3;effect_4;special
 1;6;On higher ground;Em posição mais alta;COMBAT_MODIFIER;HIT 1 [melee];;;;
 2;6;Flanking;Flanqueando;COMBAT_MODIFIER;HIT 2 [melee];;;;
 3;6;Frightened;Amedrontado;COMBAT_MODIFIER;HIT -2;;;;

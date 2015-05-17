@@ -1,4 +1,4 @@
-id;rulebook_id;class_id;level;name;effect 1
+id;rulebook_id;class_id;level;name;effect_1
 2870;4;378;1;Enhance Arrow +1;
 2871;4;378;2;Imbue Arrow;
 2872;4;378;3;Enhance Arrow +2;
@@ -987,7 +987,7 @@ id;rulebook_id;class_id;level;name;effect 1
 4859;22;666;10;Bones of the earth;
 4860;22;666;10;Power strike 4/day;
 4861;22;667;1;Harper knowledge;
-4862;22;667;2;Deneir's eye; Lliira's heart;
+4862;22;667;2;Deneir's eye;
 4863;22;667;3;Tymora's smile;
 4864;22;667;4;Lurue's voice;
 4865;22;667;5;Mystra's boon;
@@ -3501,18 +3501,18 @@ id;rulebook_id;class_id;level;name;effect 1
 1451;54;188;5;Bonus feat;
 1453;54;189;1;Improved wild shape (humanoid);
 1452;54;189;1;Shifter's speech;
-1454;54;189;2;Improved wild shape (giant; Large);
+1454;54;189;2;Improved wild shape (giant, Large);
 1455;54;189;3;Fast wild shape;
 1456;54;189;3;Improved wild shape (monstrous humanoid);
-1457;54;189;4;Improved wild shape (fey; Tiny);
+1457;54;189;4;Improved wild shape (fey, Tiny);
 1458;54;189;5;Improved wild shape (vermin);
-1459;54;189;6;Improved wild shape (aberration; Huge);
+1459;54;189;6;Improved wild shape (aberration, Huge);
 1460;54;189;7;Extraordinary wild shape;
 1461;54;189;7;Improved wild shape (plant);
-1462;54;189;8;Improved wild shape (ooze; Diminutive);
+1462;54;189;8;Improved wild shape (ooze, Diminutive);
 1463;54;189;9;Improved wild shape (elemental);
 1464;54;189;10;Evershifting form;
-1465;54;189;10;Improved wild shape (dragon; Gargantuan);
+1465;54;189;10;Improved wild shape (dragon, Gargantuan);
 1466;54;190;1;Sneak attack +1d6;
 1467;54;190;1;Teamwork (hear/see allies);
 1468;54;190;2;Agility training;
@@ -5490,7 +5490,7 @@ id;rulebook_id;class_id;level;name;effect 1
 633;80;101;1;Totem dragon;
 634;80;101;2;Skill Focus;
 635;80;101;3;Draconic adaptation;
-636;80;101;4;Breath weapon (2d6; 15-ft. cone or 30-ft. line);
+636;80;101;4;Breath weapon (2d6;
 637;80;101;4;Draconic resolve;
 638;80;101;5;Draconic aura +2;
 639;80;101;6;Breath weapon (3d6);
@@ -5502,7 +5502,7 @@ id;rulebook_id;class_id;level;name;effect 1
 645;80;101;10;Breath weapon (5d6);
 646;80;101;10;Draconic aura +3;
 647;80;101;11;Touch of vitality (remove conditions);
-648;80;101;12;Breath weapon (6d6; 30-ft. cone or 60-ft. line);
+648;80;101;12;Breath weapon (6d6, 30ft cone or 60ft line);
 649;80;101;12;Natural armor +2;
 650;80;101;13;Draconic adaptation (share with allies);
 651;80;101;14;Breath weapon (7d6);
@@ -5513,7 +5513,7 @@ id;rulebook_id;class_id;level;name;effect 1
 656;80;101;17;Natural armor +3;
 657;80;101;18;Breath weapons (9d6);
 658;80;101;19;Draconic wings;
-659;80;101;20;Breath weapon (10d6; 60-ft. cone or 120-ft. line);
+659;80;101;20;Breath weapon (10d6, 60ft cone or 120ft line);
 660;80;101;20;Draconic aura +5;
 661;80;102;1;Arcane attunement;
 662;80;102;1;Armored mage (light);
@@ -6127,7 +6127,7 @@ id;rulebook_id;class_id;level;name;effect 1
 709;89;112;8;Soul binding (4 vestiges);
 711;89;113;1;Apprentice mysteries;
 710;89;113;1;Fundamentals of shadow;
-712;89;113;2;Bonus feat; see text;
+712;89;113;2;Bonus feat;
 713;89;113;3;Umbral Sight (darkvision 30ft);
 714;89;113;4;Bonus fundamental;
 715;89;113;5;Sustaining Shadow (eat 1 meal/week);
@@ -7027,7 +7027,7 @@ id;rulebook_id;class_id;level;name;effect 1
 7078;109;982;10;Divine Blessing +4;
 7079;109;982;10;True Orc;
 7081;109;987;1;Mind over hand;
-7080;109;987;1;Monk abilities; shim soo;
+7080;109;987;1;Monk abilities, shim soo;
 7082;109;987;2;Ki strike (lawful);
 7084;109;987;3;Reverse hand;
 7083;109;987;3;Kal soo;

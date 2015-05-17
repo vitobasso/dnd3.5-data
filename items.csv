@@ -1,4 +1,4 @@
-id;rulebook_id;page;name;name_pt;slot;price_gp;weight;feat_requirement;weapon_type;damage;critical;damage_type;range;ac;max_dex;check_penalty;arcane_failure;speed;effect 1;effect 2;effect 3;effect 4;effect 5
+id;rulebook_id;page;name;name_pt;slot;price_gp;weight;feat_requirement;weapon_type;damage;critical;damage_type;range;ac;max_dex;check_penalty;arcane_failure;speed;effect_1;effect_2;effect_3;effect_4;effect_5
 96;4;221;Absorbing Shield;;Armor or shield;50170;15.0;;;;;;;;;;;;;;;;
 104;4;246;Amulet of Health +2;;Throat;4000;;;;;;;;;;;;;;;;;
 105;4;246;Amulet of Health +4;;Throat;16000;;;;;;;;;;;;;;;;;
