@@ -51,7 +51,7 @@ id;rulebook_id;page;name;name_pt;effect_1;effect_2
 560;6;93;Deflect Arrows;Desviar Objetos;;
 571;6;93;Deft Hands;Mãos Leves;SKILL(Sleight of hand) 2;SKILL(Use rope) 2
 610;6;93;Diehard;Duro de Matar;;
-612;6;93;Diligent;Diligente;SKILL(Appraise) 2;SKILL(Decipher) 2
+612;6;93;Diligent;Diligente;SKILL(Appraise) 2;SKILL(Decipher script) 2
 681;6;93;Dodge;Esquiva;;
 848;6;93;Empower Spell;Potencializar Magia;;
 863;6;93;Endurance;Tolerância;;
