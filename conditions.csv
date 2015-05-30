@@ -1,0 +1,42 @@
+id;predicate;name;name_pt;parent;note
+38;using;attack type;;;dummy group
+1;using;melee;corpo-a-corpo;38;
+2;using;ranged;à distância;38;
+3;using;thrown weapons;armas de arremesso;2;
+4;using;sling;funda;2;
+5;when;not moving;parado;;
+39;against;attack type;;;dummy group
+40;against;melee;corpo-a-corpo;39;
+41;against;ranged;à distância;39;
+37;against;status effect;;;
+6;against;poison;veneno;37;
+7;against;disease;doença;37;
+8;against;fear;medo;37;
+9;against;sleep;sono;37;
+10;against;aging;idade;37;
+11;against;spell;mágica;;
+12;against;enchantment;encantamento;11;
+13;against;illusion;ilusão;11;
+14;against;burst;explosão;;
+36;against;creature;;;dummy group
+15;against;aberration;aberração;36;
+16;against;animal;animal;36;
+17;against;construct;constructo;36;
+18;against;dragon;dragão;36;
+19;against;elemental;elemental;36;
+20;against;fey;fada;36;
+21;against;giant;gigante;36;
+22;against;humanoid;humanoide;36;
+23;against;magical beast;besta mágica;36;
+24;against;monstrous humanoid;humanóide monstruoso;36;
+25;against;ooze;limo;36;
+26;against;outsider;extraplanar;36;
+27;against;plant;planta;36;
+28;against;undead;morto-vivo;36;
+29;against;vermin;verme;36;
+30;against;kobold;kobold;22;
+31;against;goblinoid;goblinóide;22;
+32;against;goblin;goblin;31;
+33;against;orc;orc;22;
+34;related to;stone;pedra;;
+35;related to;metal;metal;;
