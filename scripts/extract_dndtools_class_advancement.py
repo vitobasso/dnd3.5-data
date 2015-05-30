@@ -6,8 +6,6 @@ The source csv is obtained by
     3. export as csv
 '''
 
-__author__ = 'Victor'
-
 import csv
 import re
 
@@ -147,6 +145,9 @@ def convertCsv(inFile, classFile, traitFile):
         print('failed one line:', failCount['oneLine'], 'many lines:', failCount['manyLines'])
 
 
-indir = '../../references/dnd database/csv/'
-outdir = '../../app/src/main/assets/data/csv/'
-convertCsv(indir + 'classes_original.csv', outdir + 'classes.csv', outdir + 'class_traits.csv')
+in_dir = '../references/csv/'
+out_dir = in_dir
+in_file = in_dir + 'classes_original.csv'
+out_class_file = out_dir + 'classes.csv'
+out_traits_file = out_dir + 'class_traits.csv'
+convertCsv(in_file, out_class_file, out_traits_file)

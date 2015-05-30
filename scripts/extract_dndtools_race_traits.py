@@ -6,8 +6,6 @@ The source csv is obtained by
     3. export as csv
 '''
 
-__author__ = 'Victor'
-
 import csv
 import re
 
@@ -74,7 +72,7 @@ def convertCsv(inFile, traitFile):
             writeTraitsForRace(traitsWriter, row, traits)
 
 
-in_dir = '../dnd database/csv/'
+in_dir = '../references/csv/'
 out_dir = in_dir
 in_file = in_dir + 'races_original.csv'
 out_file = out_dir + 'race_traits.csv'
