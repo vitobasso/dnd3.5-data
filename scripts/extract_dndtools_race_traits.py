@@ -9,6 +9,15 @@ The source csv is obtained by
 import csv
 import re
 
+from csv_commons import dialect
+from csv_commons import encoding
+
+
+in_dir = '../references/csv/'
+out_dir = in_dir
+in_file = in_dir + 'races_original.csv'
+out_file = out_dir + 'race_traits.csv'
+
 clean_regex = r'()|(Ã¯Â¿Â½)'
 clean_pattern = re.compile(clean_regex)
 
@@ -58,22 +67,18 @@ def writeTraitsForRace(writer, raceRow, traits):
 
 def createTraitsWriter(outf):
     headers = ['id', 'rulebook_id', 'race_id', 'name']
-    writer = csv.DictWriter(outf, headers, delimiter=';', quotechar='"', lineterminator='\n')
+    writer = csv.DictWriter(outf, headers, dialect=dialect)
     writer.writeheader()
     return writer
 
 
 def convertCsv(inFile, traitFile):
-    with open(inFile, 'r') as inf, open(traitFile, 'w+') as traitf:
-        reader = csv.DictReader(inf, delimiter=';', quotechar='"')
+    with open(inFile, 'r', encoding=encoding) as inf, open(traitFile, 'w+', encoding=encoding) as traitf:
+        reader = csv.DictReader(inf, dialect=dialect)
         traitsWriter = createTraitsWriter(traitf)
         for row in reader:
             traits = read_row(row)
             writeTraitsForRace(traitsWriter, row, traits)
 
 
-in_dir = '../references/csv/'
-out_dir = in_dir
-in_file = in_dir + 'races_original.csv'
-out_file = out_dir + 'race_traits.csv'
 convertCsv(in_file, out_file)

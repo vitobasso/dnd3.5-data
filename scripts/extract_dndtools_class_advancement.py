@@ -9,6 +9,16 @@ The source csv is obtained by
 import csv
 import re
 
+from csv_commons import dialect
+from csv_commons import encoding
+
+
+in_dir = '../references/csv/'
+out_dir = in_dir
+in_file = in_dir + 'classes_original.csv'
+out_class_file = out_dir + 'classes.csv'
+out_traits_file = out_dir + 'class_traits.csv'
+
 cleanRegex = r'_\\.*|^"? *\| *| *\| *"?$| *-- *(?=\|)|_\. *|(?<=\d)st (?=\|)|(?<=\d)nd (?=\|)|(?<=\d)rd (?=\|)|(?<=\d)th (?=\|)|(?<=\|) \+|(/\+\d*)+ *|(?<=\|) *| *(?=\|)' #133
 # cleanRegex = r'_\\.*|^"? *\| *| *\| *_?\.?"?$| *-- *(?=\|)|_\. *|(?<=\d)st (?=\|)|(?<=\d)nd (?=\|)|(?<=\d)rd (?=\|)|(?<=\d)th (?=\|)|(?<=\|) \+|(/\+\d*)+ *|(?<=\|) *| *(?=\|)' #133
 # cleanRegex = r'^"? *\| *| *\| *"?$| *-- *(?=\|)|_\. *|(?<=\d)st *(?=\|)|(?<=\d)nd *(?=\|)|(?<=\d)rd *(?=\|)|(?<=\d)th *(?=\|)|(?<=\|) \+|(/\+\d*)+ *|(?<=\|) *| *(?=\|)|_\\.*$' #133
@@ -86,7 +96,7 @@ def createClassHeaders(oldHeaders):
 
 def createClassWriter(outf, oldHeaders):
     newHeaders = createClassHeaders(oldHeaders)
-    writer = csv.DictWriter(outf, newHeaders, delimiter=';', quotechar='"', lineterminator='\n')
+    writer = csv.DictWriter(outf, newHeaders, dialect=dialect)
     writer.writeheader()
     return writer
 
@@ -101,7 +111,7 @@ def writeClassRow(writer, row, model):
 
 def createTraitsWriter(outf):
     headers = ['id', 'rulebook_id', 'class_id', 'level', 'name']
-    writer = csv.DictWriter(outf, headers, delimiter=';', quotechar='"', lineterminator='\n')
+    writer = csv.DictWriter(outf, headers, dialect=dialect)
     writer.writeheader()
     return writer
 
@@ -132,8 +142,8 @@ def countFails(failCount, rowFails):
 
 
 def convertCsv(inFile, classFile, traitFile):
-    with open(inFile, 'r') as inf, open(classFile, 'w') as classf, open(traitFile, 'w') as traitf:
-        reader = csv.DictReader(inf, delimiter=';', quotechar='"')
+    with open(inFile, 'r', encoding) as inf, open(classFile, 'w', encoding) as classf, open(traitFile, 'w', encoding) as traitf:
+        reader = csv.DictReader(inf, dialect=dialect)
         classWriter = createClassWriter(classf, reader.fieldnames)
         traitsWriter = createTraitsWriter(traitf)
         failCount = dict(oneLine=0, manyLines=0)
@@ -145,9 +155,4 @@ def convertCsv(inFile, classFile, traitFile):
         print('failed one line:', failCount['oneLine'], 'many lines:', failCount['manyLines'])
 
 
-in_dir = '../references/csv/'
-out_dir = in_dir
-in_file = in_dir + 'classes_original.csv'
-out_class_file = out_dir + 'classes.csv'
-out_traits_file = out_dir + 'class_traits.csv'
 convertCsv(in_file, out_class_file, out_traits_file)
