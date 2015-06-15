@@ -1,9 +1,8 @@
-id;dnd_edition_id;name;name_pt;abbr;year
+id;edition_id;name;name_pt;abbr;year
 4;1;Dungeon Master's Guide 3.5;Livro do Mestre 3.5;DMG;2003
 5;1;Monster Manual 3.5;Livro dos Monstros 3.5;MM;2003
 6;1;Player's Handbook 3.5;Livro do Jogador 3.5;PH;2000
-107;1;Monster Manual;;MM;2000
-108;1;Web;;Web;
+108;11;Web;;Web;
 7;3;Dragonmarked;;Dra;2006
 8;3;Faiths of Eberron;;FE;
 9;3;Magic of Eberron;;MoE;
