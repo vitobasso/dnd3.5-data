@@ -1,7 +1,7 @@
 id;edition_id;name;name_pt;abbr;year
-4;1;Dungeon Master's Guide 3.5;Livro do Mestre 3.5;DMG;2003
-5;1;Monster Manual 3.5;Livro dos Monstros 3.5;MM;2003
-6;1;Player's Handbook 3.5;Livro do Jogador 3.5;PH;2000
+4;1;Dungeon Master's Guide;Livro do Mestre;DMG;2003
+5;1;Monster Manual;Livro dos Monstros;MM;2003
+6;1;Player's Handbook;Livro do Jogador;PH;2000
 108;11;Web;;Web;
 7;3;Dragonmarked;;Dra;2006
 8;3;Faiths of Eberron;;FE;
@@ -96,7 +96,7 @@ id;edition_id;name;name_pt;abbr;year
 42;7;Fiend Folio;;FF;2003
 43;7;Manual of the Planes;;MP;2001
 44;7;Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers;Mestres Selvagens;MW;2002
-46;7;Psionics Handbook 3.0;;PsH3_;2001
+46;7;Psionics Handbook;;PsH3_;2001
 47;7;Savage Species;;SS;2003
 48;7;Song and Silence: A Guidebook to Bards and Rogues;Canção e Silêncio;SaS;2001
 49;7;Stronghold Builder's Guidebook;;SB;2002
@@ -107,4 +107,4 @@ id;edition_id;name;name_pt;abbr;year
 111;7;Feats;;Feats;2003
 96;8;Oriental Adventures;Aventuras Orientais;OA;2001
 98;9;Dragonlance Campaign Setting;;DCS;
-106;10;Player's Handbook 3.0;Livro do Jogador 3.0;PHB;2000
+106;10;Player's Handbook;Livro do Jogador;PHB;2000
